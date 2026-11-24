@@ -1,0 +1,131 @@
+Resolução CGSN nº 30, de 7 de fevereiro de 2008
+Publicado(a) no DOU de 11/02/2008, página 23
+Visão: multivigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32316
+
+[Alterado(a) pelo(a) Resolução CGSN nº 32, de 17 de março de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 40, de 1º de setembro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+Dispõe sobre os procedimentos de fiscalização, lançamento e contencioso administrativo relativos ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).
+O Comitê Gestor do Simples Nacional (CGSN), no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007 e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+DISPOSIÇÕES PRELIMINARES
+Art. 1º Esta Resolução regulamenta os procedimentos de fiscalização, lançamento e contencioso administrativo dos tributos devidos pela Microempresa (ME) ou Empresa de Pequeno Porte (EPP) optante pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições (Simples Nacional).
+FISCALIZAÇÃO DO SIMPLES NACIONAL
+Art. 2º A competência para fiscalizar o cumprimento das obrigações principais e acessórias relativas ao Simples Nacional é da Secretaria da Receita Federal do Brasil (RFB) e das Secretarias de Fazenda ou de Finanças do Estado ou do Distrito Federal, segundo a localização do estabelecimento, e, tratando-se de prestação de serviços incluídos na competência tributária municipal, a competência será também do respectivo Município.
+§ 1° A competência para fiscalizar de que trata o caput abrangerá todos os estabelecimentos da ME e da EPP, observado o disposto no § 3°.
+§ 2° No exercício da competência tributária municipal de que trata o caput, a ação fiscal abrangerá todos os demais estabelecimentos da ME ou da EPP, independentemente das atividades por eles exercidas, observado o disposto no § 3°.
+§ 3° Na hipótese de realização, por Secretaria de Fazenda ou de Finanças de Estado, do Distrito Federal ou de Município, de ação fiscal em contribuinte com estabelecimento fora do âmbito de competência do ente federativo, este deverá comunicá-la à administração tributária do outro ente federativo para que, havendo interesse, se integre à ação fiscal.
+§ 4º A comunicação de que trata o § 3° dar-se-á preferencialmente por meio eletrônico, no prazo mínimo de 10 (dez) dias antes do início da ação fiscal.
+§ 5º As Secretarias de Fazenda ou de Finanças dos Estados poderão celebrar convênio com os Municípios de sua jurisdição para atribuir a estes a fiscalização a que se refere o caput.
+§ 6º A competência para fiscalizar de que trata este artigo poderá ser plenamente exercida pelos entes federativos, de forma individual ou simultânea, inclusive de forma integrada, mesmo para períodos já fiscalizados.
+§ 7º Na hipótese de ação fiscal simultânea, a autoridade fiscal deverá tomar conhecimento das ações fiscais em andamento, de forma a evitar duplicidade de lançamentos referentes ao mesmo período e fato gerador.
+§ 8º Na hipótese do § 5° e de ação fiscal relativa a períodos já fiscalizados, a autoridade fiscal deverá tomar conhecimento das ações já realizadas, dos valores já lançados e das informações contidas no sistema eletrônico a que se refere o art. 5º, observando-se as limitações práticas e legais dos procedimentos fiscalizatórios.
+§ 9º As autoridades fiscais não ficarão limitadas à fiscalização dos tributos instituídos pelo próprio ente federativo fiscalizador, estendendo-se sua competência a todos os tributos abrangidos pelo Simples Nacional.
+Art. 3º A seleção, preparo e programação da ação fiscal serão realizadas de acordo com os critérios e diretrizes das administrações tributárias de cada ente federativo, no âmbito de suas respectivas competências.
+Sistema eletrônico único de fiscalização
+Art. 4º As ações fiscais abertas pelos entes federativos em seus respectivos sistemas de controle deverão ser registradas no sistema eletrônico único a que se refere o art. 5º.
+§ 1º O sistema eletrônico único conterá relatório gerencial com informações das ações fiscais em determinado período.
+§ 2º O mesmo ente federativo que abrir a ação fiscal deverá encerrá-la.
+§ 3° Cada ente federativo adotará o prazo previsto em sua respectiva legislação para encerramento da ação fiscal.
+Art. 5º As ações fiscais serão registradas em sistema eletrônico único, disponibilizado no Portal do Simples Nacional, com acesso pelos entes federativos, devendo conter, no mínimo:
+I - data de início;
+II - abrangência:
+a) período fiscalizado;
+b) estabelecimentos;
+III - informações sobre:
+a) planejamento da ação fiscal, a critério de cada ente federativo;
+b) fato que caracterize embaraço ou resistência à fiscalização;
+c) indício de que o contribuinte esteja praticando, em tese, crime contra a ordem tributária;
+d) fato que implique hipótese de exclusão de ofício do Simples Nacional, nos termos da Resolução CGSN nº 15, de 23 de julho de 2007;
+IV - prazo de duração e eventuais prorrogações;
+V - resultado, inclusive com indicação do valor do crédito tributário apurado, quando houver;
+VI - data de encerramento.
+Parágrafo único. A autoridade fiscal deverá registrar o início da ação fiscal no prazo de até 7 (sete) dias.
+Auto de infração e notificação fiscal
+Art. 6º Verificada infração à legislação tributária por ME ou EPP optante pelo Simples Nacional, deverá ser lavrado Auto de Infração e Notificação Fiscal (AINF), emitido por meio do sistema eletrônico a que se refere o art. 5º.
+§ 1º O AINF é o documento único de autuação, a ser utilizado por todos os entes federativos, em relação ao inadimplemento das obrigações tributárias previstas na legislação do Simples Nacional.
+§ 1º O AINF é o documento único de autuação, a ser utilizado por todos os entes federativos, em relação ao inadimplemento da obrigação principal prevista na legislação do Simples Nacional. [Redação dada pelo(a) Resolução CGSN nº 32, de 17 de março de 2008]
+§ 2º No caso de descumprimento de obrigações acessórias não previstas na Lei Complementar nº 123, de 2006, deverão ser utilizados os documentos de autuação e lançamento fiscal específicos de cada ente federativo.
+§ 2º No caso de descumprimento de obrigações acessórias deverão ser utilizados os documentos de autuação e lançamento fiscal específicos de cada ente federativo. [Redação dada pelo(a) Resolução CGSN nº 32, de 17 de março de 2008]
+§ 3° A ação fiscal relativa ao Simples Nacional poderá ser realizada por estabelecimento, porém o AINF deverá ser lavrado sempre com o CNPJ da matriz, observado o disposto no art. 2°.
+§ 4° Para a apuração do crédito tributário, deverão ser consideradas as receitas de todos os estabelecimentos da ME ou EPP, ainda que a ação fiscal seja realizada por estabelecimento.
+§ 5º O processo administrativo fiscal aplicável às ME e EPP optantes pelo Simples Nacional será de competência do ente federativo que lavrar o AINF, observados os respectivos dispositivos legais.
+§ 6º A competência para autuação por descumprimento de obrigação acessória é privativa da administração tributária perante a qual a obrigação deveria ter sido cumprida.
+§ 7º A receita decorrente das autuações por descumprimento de obrigação acessória será destinada ao ente federativo responsável pela autuação.
+Art. 7º O AINF será lavrado em 2 (duas) vias e deverá conter:
+I - data, hora e local da lavratura;
+II - identificação do autuado;
+III - identificação do responsável solidário, quando cabível;
+IV - período autuado;
+V - descrição do fato;
+VI - o dispositivo legal infringido e a penalidade aplicável;
+VII - a determinação da exigência e a intimação para cumpri-la ou impugná-la, no prazo fixado na legislação do ente federativo;
+VIII - demonstrativo de cálculo dos tributos e multas devidos;
+IX - identificação do autuante;
+X - hipóteses de redução de penalidades.
+Parágrafo único. O documento de que trata o caput deverá contemplar todos os tributos abrangidos pelo Simples Nacional.
+Art. 8º O valor apurado no AINF deverá ser pago por meio do Documento de Arrecadação do Simples Nacional (DAS), utilizando-se de aplicativo disponível no Portal do Simples Nacional.
+Parágrafo único. O disposto no caput não se aplica à hipótese prevista no § 2° do art. 6°, caso em que deverá ser utilizado o documento de arrecadação específico do ente federativo que promover a autuação e lançamento fiscal, sujeitando-se o pagamento às normas previstas em sua respectiva legislação.
+Omissão de receita
+Art. 9º Aplicam-se à ME e à EPP optantes pelo Simples Nacional todas as presunções de omissão de receita existentes nas legislações de regência dos tributos incluídos no Simples Nacional.
+Parágrafo único. A existência de tributação prévia por estimativa, estabelecida em legislação do ente federativo não desobrigará: [Renumerado(a) pelo(a) Resolução CGSN nº 40, de 1º de setembro de 2008]
+§ 1º. A existência de tributação prévia por estimativa, estabelecida em legislação do ente federativo não desobrigará:
+I - da apuração da base de cálculo real efetuada pelo contribuinte ou pelas administrações tributárias;
+II - da emissão de documento fiscal, previsto no art. 2º da Resolução CGSN nº 10, de 28 de junho de 2007.
+§ 2º Não serão observadas as disposições da Resolução CGSN nº 5, de 30 de maio de 2007, nas hipóteses em que o lançamento do ICMS decorra de constatação de aquisição, manutenção ou saídas de mercadorias ou de prestação de serviços sem documento fiscal ou com documento fiscal inidôneo, nas atividades que envolvam fiscalização de trânsito e similares, casos em que os tributos devidos serão exigidos observada a legislação aplicável às demais pessoas jurídicas, consoante disposto nas alíneas "e" e "f" do inciso XIII do § 1º do art. 13 da Lei Complementar nº 123, de 14 de dezembro de 2006. [Incluído(a) pelo(a) Resolução CGSN nº 40, de 1º de setembro de 2008]
+Art. 10. No caso em que a ME ou a EPP optante pelo Simples Nacional exerça atividades incluídas no campo de incidência do ICMS e do ISS e seja apurada omissão de receita de que não se consiga identificar a origem, a autuação será feita utilizando a maior das alíquotas relativas à faixa de receita bruta de enquadramento do contribuinte, dentre as tabelas aplicáveis às respectivas atividades.
+§ 1º Na hipótese de as alíquotas das tabelas aplicáveis serem iguais, será utilizada a tabela que tiver a maior alíquota na última faixa, para definir a alíquota a que se refere o caput.
+§ 2º A parcela autuada que não seja correspondente aos tributos federais será rateada entre Estados, Distrito Federal e Municípios na proporção dos percentuais de ICMS e ISS relativos à faixa de receita bruta de enquadramento do contribuinte, dentre as tabelas aplicáveis.
+CONTENCIOSO ADMINISTRATIVO
+Art. 11. O contencioso administrativo relativo ao Simples Nacional será de competência do órgão julgador integrante da estrutura administrativa do ente federativo que efetuar o lançamento ou a exclusão de ofício, observados os dispositivos legais atinentes aos processos administrativos fiscais desse ente federativo.
+§ 1º O Município poderá, mediante convênio, transferir a atribuição de julgamento exclusivamente ao respectivo Estado em que se localiza.
+§ 2º Na hipótese referida no art. 10, o julgamento caberá ao Estado ou ao Distrito Federal, ou à Secretaria da Receita Federal do Brasil, caso esta tenha sido a responsável pelo lançamento.
+INSCRIÇÃO EM DÍVIDA ATIVA
+Art. 12. Os valores não pagos, fundados em decisão de que não caibam mais recursos segundo o processo administrativo fiscal do ente federativo que lavrou o AINF, serão encaminhados para inscrição em dívida ativa, na forma regulamentada pelo Comitê Gestor do Simples Nacional.
+Parágrafo único. O valor declarado e não pago, após os procedimentos de cobrança, deverá ser encaminhado diretamente para inscrição em dívida ativa.
+INFRAÇÕES E PENALIDADES
+Art. 13. Constitui infração, para os fins desta Resolução, toda ação ou omissão, voluntária ou involuntária, da ME ou EPP optante que importe em inobservância das normas do Simples Nacional.
+Art. 14. Considera-se também ocorrida infração quando constatada:
+I - omissão de receitas;
+II - diferença de base de cálculo;
+III - insuficiência de recolhimento dos tributos do Simples Nacional.
+Art. 15. Aplicam-se aos tributos devidos pela ME e pela EPP, inscritas no Simples Nacional, as normas relativas aos juros e multa de mora e de ofício previstas para o imposto de renda, inclusive, quando for o caso, em relação ao ICMS e ao ISS.
+§ 1º Aplicam-se aos tributos não incluídos no Simples Nacional as disposições relativas às multas, juros e reduções previstas nas respectivas legislações dos entes federativos.
+§ 2º As penalidades pelo descumprimento de obrigações acessórias são as estabelecidas na legislação de cada ente federativo, exceto para as expressamente previstas nesta Resolução.
+Art. 16. O descumprimento de obrigação principal devida no âmbito do Simples Nacional sujeita o infrator às seguintes multas:
+I - 75% (setenta e cinco por cento) sobre a totalidade ou diferença do tributo não pago ou recolhido (art. 44, I, da Lei nº 9.430, de 27 de dezembro de 1996, com a Redação dada pela Lei no 11.488, de 15 de junho de 2007);
+II - 150% (cento e cinqüenta por cento) sobre a totalidade ou diferença do tributo não pago ou recolhido, nos casos previstos nos artigos 71 (sonegação), 72 (fraude) e 73 (conluio) da Lei nº 4.502, de 30 de novembro de 1964 (art. 44, I e § 1º, da Lei nº 9.430, de 1996, e com a Redação dada pela Lei no 11.488, de 15 de junho de 2007), independentemente de outras penalidades administrativas ou criminais cabíveis;
+III - 112,50% (cento e doze e meio por cento) sobre a totalidade ou diferença do tributo não pago ou recolhido, nos casos de não atendimento pelo sujeito passivo, no prazo marcado, de intimação para prestar esclarecimentos ou para apresentar arquivos ou documentação técnica referentes aos sistemas eletrônicos de processamento de dados utilizados para registrar negócios e atividades econômicas ou financeiras, escriturar livros ou elaborar documentos de natureza contábil ou fiscal (art. 44, I e § 2º, da Lei nº 9.430, de 1996, com a Redação dada pela Lei no 11.488, de 2007;
+IV - 225% (duzentos e vinte e cinco por cento) sobre a totalidade ou diferença do tributo não pago ou recolhido, nos casos previstos nos artigos 71 (sonegação), 72 (fraude) e 73 (conluio) da Lei nº 4.502, de 1964 e caso se trate ainda de não atendimento pelo sujeito passivo, no prazo marcado, de intimação para prestar esclarecimentos ou para apresentar arquivos ou documentação técnica referentes aos sistemas eletrônicos de processamento de dados utilizados para registrar negócios e atividades econômicas ou financeiras, escriturar livros ou elaborar documentos de natureza contábil ou fiscal (art. 44, I e §§ 1º e 2º, da Lei nº 9.430, de 1996, com a Redação dada pela Lei no 11.488, de 2007, independentemente de outras penalidades administrativas ou criminais cabíveis);
+Parágrafo único. Aplicam-se às multas de que tratam os incisos do "caput" deste artigo as seguintes reduções:
+Parágrafo único. Aplicam-se às multas de que tratam os incisos do caput deste artigo as seguintes reduções: [Redação dada pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+I - 50%, na hipótese do contribuinte efetuar o pagamento do débito no prazo legal de impugnação (art. 44, § 3º, da Lei nº 9.430, de 1996, e art. 6º, "caput", da Lei nº 8.218, de 29 de agosto de 1991);
+I - 50% (cinquenta por cento), na hipótese de o contribuinte efetuar o pagamento do débito no prazo de 30 (trinta) dias contados da data em que tiver sido notificado do lançamento (art. 44, § 3º, da Lei nº 9.430, de 1996, e art. 6º, inc. I, da Lei nº 8.218, de 1991, com redação a dada pela Lei nº 11.941, de 2009); [Redação dada pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+II - 30%, na hipótese do contribuinte efetuar o pagamento do débito dentro de 30 dias da decisão de 1ª instância à impugnação tempestiva (art. 44, § 3º, da Lei nº 9.430, de 1996, e art. 6º, parágrafo único, da Lei nº 8.218, de 1991).
+II - 30% (trinta por cento), na hipótese de o contribuinte efetuar o pagamento do débito no prazo de 30 (trinta) dias contados da data em que o sujeito passivo foi notificado da decisão administrativa de 1ª instância à impugnação tempestiva (art. 44, § 3º, da Lei nº 9.430, de 1996, e art. 6º, inc. III, da Lei nº 8.218, de 1991, com a redação dada pela Lei nº 11.941, de 2009); [Redação dada pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+III - 30% (trinta por cento), na hipótese de o contribuinte efetuar o pagamento do débito no prazo de 30 (trinta) dias contados da data em que tiver sido notificado da decisão de recurso de ofício interposto por autoridade julgadora de primeira instância (art. 44, § 3º, da Lei nº 9.430, de 1996, e art. 6º, § 1º, da Lei nº 8.218, de 1991, com a redação dada pela Lei nº 11.941, de 2009). [Incluído(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+Art. 17. A ME ou a EPP que deixar de apresentar a declaração a que se refere o art. 4º da Resolução CGSN nº 10, de 28 de junho de 2007, no prazo fixado, ou que a apresentar com incorreções ou omissões, será intimada a apresentar declaração original, no caso de não-apresentação, ou a prestar esclarecimentos, nos demais casos, no prazo estipulado pela autoridade fiscal, e sujeitar-se-á às seguintes multas:
+I - de 2% (dois por cento) ao mês-calendário ou fração, incidentes sobre o montante dos tributos informados na Declaração Simplificada da Pessoa Jurídica, ainda que integralmente pago, no caso de falta de entrega da declaração ou entrega após o prazo, limitada a 20% (vinte por cento), observado o disposto no § 3o deste artigo;
+II - de R$ 100,00 (cem reais) para cada grupo de 10 (dez) informações incorretas ou omitidas.
+§ 1o Para efeito de aplicação da multa prevista no inciso I do caput deste artigo, será considerado como termo inicial o dia seguinte ao término do prazo originalmente fixado para a entrega da declaração e como termo final a data da efetiva entrega ou, no caso de não-apresentação, da lavratura do auto de infração.
+§ 2o Observado o disposto no § 3o deste artigo, as multas serão reduzidas:
+I - à metade, quando a declaração for apresentada após o prazo, mas antes de qualquer procedimento de ofício;
+II - a 75% (setenta e cinco por cento), se houver a apresentação da declaração no prazo fixado em intimação.
+§ 3o A multa mínima a ser aplicada será de R$ 500,00 (quinhentos reais).
+§ 3º-A A multa mínima a ser aplicada ao Microempreendedor Individual na vigência da opção pelo SIMEI será de R$ 50,00 (cinquenta reais). [Incluído(a) pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+§ 4o Considerar-se-á não entregue a declaração que não atender às especificações técnicas estabelecidas pelo Comitê Gestor do Simples Nacional (CGSN).
+§ 5o Na hipótese do § 4o deste artigo, a ME ou a EPP será intimada a apresentar nova declaração, no prazo de 10 (dez) dias, contados da ciência da intimação, e sujeitar-se-á à multa prevista no inciso I do caput deste artigo, observado o disposto nos §§ 1o a 3o deste artigo.
+Art. 18. A falta de comunicação, quando obrigatória, da exclusão da ME ou EPP do Simples Nacional, nos termos do art. 3º da Resolução CGSN nº 15, de 23 de julho de 2007, sujeitará a ME ou EPP a multa correspondente a 10% (dez por cento) do total dos impostos e contribuições devidos de conformidade com o Simples Nacional no mês que anteceder o início dos efeitos da exclusão, não inferior a R$ 500,00 (quinhentos reais), insusceptível de redução.
+Art. 18-A A falta de comunicação, quando obrigatória, do desenquadramento do Microempreendedor Individual do SIMEI nos prazos determinados no § 2º do art. 3º da Resolução CGSN nº 58, de 27 de abril de 2009, sujeitará o contribuinte a multa no valor de R$ 50,00 (cinquenta reais), insusceptível de redução. [Incluído(a) pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Art. 19. Enquanto não disponibilizado o sistema eletrônico único previsto nesta Resolução, deverão ser utilizados os procedimentos fiscais previstos na legislação de cada ente federativo.
+§ 1º A ação fiscal e o lançamento serão realizados tão-somente em relação aos tributos de competência de cada ente federativo.
+§ 2º Na hipótese do § 1°, a apuração do crédito tributário deverá observar as disposições da Resolução CGSN nº 5, de 30 de maio de 2007.
+§ 3º Deverão ser utilizados os documentos de autuação e lançamento fiscal específicos de cada ente federativo, na hipótese de descumprimento das obrigações principais e acessórias, previstas na Lei Complementar nº 123, de 2006.
+§ 3º Deverão ser utilizados os documentos de autuação e lançamento fiscal específicos de cada ente federativo, na hipótese de descumprimento das obrigações principal e acessórias. [Redação dada pelo(a) Resolução CGSN nº 32, de 17 de março de 2008]
+§ 4º O valor apurado na ação fiscal deverá ser pago por meio de documento de arrecadação de cada ente federativo.
+§ 5º O documento de autuação e lançamento fiscal poderá também ser lavrado somente em relação ao estabelecimento objeto da ação fiscal.
+§ 6º Aplica-se a este artigo o disposto nos arts. 15 e 16.
+Art. 20. Esta Resolução entra em vigor na data de sua publicação.
+JORGE ANTONIO DEHER RACHID Presidente do Comitê

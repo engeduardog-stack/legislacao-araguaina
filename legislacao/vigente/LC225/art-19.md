@@ -1,0 +1,26 @@
+---
+norma: LC 225/2026 (devedor contumaz)
+sigla: LC225
+artigo: "19"
+paginas_pdf: "9-9"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 19. O Confia é um programa de conformidade tributária de adesão voluntária, que visa incentivar o
+cumprimento das obrigações tributárias e aduaneiras por meio da construção de relacionamento cooperativo entre a RFB
+e os contribuintes participantes.    Vigência
+Parágrafo único. Poderão aderir ao Confia as pessoas jurídicas que:
+I - possuam estrutura de governança corporativa tributária, definida como o sistema adotado pelas organizações
+para planejar, dirigir, monitorar e incentivar o cumprimento das obrigações tributárias e aduaneiras, principais e
+acessórias;
+II - possuam sistema de gestão de conformidade tributária, caracterizado pela existência de documentação
+relativa:
+a) à política fiscal aprovada pelos gestores da empresa, com a descrição do modo adotado pela organização na
+identificação e no gerenciamento da obrigação tributária;
+b) aos procedimentos preparatórios de suas obrigações tributárias acessórias; e
+c) aos procedimentos adotados para testar e validar a eficácia operacional da estrutura de controles internos
+relacionada ao cumprimento das obrigações tributárias; e
+III - atendam aos critérios de que trata o art. 27 desta Lei Complementar.
+Subseção II
+Dos Princípios

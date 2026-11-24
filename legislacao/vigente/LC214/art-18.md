@@ -1,0 +1,14 @@
+---
+norma: LC 214/2025 (IBS e CBS)
+sigla: LC214
+artigo: "18"
+paginas_pdf: "11-11"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 18. As alíquotas de referência serão fixadas por resolução do Senado Federal:
+I - para a CBS, de 2027 a 2035, nos termos dos arts. 353 a 359, 366, 368 e 369 desta Lei
+Complementar;
+II - para o IBS, de 2029 a 2035, nos termos dos arts. 361 a 366 e 369 desta Lei Complementar;
+III - para o IBS e a CBS, após 2035, as vigentes no ano anterior.

@@ -1,0 +1,65 @@
+Resolução CGSN nº 122, de 27 de agosto de 2015
+Publicado(a) no DOU de 01/09/2015, seção 1, página 11
+Visão: vigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/67446
+
+Altera a Resolução CGSN nº 94, de 29 de novembro de 2011, que dispõe sobre o Simples Nacional e dá outras providências.
+O COMITÊ GESTOR DO SIMPLES NACIONAL, no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º Os arts. 2º, 3º, 15, 25-A, 72 e 103 da Resolução CGSN nº 94, de 29 de novembro de 2011, passam a vigorar com a seguinte redação:
+“Art. 2º.....................................................................................
+.................................................................................................
+§ 4º A venda de bens do ativo imobilizado não compõe a receita bruta de que trata este artigo. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, § 1º; art. 18, § 4º, inciso I)
+§ 5º Consideram-se bens do ativo imobilizado, ativos tangíveis que: (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; Resolução CFC nº 1.285, de 18 de junho de 2010)
+I – sejam disponibilizados para uso na produção ou fornecimento de bens ou serviços, ou para locação por outros, para investimento, ou para fins administrativos; e
+II – sua desincorporação ocorra somente a partir do segundo ano de sua respectiva entrada.
+§ 6º Os juros moratórios, multas e quaisquer outros encargos auferidos em decorrência do atraso no pagamento de vendas a prazo não compõem a receita bruta de que trata este artigo. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, § 1º)
+§ 7º O custo do financiamento nas vendas a prazo, contido no valor dos bens ou serviços ou destacado no documento fiscal, compõe a receita bruta de que trata este artigo. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, § 1º)
+§ 8º As gorjetas compõem a receita bruta de que trata este artigo. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, § 1º)” (NR)
+“Art. 3º ....................................................................................
+§ 1º Se a receita bruta acumulada no ano-calendário de início de atividade, no mercado interno ou em exportação para o exterior, for superior a R$ 300.000,00 (trezentos mil reais), multiplicados pelo número de meses desse período, a empresa estará excluída do Simples Nacional, devendo pagar a totalidade ou a diferença dos respectivos tributos devidos de conformidade com as normas gerais de incidência, com efeitos retroativos ao início de atividade, ressalvado o disposto no § 2º. (Lei Complementar nº 123, de 2006, art. 3º, § 10)
+......................................................................................” (NR)
+“Art. 15 ...................................................................................
+.................................................................................................
+§ 7º Não compõem a receita bruta do ano-calendário imediatamente anterior ao da opção pelo Simples Nacional, para efeitos do disposto no inciso I do caput deste artigo, os valores cobrados a título de: (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, §§ 1º e 16)
+I - IPI;
+II - ICMS retido por substituição tributária.” (NR)
+“Art. 25-A ................................................…...........................
+§ 1º ..........................................................................................
+.................................................................................................
+IX - prestação do serviço de escritórios de serviços contábeis, que serão tributados na forma do Anexo III, desconsiderando-se o percentual relativo ao ISS, quando o imposto for fixado pela legislação municipal e recolhido diretamente ao Município em valor fixo nos termos do art. 34, observado o disposto no § 8º do art. 6º e no § 11 deste artigo; (Lei Complementar nº 123, de 2006, art. 18, § 5º-B, inciso XIV, § 22-A)
+......................................................................................” (NR)
+“Art. 72 ...................................................................................
+I - entrega da Guia de Recolhimento do Fundo de Garantia do Tempo de Serviço e Informações à Previdência Social - GFIP, bem como o recolhimento do FGTS, ou de declarações relativas ao Sistema de Escrituração Digital das Obrigações Fiscais, Previdenciárias e Trabalhistas (eSocial):
+a) até 31 de dezembro de 2015, para empresas com mais de 10 (dez) empregados;
+b) a partir de 1º de janeiro de 2016, para empresas com mais de 8 (oito) empregados;
+c) a partir de 1º de julho de 2016, para empresas com mais de 5 (cinco) empregados;
+II - emissão de documento fiscal eletrônico, quando a obrigatoriedade estiver prevista em norma do Conselho Nacional de Política Fazendária (Confaz) ou na legislação municipal;
+III - prestação de informações relativas ao ICMS de que trata o § 12 do art. 26 da Lei Complementar nº 123, de 2006, desde que a ME ou EPP esteja obrigada ao uso de documento fiscal eletrônico na forma do inciso II.
+.................................................................................................
+§ 2º Revogado.” (NR)
+“Art. 103 .................................................................................
+Parágrafo único. Na hipótese de o empresário individual exceder a receita bruta anual de que trata o art. 91, a perda do tratamento diferenciado previsto no art. 97 ocorrerá: (Lei Complementar nº 123, de 2006, art. 18-A, § 16)” (NR)
+Art. 2º A Seção III do Capítulo II do Título IV da Resolução CGSN nº 94, de 2011, passa a vigorar com a seguinte redação:
+“Seção III
+Das Normas Específicas Aplicáveis a Tributos não Abrangidos pelo Simples Nacional
+Subseção I
+Do Cálculo da CPP não Incluída no Simples Nacional
+Art. 133........................................................…………….......
+.................................................................................................
+Art. 133-A...............................................................................
+.................................................................................................
+Subseção II
+Do Prazo Mínimo de Recolhimento do ICMS Devido por Substituição Tributária, Tributação Concentrada em uma Única Etapa (Monofásica) e por Antecipação Tributária
+Art. 133-B. A partir de 1º de janeiro de 2016, os Estados e o Distrito Federal deverão observar o prazo mínimo de 60 (sessenta) dias, contado a partir do primeiro dia do mês do fato gerador da obrigação tributária, para estabelecer a data de vencimento do ICMS devido por substituição tributária, tributação concentrada em uma única etapa (monofásica) e por antecipação tributária com ou sem encerramento de tributação, nas hipóteses em que a responsabilidade recair sobre operações ou prestações subsequentes. (Lei Complementar nº 123, de 2006, art. 21-B)
+Parágrafo único. O disposto no caput: (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; e art. 21-B)
+I - aplica-se na hipótese de a ME ou EPP optante estar obrigada ao recolhimento do imposto diretamente ao Estado ou ao Distrito Federal, na forma da respectiva legislação, observado o disposto no inciso V do art. 94;
+II - não se aplica:
+a) no caso de a ME ou EPP estar impedida de recolher o ICMS no Simples Nacional nos termos do art. 12;
+b) quando o contribuinte optante se encontrar em situação irregular, conforme definido na legislação da respectiva unidade federada.” (NR)
+Art. 3º Ficam suprimidas do Anexo XIII à Resolução CGSN nº 94, de 2011, as seguintes ocupações:
+[arquivo: Anexo.html]
+Art. 4º Esta Resolução entra em vigor na data de sua publicação.
+Art. 5º Ficam revogados:
+I - o § 2º do art. 72 e o § 2º do art. 82 da Resolução CGSN nº 94, de 2011;
+II - as Resoluções CGSN nº 2, de 25 de abril de 2007, e nº 3, de 28 de maio de 2007.
+JORGE ANTONIO DEHER RACHID Presidente do Comitê

@@ -1,0 +1,16 @@
+---
+norma: LC 214/2025 (IBS e CBS)
+sigla: LC214
+artigo: "15"
+paginas_pdf: "11-11"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 15. A alíquota do IBS incidente sobre cada operação corresponderá:
+I - à soma:
+a) da alíquota do Estado de destino da operação; e
+b) da alíquota do Município de destino da operação; ou
+II - à alíquota do Distrito Federal, quando este for o destino da operação.
+Parágrafo único. Para fins do disposto neste artigo, o destino da operação é o local da
+ocorrência da operação, definido nos termos do art. 11 desta Lei Complementar.

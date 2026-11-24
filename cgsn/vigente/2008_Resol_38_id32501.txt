@@ -1,0 +1,52 @@
+Resolução CGSN nº 38, de 1º de setembro de 2008
+Publicado(a) no DOU de 03/09/2008, página 44
+Visão: vigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32501
+
+[Alterado(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+Dispõe sobre a forma opcional de determinação da base de cálculo para apuração dos impostos e contribuições devidos utilizando a receita recebida pelas Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional.
+O Comitê Gestor do Simples Nacional (CGSN), no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007 e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+DISPOSIÇÃO PRELIMINAR
+Art. 1º Esta Resolução regulamenta a forma opcional de determinação da base de cálculo para apuração dos impostos e contribuições devidos utilizando a receita recebida pelas Microempresas (ME) e Empresas de Pequeno Porte (EPP) optantes pelo Simples Nacional.
+CÁLCULO DOS TRIBUTOS
+Art. 2º A ME e a EPP poderão, opcionalmente, utilizar a receita bruta total recebida no mês - regime de caixa -, em substituição à receita bruta auferida - regime de competência -, de que trata o caput do art. 2º da Resolução CGSN nº 5, de 30 de maio de 2007, exclusivamente para a determinação da base de cálculo mensal.
+§ 1º A opção pela determinação da base de cálculo de que trata o caput será irretratável para todo o ano-calendário e deverá ser realizada, em aplicativo disponibilizado no Portal do Simples Nacional, quando da apuração dos valores devidos relativos ao mês de: [Redação dada pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+I - novembro de cada ano-calendário, com efeitos para o ano-calendário subsequente, na hipótese de ME ou EPP já optante pelo Simples Nacional; [Redação dada pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+II - início dos efeitos da opção pelo Simples Nacional, nas demais hipóteses, com efeitos para o próprio ano-calendário. [Redação dada pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+§ 2º Na hipótese em que a ME ou EPP em início de atividade, com início dos efeitos da opção pelo Simples Nacional no mês de dezembro, a opção de que trata o caput, relativa ao ano-calendário subsequente, deverá ser realizada quando da apuração dos valores devidos relativos ao mês de dezembro. [Redação dada pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+§ 3º Na hipótese de a ME ou a EPP possuir filiais, deverá ser considerado o somatório das receitas recebidas por todos os estabelecimentos.
+§ 4º Para a determinação dos limites e sublimites, nos termos da Resolução CGSN nº 4, de 30 de maio de 2007, bem como da alíquota a ser aplicada sobre a receita bruta recebida no mês, deverá ser utilizada a receita bruta auferida, observado o disposto na Resolução CGSN nº 5, de 2007.
+Art. 3º Nas prestações de serviços ou operações com mercadorias a prazo, a parcela não vencida deverá obrigatoriamente integrar a base de cálculo dos tributos abrangidos pelo Simples Nacional até o último mês do ano-calendário subseqüente àquele em que tenha ocorrido a respectiva prestação de serviço ou operação com mercadorias.
+Art. 4º A receita auferida e ainda não recebida deverá integrar a base de cálculo dos tributos abrangidos pelo Simples Nacional, na hipótese de:
+I - encerramento de atividade, no mês em que ocorrer o evento;
+II - retorno ao regime de competência, no último mês de vigência do regime de caixa;
+III - exclusão do Simples Nacional, no mês anterior ao dos efeitos da exclusão.
+REGISTRO DOS VALORES A RECEBER [Redação dada pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+Art. 5º O optante pelo regime de apuração de receitas de que trata o art. 2º deverá manter registro dos valores a receber, no modelo constante do Anexo Único a esta Resolução, no qual constarão, no mínimo, as seguintes informações, relativas a cada prestação de serviço ou operação com mercadorias a prazo: [Redação dada pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+I - número e data de emissão de cada documento fiscal;
+II - valor da operação ou prestação;
+III - quantidade e valor de cada parcela, bem como a data dos respectivos vencimentos; [Redação dada pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+IV - a data de recebimento e o valor recebido;
+V - saldo a receber;
+VI - créditos considerados não mais cobráveis. [Redação dada pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+§ 1º Na hipótese de haver mais de um documento fiscal referente a uma mesma prestação de serviço ou operação com mercadorias, estas deverão ser registradas conjuntamente.
+§ 2º A adoção do regime de que trata o caput pela ME ou EPP não a desobriga de manter em boa ordem e guarda os documentos e livros previstos da Resolução CGSN nº 10, de 28 de junho de 2007, inclusive com a discriminação completa de toda a sua movimentação financeira e bancária, constante do Livro Caixa.
+§ 3º Fica dispensado o registro na forma deste artigo em relação às prestações e operações realizadas por meio de administradoras de cartões, inclusive de crédito, desde que a ME ou a EPP anexe ao respectivo registro os extratos emitidos pelas administradoras relativos às vendas e aos créditos respectivos. [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+§ 4º Aplica-se o disposto neste artigo para os valores decorrentes das prestações e operações realizadas por meio de cheques: [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+I - quando emitidos para apresentação futura, mesmo quando houver parcela à vista; [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+II - quando emitidos para quitação da venda total, na ocorrência de cheques não honrados. [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+III - não liquidados no próprio mês. [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+§ 5º A ME ou EPP deverá apresentar à administração tributária, quando solicitados, os documentos que comprovem a efetiva cobrança dos créditos previstos no inciso VI do caput. [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+§ 6º São considerados meios de cobrança: [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+I - notificação extrajudicial; [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+II - protesto; [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+III - cobrança judicial; [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+IV - registro do débito em cadastro de proteção ao crédito. [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+Art. 6º Na hipótese de descumprimento do disposto no art. 5º, será desconsiderada, de ofício, a opção pelo regime de apuração de receitas de que trata o art. 2º, para os anos-calendário correspondentes ao período em que tenha ocorrido o descumprimento.
+Parágrafo único. Na hipótese do caput, os tributos abrangidos pelo Simples Nacional deverão ser recalculados pelo regime de competência, sem prejuízo dos acréscimos legais correspondentes.
+DISPOSIÇÃO FINAL
+Art. 7º Fica revogado o § 3º do art. 2º da Resolução CGSN nº 5, de 2007.
+Art. 8º Esta Resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2009.
+LINA MARIA VIEIRA Presidente do Comitê
+[arquivo: tab.htm] [Incluído(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]

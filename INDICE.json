@@ -1,0 +1,1032 @@
+{
+ "gerado_em": "2026-11-23",
+ "itens": [
+  {
+   "arquivo": "legislacao/vigente/ALIQ/",
+   "titulo": "Tabela de alíquotas do ISSQN de Araguaína",
+   "sigla": "ALIQ",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 17,
+   "artigos": 0,
+   "origem": "Tabela - Alíquotas do ISSQN de Araguaína (aplicação em processos fiscais c-c CTM compilado).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/ATM2021/",
+   "titulo": "Decreto 273/2020 (atualização monetária, exercício 2021)",
+   "sigla": "ATM2021",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 24,
+   "artigos": 26,
+   "origem": "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2021\\Decreto Municipal 273-2020 - Atualização monetária de penalidades e taxas (exercício 2021) (DOM 2214).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/ATM2022/",
+   "titulo": "Decreto 101/2021 (atualização monetária, exercício 2022)",
+   "sigla": "ATM2022",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 22,
+   "artigos": 28,
+   "origem": "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2022\\Decreto Municipal 101-2021 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2022) (DOM 2459).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/ATM2023/",
+   "titulo": "Decreto 166/2022 (atualização monetária, exercício 2023)",
+   "sigla": "ATM2023",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 12,
+   "artigos": 7,
+   "origem": "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2023\\Decreto Municipal 166-2022 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2023).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/ATM2024/",
+   "titulo": "Decreto 238/2023 (atualização monetária, exercício 2024)",
+   "sigla": "ATM2024",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 40,
+   "artigos": 97,
+   "origem": "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2024\\DECRETO 238, DE 29 DE DEZEMBRO DE 2023.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/ATM2025/",
+   "titulo": "Decreto 311/2024 (atualização monetária, exercício 2025)",
+   "sigla": "ATM2025",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 45,
+   "artigos": 88,
+   "origem": "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2025\\Decreto Municipal 311-2024 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2025).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/ATM2025R/",
+   "titulo": "Retificação do Decreto 311/2024",
+   "sigla": "ATM2025R",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 1,
+   "artigos": 3,
+   "origem": "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2025\\Retificação do Decreto Municipal 311-2024 - Atualização monetária (exercício 2025) (DOM 3209).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/ATM2026/",
+   "titulo": "Decreto 101/2025 (atualização monetária, exercício 2026)",
+   "sigla": "ATM2026",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 13,
+   "artigos": 7,
+   "origem": "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2026\\DECRETO 101 DE 29 DE DEZEMBRO DE 2025 (ATUALIZAÇÃO MONETARIA).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/CAL2021/",
+   "titulo": "Portaria 006 (calendário fiscal 2021) [PDF em imagem, sem texto]",
+   "sigla": "CAL2021",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 2,
+   "artigos": 0,
+   "origem": "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2021\\Calendário fiscal 2021_Portaria 006_DOM 2224.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/CC/",
+   "titulo": "Código Civil (Lei 10.406/2002)",
+   "sigla": "CC",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 184,
+   "artigos": 2083,
+   "origem": "Lei 10.406-2002 - Código Civil.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/CGSN140/",
+   "titulo": "Resolução CGSN 140/2018 (PDF da pasta; para redação por data use: lei.py cgsn 140 ...)",
+   "sigla": "CGSN140",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 107,
+   "artigos": 190,
+   "origem": "Resolução CGSN 140-2018 - Simples Nacional.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/CNAEANEXO/",
+   "titulo": "Tabela CNAE x Anexo do Simples x fator r",
+   "sigla": "CNAEANEXO",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 24,
+   "artigos": 0,
+   "origem": "Tabela - CNAE x Anexo do Simples Nacional x Fator R x Alíquota.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/CNAELISTA/",
+   "titulo": "Tabela CNAE x item da Lista de Serviços",
+   "sigla": "CNAELISTA",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 13,
+   "artigos": 0,
+   "origem": "Tabela - CNAE x Atividade x Item da Lista de Serviços.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/CTM/",
+   "titulo": "Código Tributário do Município (LCM 058/2017 compilada)",
+   "sigla": "CTM",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 282,
+   "artigos": 564,
+   "origem": "Lei Complementar Municipal 058-2017 - Código Tributário do Município de Araguaína (compilado até LC 221-2025).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/CTN/",
+   "titulo": "Código Tributário Nacional (Lei 5.172/1966)",
+   "sigla": "CTN",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 41,
+   "artigos": 231,
+   "origem": "Lei 5.172-1966 - Código Tributário Nacional (CTN).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DEC037/",
+   "titulo": "Decreto 037/2025 (Domicílio Eletrônico)",
+   "sigla": "DEC037",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 36,
+   "artigos": 92,
+   "origem": "Decreto Municipal 037-2025 - Domicílio Eletrônico do Contribuinte (DEC).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DEC046/",
+   "titulo": "Decreto 046/2017 (NFS-e e cadastro WebISS)",
+   "sigla": "DEC046",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 13,
+   "artigos": 65,
+   "origem": "Regulamentos NFSe_Decreto 46_DOM 1441.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DEC102/",
+   "titulo": "Decreto 102/2026 (movimentação financeira, art. 6º da LC 105/2001)",
+   "sigla": "DEC102",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 3,
+   "artigos": 14,
+   "origem": "Decreto Municipal 102-2026 - Movimentação financeira, art. 6 da LC 105-2001 (DOM 3431, 13-01-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DEC125/",
+   "titulo": "Decreto 125/2026 (devedor contumaz)",
+   "sigla": "DEC125",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 6,
+   "artigos": 8,
+   "origem": "DECRETO 125-2026 - DEVEDOR CONTUMAZ.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DEC165/",
+   "titulo": "Decreto 165/2026 (regulamenta o REDAF)",
+   "sigla": "DEC165",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 5,
+   "artigos": 25,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Decreto Municipal 165-2026 - Regulamenta o REDAF (DOM 3543, 03-07-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DEC219/",
+   "titulo": "Decreto 219/2023 (DES-IF, ISSQN de instituições financeiras)",
+   "sigla": "DEC219",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 5,
+   "artigos": 23,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Decreto Municipal 219-2023 - Declaração eletrônica DES-IF instituições financeiras ISSQN (DOM 2889, 11-10-2023).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DL1598/",
+   "titulo": "Decreto-Lei 1.598/1977 (omissão de receita)",
+   "sigla": "DL1598",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 29,
+   "artigos": 70,
+   "origem": "Decreto-Lei 1.598-1977 - Legislação do Imposto de Renda (omissão de receita).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/IN001/",
+   "titulo": "IN GABSF 001/2018 (substituição tributária)",
+   "sigla": "IN001",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 10,
+   "artigos": 29,
+   "origem": "Substitutas Tributárias\\Instrução Normativa GABSF 001-2018 - Substituição tributária do ISSQN (DOM 1554).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/IN002/",
+   "titulo": "IN GABSF 002/2018 (substituição tributária)",
+   "sigla": "IN002",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 3,
+   "artigos": 5,
+   "origem": "Substitutas Tributárias\\Instrução Normativa GABSF 002-2018 - Substituição tributária do ISSQN (DOM 1579).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/INS001_24/",
+   "titulo": "IN GAB-SEFAZ 001/2024 (prescrição de ofício)",
+   "sigla": "INS001_24",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 4,
+   "artigos": 13,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 001-2024 - Reconhecimento de ofício da prescrição de créditos tributários (DOM 3001, 02-04-2024).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/INS002_24/",
+   "titulo": "IN GAB-SEFAZ 002/2024 (alvará)",
+   "sigla": "INS002_24",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 3,
+   "artigos": 11,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 002-2024 - Alvará de Licença de Localização e Funcionamento (DOM 3175, 11-12-2024).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/INS002_26/",
+   "titulo": "IN GAB-SEFAZ 002/2026 (ITBI)",
+   "sigla": "INS002_26",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 4,
+   "artigos": 16,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 002-2026 - ITBI apuração, lançamento e impugnação (DOM 3488, 09-04-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/INS003_26/",
+   "titulo": "IN GAB-SEFAZ 003/2026 (exclusão de substituto tributário)",
+   "sigla": "INS003_26",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 3,
+   "artigos": 9,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 003-2026 - Exclusão de entidade do rol de substitutos tributários do ISSQN (DOM 3569, 10-08-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/L3480/",
+   "titulo": "Lei 3.480/2024 (Domicílio Eletrônico do Cidadão)",
+   "sigla": "L3480",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 2,
+   "artigos": 15,
+   "origem": "Lei Municipal 3.480-2024 - Domicílio Eletrônico do Cidadão (DEC) (DOM 3176, 12-12-2024).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/L4502/",
+   "titulo": "Lei 4.502/1964 (IPI)",
+   "sigla": "L4502",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 29,
+   "artigos": 21,
+   "origem": "Lei 4.502-1964 - Imposto de Consumo (IPI).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/L4729/",
+   "titulo": "Lei 4.729/1965 (sonegação fiscal)",
+   "sigla": "L4729",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 2,
+   "artigos": 12,
+   "origem": "Lei 4.729-1965 - Crime de Sonegação Fiscal.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/L8218/",
+   "titulo": "Lei 8.218/1991 (arquivos digitais)",
+   "sigla": "L8218",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 9,
+   "artigos": 44,
+   "origem": "Lei 8.218-1991 - Impostos e Contribuições Federais (guarda de arquivos digitais).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LC116/",
+   "titulo": "LC 116/2003 (ISSQN, normas gerais)",
+   "sigla": "LC116",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 15,
+   "artigos": 13,
+   "origem": "Lei Complementar 116-2003 - ISSQN Normas Gerais.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LC123/",
+   "titulo": "LC 123/2006 (Simples Nacional)",
+   "sigla": "LC123",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 114,
+   "artigos": 158,
+   "origem": "Lei Complementar 123-2006 - Estatuto Nacional da ME e EPP (Simples Nacional).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LC214/",
+   "titulo": "LC 214/2025 (IBS e CBS)",
+   "sigla": "LC214",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 232,
+   "artigos": 540,
+   "origem": "LEI COMPLEMENTAR Nº 214, DE 16 DE JANEIRO DE 2025 - LEI COMPLEMENTAR Nº 214, DE 16 DE JANEIRO DE 2025 - DOU - Imprensa Nacional.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LC225/",
+   "titulo": "LC 225/2026 (devedor contumaz)",
+   "sigla": "LC225",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 23,
+   "artigos": 58,
+   "origem": "LEI COMPLEMENTAR Nº 225 DE 8 DE JANEIRO DE 2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LC227/",
+   "titulo": "LC 227/2026 (CGIBS, processo do IBS, ITCMD)",
+   "sigla": "LC227",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 104,
+   "artigos": 210,
+   "origem": "Lei Complementar 227-2026 - CGIBS, Processo Administrativo do IBS e Normas Gerais do ITCMD.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LC236/",
+   "titulo": "LC 236/2026 (alteração do CTN)",
+   "sigla": "LC236",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 11,
+   "artigos": 13,
+   "origem": "LEI COMPLEMENTAR Nº 236, DE 4 DE SETEMBRO DE 2026 - alteração CTN.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM080/",
+   "titulo": "LCM 080/2021 (altera o CTM)",
+   "sigla": "LCM080",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 6,
+   "artigos": 68,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 080-2021 - Altera o CTM, responsabilidade na baixa e descontos IPTU (DOM 2220, 07-01-2021).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM127/",
+   "titulo": "LCM 127/2022 (altera o CTM, escritório virtual)",
+   "sigla": "LCM127",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 4,
+   "artigos": 42,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 127-2022 - Altera o CTM, escritório virtual (DOM 2685, 08-12-2022).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM171/",
+   "titulo": "LCM 171/2024 (altera o CTM e a Lei do IPTU)",
+   "sigla": "LCM171",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 3,
+   "artigos": 15,
+   "origem": "Lei Complementar Municipal 171-2024 - Altera o CTM e a Lei do IPTU (DOM 2995, 21-03-2024).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM187/",
+   "titulo": "LCM 187/2024 (isenções)",
+   "sigla": "LCM187",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 7,
+   "artigos": 18,
+   "origem": "Lei Complementar Municipal 187-2024 - Isenções Tributárias (IPTU, ISSQN e Taxas).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM195/",
+   "titulo": "LCM 195/2024 (altera o CTM; TIAF 15 dias, multas)",
+   "sigla": "LCM195",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 6,
+   "artigos": 52,
+   "origem": "Lei Complementar Municipal 195-2024 - Altera o CTM (DOM 3183, 26-12-2024).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM200/",
+   "titulo": "LCM 200/2025 (autocomposição e transação tributária)",
+   "sigla": "LCM200",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 6,
+   "artigos": 48,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 200-2025 - Autocomposição e transação de créditos tributários (DOM 3254, 14-04-2025).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM217/",
+   "titulo": "LCM 217/2025 (Código de Defesa do Contribuinte)",
+   "sigla": "LCM217",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 5,
+   "artigos": 11,
+   "origem": "Lei Complementar Municipal 217-2025 - Código de Defesa do Contribuinte.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM236/",
+   "titulo": "LCM 236/2026 (REDAF; não é a LC federal 236)",
+   "sigla": "LCM236",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 4,
+   "artigos": 31,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 236-2026 - REDAF Ressarcimento de Despesas de Atividade Fiscal (DOM 3493, 16-04-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM245/",
+   "titulo": "LCM 245/2026 (REFIS, Programa de Regularização Fiscal)",
+   "sigla": "LCM245",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 6,
+   "artigos": 39,
+   "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 245-2026 - REFIS Programa de Regularização Fiscal (DOM 3612, 14-10-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/RIR/",
+   "titulo": "Regulamento do Imposto de Renda (Decreto 9.580/2018)",
+   "sigla": "RIR",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 327,
+   "artigos": 1054,
+   "origem": "Decreto 9.580-2018 - Regulamento do Imposto de Renda (RIR-2018).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/NÃO VIGENTES/Decreto Municipal 088-2021 - Prorroga prazo do PPI (DOM 2433, 25-11-2021).md",
+   "titulo": "Decreto Municipal 088-2021 - Prorroga prazo do PPI (DOM 2433, 25-11-2021)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 3,
+   "paginas_sem_texto": 0,
+   "origem": "NÃO VIGENTES\\DOM ARAGUAÍNA 2021-2026\\Decreto Municipal 088-2021 - Prorroga prazo do PPI (DOM 2433, 25-11-2021).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/NÃO VIGENTES/Decreto Municipal 154-2022 - Reabre prazo do PPI (DOM 2657, 25-10-2022).md",
+   "titulo": "Decreto Municipal 154-2022 - Reabre prazo do PPI (DOM 2657, 25-10-2022)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 3,
+   "paginas_sem_texto": 0,
+   "origem": "NÃO VIGENTES\\DOM ARAGUAÍNA 2021-2026\\Decreto Municipal 154-2022 - Reabre prazo do PPI (DOM 2657, 25-10-2022).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/NÃO VIGENTES/Decreto Municipal 185-2026 - REFIS primeiro período de adesão (DOM 3616, 20-10-2026).md",
+   "titulo": "Decreto Municipal 185-2026 - REFIS primeiro período de adesão (DOM 3616, 20-10-2026)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 5,
+   "paginas_sem_texto": 0,
+   "origem": "NÃO VIGENTES\\DOM ARAGUAÍNA 2021-2026\\Decreto Municipal 185-2026 - REFIS primeiro período de adesão (DOM 3616, 20-10-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/NÃO VIGENTES/Decreto Municipal 297-2024 - Reabre prazo do PPI (DOM 3136, 11-10-2024).md",
+   "titulo": "Decreto Municipal 297-2024 - Reabre prazo do PPI (DOM 3136, 11-10-2024)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 3,
+   "paginas_sem_texto": 0,
+   "origem": "NÃO VIGENTES\\DOM ARAGUAÍNA 2021-2026\\Decreto Municipal 297-2024 - Reabre prazo do PPI (DOM 3136, 11-10-2024).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/NÃO VIGENTES/Instrução Normativa GAB-SEFAZ 001-2025 - ITBI lançamento e impugnação (DOM 3233, 14-03-2025).md",
+   "titulo": "Instrução Normativa GAB-SEFAZ 001-2025 - ITBI lançamento e impugnação (DOM 3233, 14-03-2025)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 5,
+   "paginas_sem_texto": 0,
+   "origem": "NÃO VIGENTES\\DOM ARAGUAÍNA 2021-2026\\Instrução Normativa GAB-SEFAZ 001-2025 - ITBI lançamento e impugnação (DOM 3233, 14-03-2025).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/NÃO VIGENTES/Lei Complementar Municipal 093-2021 - Programa de Parcelamento Incentivado PPI (DOM 2412, 22-10-2021).md",
+   "titulo": "Lei Complementar Municipal 093-2021 - Programa de Parcelamento Incentivado PPI (DOM 2412, 22-10-2021)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 5,
+   "paginas_sem_texto": 0,
+   "origem": "NÃO VIGENTES\\DOM ARAGUAÍNA 2021-2026\\Lei Complementar Municipal 093-2021 - Programa de Parcelamento Incentivado PPI (DOM 2412, 22-10-2021).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/NÃO VIGENTES/Portaria 490-2022 - PPI regulamentação (DOM 2657, 25-10-2022).md",
+   "titulo": "Portaria 490-2022 - PPI regulamentação (DOM 2657, 25-10-2022)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 3,
+   "paginas_sem_texto": 0,
+   "origem": "NÃO VIGENTES\\DOM ARAGUAÍNA 2021-2026\\Portaria 490-2022 - PPI regulamentação (DOM 2657, 25-10-2022).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/CTM - versões antigas/LC 058-2017 - CTM compilado até a LC 134-2022.md",
+   "titulo": "LC 058-2017 - CTM compilado até a LC 134-2022",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 320,
+   "paginas_sem_texto": 0,
+   "origem": "CTM - versões antigas\\LC 058-2017 - CTM compilado até a LC 134-2022.pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/CTM - versões antigas/LC 058-2017 - CTM compilado até a LC 171-2024.md",
+   "titulo": "LC 058-2017 - CTM compilado até a LC 171-2024",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 264,
+   "paginas_sem_texto": 0,
+   "origem": "CTM - versões antigas\\LC 058-2017 - CTM compilado até a LC 171-2024.pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/CTM - versões antigas/LC 058-2017 - CTM compilado até a LC 195-2024.md",
+   "titulo": "LC 058-2017 - CTM compilado até a LC 195-2024",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 274,
+   "paginas_sem_texto": 0,
+   "origem": "CTM - versões antigas\\LC 058-2017 - CTM compilado até a LC 195-2024.pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/CTM - versões antigas/LC 058-2017 - texto original (2017).md",
+   "titulo": "LC 058-2017 - texto original (2017)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 246,
+   "paginas_sem_texto": 0,
+   "origem": "CTM - versões antigas\\LC 058-2017 - texto original (2017).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/Código Tributário anterior (Lei 1.134-1991)/Lei 1.134-1991 - Código Tributário (consolidado até 31-12-2003).md",
+   "titulo": "Lei 1.134-1991 - Código Tributário (consolidado até 31-12-2003)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 138,
+   "paginas_sem_texto": 0,
+   "origem": "Código Tributário anterior (Lei 1.134-1991)\\Lei 1.134-1991 - Código Tributário (consolidado até 31-12-2003).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/ISS autônomo 2014 (escaneado).md",
+   "titulo": "ISS autônomo 2014 (escaneado)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 7,
+   "paginas_sem_texto": 7,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2014\\ISS autônomo 2014 (escaneado).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/ISS autônomo 2015 (escaneado).md",
+   "titulo": "ISS autônomo 2015 (escaneado)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 8,
+   "paginas_sem_texto": 8,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2015\\ISS autônomo 2015 (escaneado).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/Decreto 399-2015 - Atualização monetária 2016 (DOM 989).md",
+   "titulo": "Decreto 399-2015 - Atualização monetária 2016 (DOM 989)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 10,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2016\\Decreto 399-2015 - Atualização monetária 2016 (DOM 989).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/ISS fixo tabelado 2016 - IN GABSF 001-2016 (DOM 992).md",
+   "titulo": "ISS fixo tabelado 2016 - IN GABSF 001-2016 (DOM 992)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 5,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2016\\ISS fixo tabelado 2016 - IN GABSF 001-2016 (DOM 992).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/Portaria 008-2016 - Prorrogação de vencimento da TVRE (DOM 1050).md",
+   "titulo": "Portaria 008-2016 - Prorrogação de vencimento da TVRE (DOM 1050)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 10,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2016\\Portaria 008-2016 - Prorrogação de vencimento da TVRE (DOM 1050).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/Decreto 477-2016 - Atualização monetária 2017 (DOM 1233).md",
+   "titulo": "Decreto 477-2016 - Atualização monetária 2017 (DOM 1233)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 14,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2017\\Decreto 477-2016 - Atualização monetária 2017 (DOM 1233).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/Decreto 122-2018 - Atualização monetária 2019 (DOM 1720).md",
+   "titulo": "Decreto 122-2018 - Atualização monetária 2019 (DOM 1720)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 70,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2019\\Decreto 122-2018 - Atualização monetária 2019 (DOM 1720).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/Decreto 183-2019 - Atualização monetária 2020 (DOM 1966).md",
+   "titulo": "Decreto 183-2019 - Atualização monetária 2020 (DOM 1966)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 23,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2020\\Decreto 183-2019 - Atualização monetária 2020 (DOM 1966).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/DOM 2220 (07-01-2021) - edição com a LC 080-2021 (descontos IPTU 2021).md",
+   "titulo": "DOM 2220 (07-01-2021) - edição com a LC 080-2021 (descontos IPTU 2021)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 24,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2021\\DOM 2220 (07-01-2021) - edição com a LC 080-2021 (descontos IPTU 2021).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/Portaria 006-2021 - Calendário fiscal 2021 (DOM 2224).md",
+   "titulo": "Portaria 006-2021 - Calendário fiscal 2021 (DOM 2224)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 23,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2021\\Portaria 006-2021 - Calendário fiscal 2021 (DOM 2224).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/ISS fixo e atualização monetária 2014-2026/Decreto 101-2025 - Atualização monetária 2026 (DOM 3424) (lembrar noventena).md",
+   "titulo": "Decreto 101-2025 - Atualização monetária 2026 (DOM 3424) (lembrar noventena)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 13,
+   "paginas_sem_texto": 0,
+   "origem": "ISS fixo e atualização monetária 2014-2026\\2026\\Decreto 101-2025 - Atualização monetária 2026 (DOM 3424) (lembrar noventena).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/Leis e edições antigas do DOM/DOM 1346 (19-06-2017) - edição com a LC 050-2017 (produtividade, tabelas de cotas).md",
+   "titulo": "DOM 1346 (19-06-2017) - edição com a LC 050-2017 (produtividade, tabelas de cotas)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 19,
+   "paginas_sem_texto": 0,
+   "origem": "Leis e edições antigas do DOM\\DOM 1346 (19-06-2017) - edição com a LC 050-2017 (produtividade, tabelas de cotas).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/Leis e edições antigas do DOM/DOM 2230 (21-01-2021) - edição com o Decreto 006-2021 (art. 62, IV, CTM).md",
+   "titulo": "DOM 2230 (21-01-2021) - edição com o Decreto 006-2021 (art. 62, IV, CTM)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 15,
+   "paginas_sem_texto": 0,
+   "origem": "Leis e edições antigas do DOM\\DOM 2230 (21-01-2021) - edição com o Decreto 006-2021 (art. 62, IV, CTM).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/Leis e edições antigas do DOM/DOM 3176 (12-12-2024) - edição com a Lei 3.480-2024 (Domicílio Eletrônico).md",
+   "titulo": "DOM 3176 (12-12-2024) - edição com a Lei 3.480-2024 (Domicílio Eletrônico)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 11,
+   "paginas_sem_texto": 0,
+   "origem": "Leis e edições antigas do DOM\\DOM 3176 (12-12-2024) - edição com a Lei 3.480-2024 (Domicílio Eletrônico).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/Leis e edições antigas do DOM/DOM 3183 (26-12-2024) - edição com a LC 195-2024 (pág. 30).md",
+   "titulo": "DOM 3183 (26-12-2024) - edição com a LC 195-2024 (pág. 30)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 49,
+   "paginas_sem_texto": 0,
+   "origem": "Leis e edições antigas do DOM\\DOM 3183 (26-12-2024) - edição com a LC 195-2024 (pág. 30).pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/Leis e edições antigas do DOM/DOM 504 (27-12-2013) - edição com a LC 017-2013.md",
+   "titulo": "DOM 504 (27-12-2013) - edição com a LC 017-2013",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 46,
+   "paginas_sem_texto": 0,
+   "origem": "Leis e edições antigas do DOM\\DOM 504 (27-12-2013) - edição com a LC 017-2013.pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/Leis e edições antigas do DOM/LC 017-2013 - Altera a Lei 1.134-1991.md",
+   "titulo": "LC 017-2013 - Altera a Lei 1.134-1991",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 125,
+   "paginas_sem_texto": 0,
+   "origem": "Leis e edições antigas do DOM\\LC 017-2013 - Altera a Lei 1.134-1991.pdf"
+  },
+  {
+   "arquivo": "legislacao/nao-vigente/Leis e edições antigas do DOM/LC 221-2025 - Altera o CTM (escaneado, sem texto).md",
+   "titulo": "LC 221-2025 - Altera o CTM (escaneado, sem texto)",
+   "situacao": "nao-vigente-ou-historica",
+   "grupo": "legislacao-historica",
+   "paginas": 4,
+   "paginas_sem_texto": 4,
+   "origem": "Leis e edições antigas do DOM\\LC 221-2025 - Altera o CTM (escaneado, sem texto).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS/Calendário fiscal 2021_Portaria 006_DOM 2224.md",
+   "titulo": "Calendário fiscal 2021_Portaria 006_DOM 2224",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 2,
+   "paginas_sem_texto": 2,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2021\\Calendário fiscal 2021_Portaria 006_DOM 2224.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS/Decreto Municipal 273-2020 - Atualização monetária de penalidades e taxas (exercício 2021) (DOM 2214).md",
+   "titulo": "Decreto Municipal 273-2020 - Atualização monetária de penalidades e taxas (exercício 2021) (DOM 2214)",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 24,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2021\\Decreto Municipal 273-2020 - Atualização monetária de penalidades e taxas (exercício 2021) (DOM 2214).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS/Decreto Municipal 101-2021 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2022) (DOM 2459).md",
+   "titulo": "Decreto Municipal 101-2021 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2022) (DOM 2459)",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 22,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2022\\Decreto Municipal 101-2021 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2022) (DOM 2459).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS/Decreto Municipal 166-2022 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2023).md",
+   "titulo": "Decreto Municipal 166-2022 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2023)",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 12,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2023\\Decreto Municipal 166-2022 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2023).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS/DECRETO 238, DE 29 DE DEZEMBRO DE 2023.md",
+   "titulo": "DECRETO 238, DE 29 DE DEZEMBRO DE 2023",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 40,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2024\\DECRETO 238, DE 29 DE DEZEMBRO DE 2023.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS/Decreto Municipal 311-2024 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2025).md",
+   "titulo": "Decreto Municipal 311-2024 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2025)",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 45,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2025\\Decreto Municipal 311-2024 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2025).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS/Retificação do Decreto Municipal 311-2024 - Atualização monetária (exercício 2025) (DOM 3209).md",
+   "titulo": "Retificação do Decreto Municipal 311-2024 - Atualização monetária (exercício 2025) (DOM 3209)",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 1,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2025\\Retificação do Decreto Municipal 311-2024 - Atualização monetária (exercício 2025) (DOM 3209).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS/DECRETO 101 DE 29 DE DEZEMBRO DE 2025 (ATUALIZAÇÃO MONETARIA).md",
+   "titulo": "DECRETO 101 DE 29 DE DEZEMBRO DE 2025 (ATUALIZAÇÃO MONETARIA)",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 13,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\\2026\\DECRETO 101 DE 29 DE DEZEMBRO DE 2025 (ATUALIZAÇÃO MONETARIA).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/CGIBS/AT Conj. RFB - CGIBS nº 9-2026.md",
+   "titulo": "AT Conj. RFB - CGIBS nº 9-2026",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 5,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\CGIBS\\AT Conj. RFB - CGIBS nº 9-2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/CGIBS/AT Conj. Sufis - CGIBS nº 10-2026.md",
+   "titulo": "AT Conj. Sufis - CGIBS nº 10-2026",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 2,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\CGIBS\\AT Conj. Sufis - CGIBS nº 10-2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/CGIBS/AT Conj. Sufis - CGIBS nº 2-2026.md",
+   "titulo": "AT Conj. Sufis - CGIBS nº 2-2026",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 2,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\CGIBS\\AT Conj. Sufis - CGIBS nº 2-2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/CGIBS/AT Conj. Sufis - CGIBS nº 6-2026.md",
+   "titulo": "AT Conj. Sufis - CGIBS nº 6-2026",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 2,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\CGIBS\\AT Conj. Sufis - CGIBS nº 6-2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/CGIBS/AT Conj. Sufis - CGIBS nº 7-2026.md",
+   "titulo": "AT Conj. Sufis - CGIBS nº 7-2026",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 2,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\CGIBS\\AT Conj. Sufis - CGIBS nº 7-2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/CGIBS/AT Conj. Sufis - CGIBS nº 8-2026.md",
+   "titulo": "AT Conj. Sufis - CGIBS nº 8-2026",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 2,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\CGIBS\\AT Conj. Sufis - CGIBS nº 8-2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/CGIBS/Ato Conj. RFB - CGIBS nº 6-2026.md",
+   "titulo": "Ato Conj. RFB - CGIBS nº 6-2026",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 2,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\CGIBS\\Ato Conj. RFB - CGIBS nº 6-2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/CGIBS/Port. Conj. MF - CGIBS nº 14-2026.md",
+   "titulo": "Port. Conj. MF - CGIBS nº 14-2026",
+   "situacao": "vigente-ou-referencia",
+   "grupo": "legislacao-vigente-outros",
+   "paginas": 5,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\CGIBS\\Port. Conj. MF - CGIBS nº 14-2026.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Decreto Municipal 165-2026 - Regulamenta o REDAF (DOM 3543, 03-07-2026).md",
+   "titulo": "Decreto Municipal 165-2026 - Regulamenta o REDAF (DOM 3543, 03-07-2026)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 5,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Decreto Municipal 165-2026 - Regulamenta o REDAF (DOM 3543, 03-07-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Decreto Municipal 219-2023 - Declaração eletrônica DES-IF instituições financeiras ISSQN (DOM 2889, 11-10-2023).md",
+   "titulo": "Decreto Municipal 219-2023 - Declaração eletrônica DES-IF instituições financeiras ISSQN (DOM 2889, 11-10-2023)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 5,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Decreto Municipal 219-2023 - Declaração eletrônica DES-IF instituições financeiras ISSQN (DOM 2889, 11-10-2023).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Instrução Normativa GAB-SEFAZ 001-2024 - Reconhecimento de ofício da prescrição de créditos tributários (DOM 3001, 02-04-2024).md",
+   "titulo": "Instrução Normativa GAB-SEFAZ 001-2024 - Reconhecimento de ofício da prescrição de créditos tributários (DOM 3001, 02-04-2024)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 4,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 001-2024 - Reconhecimento de ofício da prescrição de créditos tributários (DOM 3001, 02-04-2024).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Instrução Normativa GAB-SEFAZ 002-2024 - Alvará de Licença de Localização e Funcionamento (DOM 3175, 11-12-2024).md",
+   "titulo": "Instrução Normativa GAB-SEFAZ 002-2024 - Alvará de Licença de Localização e Funcionamento (DOM 3175, 11-12-2024)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 3,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 002-2024 - Alvará de Licença de Localização e Funcionamento (DOM 3175, 11-12-2024).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Instrução Normativa GAB-SEFAZ 002-2026 - ITBI apuração, lançamento e impugnação (DOM 3488, 09-04-2026).md",
+   "titulo": "Instrução Normativa GAB-SEFAZ 002-2026 - ITBI apuração, lançamento e impugnação (DOM 3488, 09-04-2026)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 4,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 002-2026 - ITBI apuração, lançamento e impugnação (DOM 3488, 09-04-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Instrução Normativa GAB-SEFAZ 003-2026 - Exclusão de entidade do rol de substitutos tributários do ISSQN (DOM 3569, 10-08-2026).md",
+   "titulo": "Instrução Normativa GAB-SEFAZ 003-2026 - Exclusão de entidade do rol de substitutos tributários do ISSQN (DOM 3569, 10-08-2026)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 3,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 003-2026 - Exclusão de entidade do rol de substitutos tributários do ISSQN (DOM 3569, 10-08-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Lei Complementar Municipal 080-2021 - Altera o CTM, responsabilidade na baixa e descontos IPTU (DOM 2220, 07-01-2021).md",
+   "titulo": "Lei Complementar Municipal 080-2021 - Altera o CTM, responsabilidade na baixa e descontos IPTU (DOM 2220, 07-01-2021)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 6,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 080-2021 - Altera o CTM, responsabilidade na baixa e descontos IPTU (DOM 2220, 07-01-2021).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Lei Complementar Municipal 127-2022 - Altera o CTM, escritório virtual (DOM 2685, 08-12-2022).md",
+   "titulo": "Lei Complementar Municipal 127-2022 - Altera o CTM, escritório virtual (DOM 2685, 08-12-2022)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 4,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 127-2022 - Altera o CTM, escritório virtual (DOM 2685, 08-12-2022).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Lei Complementar Municipal 200-2025 - Autocomposição e transação de créditos tributários (DOM 3254, 14-04-2025).md",
+   "titulo": "Lei Complementar Municipal 200-2025 - Autocomposição e transação de créditos tributários (DOM 3254, 14-04-2025)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 6,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 200-2025 - Autocomposição e transação de créditos tributários (DOM 3254, 14-04-2025).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Lei Complementar Municipal 236-2026 - REDAF Ressarcimento de Despesas de Atividade Fiscal (DOM 3493, 16-04-2026).md",
+   "titulo": "Lei Complementar Municipal 236-2026 - REDAF Ressarcimento de Despesas de Atividade Fiscal (DOM 3493, 16-04-2026)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 4,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 236-2026 - REDAF Ressarcimento de Despesas de Atividade Fiscal (DOM 3493, 16-04-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente-outros/DOM Araguaina 2021-2026/Lei Complementar Municipal 245-2026 - REFIS Programa de Regularização Fiscal (DOM 3612, 14-10-2026).md",
+   "titulo": "Lei Complementar Municipal 245-2026 - REFIS Programa de Regularização Fiscal (DOM 3612, 14-10-2026)",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente-dom",
+   "paginas": 6,
+   "paginas_sem_texto": 0,
+   "origem": "LEGISLAÇÕES ATUALIZADAS\\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 245-2026 - REFIS Programa de Regularização Fiscal (DOM 3612, 14-10-2026).pdf"
+  },
+  {
+   "arquivo": "cgsn/original/",
+   "titulo": "Atos do CGSN, redação original",
+   "situacao": "ver INDICE.csv",
+   "grupo": "cgsn",
+   "arquivos": 283
+  },
+  {
+   "arquivo": "cgsn/vigente/",
+   "titulo": "Atos do CGSN, redação vigente",
+   "situacao": "ver INDICE.csv",
+   "grupo": "cgsn",
+   "arquivos": 281
+  },
+  {
+   "arquivo": "cgsn/multivigente/",
+   "titulo": "Atos do CGSN, redação multivigente",
+   "situacao": "ver INDICE.csv",
+   "grupo": "cgsn",
+   "arquivos": 281
+  },
+  {
+   "arquivo": "jurisprudencia/itens.jsonl",
+   "titulo": "Súmulas, temas e repercussões gerais do STF e STJ (base oficial)",
+   "situacao": "ver campo situacao de cada item",
+   "grupo": "jurisprudencia",
+   "itens": 5902
+  },
+  {
+   "arquivo": "indices/",
+   "titulo": "IPCA, INPC, IGP-M, Selic, TR e datas de divulgação (IBGE e Banco Central)",
+   "situacao": "atualizado semanalmente",
+   "grupo": "indices"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+Resolução CGSN nº 14, de 23 de julho de 2007
+Publicado(a) no DOU de 25/07/2007, página 48
+Visão: original
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/31918
+
+[Alterado(a) pelo(a) Resolução CGSN nº 156, de 29 de setembro de 2020]
+Altera as Resoluções CGSN nº 1, de 19 de março de 2007, nº 4, de 30 de maio de 2007, nº 5, de 30 de maio de 2007, e nº 6, de 18 de junho de 2007, relativas ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).
+O COMITÊ GESTOR DO SIMPLES NACIONAL (CGSN) no uso da atribuição que lhe confere a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º Fica acrescido o inciso VIII no art. 16 da Resolução nº 1, de 19 de março de 2007, com a seguinte redação:
+"VIII - disponibilizar de forma atualizada e consolidada, no Portal do Simples Nacional na internet, as resoluções de que trata o art. 6º."
+Art. 2º O § 1º do art. 6º da Resolução CGSN nº 4, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"§ 1º A isenção de que trata o caput fica limitada ao valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta mensal, no caso de antecipação de fonte, ou da receita bruta total anual, tratando-se de declaração de ajuste, subtraído do valor devido na forma do Simples Nacional no período, relativo ao IRPJ."
+Art. 3º O inciso III do § 3º do art. 7º da Resolução CGSN nº 4, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"III - os entes federativos deverão efetuar a comunicação à RFB acerca da verificação prevista no inciso II:
+a) até o dia 5 (cinco) de cada mês, relativamente às informações disponibilizadas pela RFB do dia 20 ao dia 31 do mês anterior;
+b) até o dia 14 (quatorze) de cada mês, relativamente às informações disponibilizadas pela RFB do dia 1º ao dia 9 do mesmo mês;
+c) até o dia 25 (vinte e cinco) de cada mês, relativamente às informações disponibilizadas pela RFB do dia 10 ao dia 19 do mesmo mês."
+Art. 4º O art. 7º da Resolução CGSN nº 4, de 30 de maio de 2007, passa a vigorar acrescido do seguinte § 5º:
+"§ 5º Excepcionalmente, para as opções efetuadas durante o mês de julho de 2007, a verificação de que trata o inciso II do § 3º deverá ser efetuada até 10 de agosto de 2007."
+Art. 5º O art. 2º da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar acrescido do seguinte § 3º:
+"§ 3º Enquanto não publicada a Resolução a que se refere o § 2º, as ME e as EPP, obrigatoriamente, sujeitar-se-ão tão-somente ao regime de competência."
+Art. 6º O § 1º do art. 7º da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"§ 1º Para efeito do disposto no caput, considera-se folha de salários, incluídos encargos, o montante pago nos 12 (doze) meses anteriores ao do período de apuração, a título de salários, retiradas de pró-labore, acrescidos do montante efetivamente recolhido a título de contribuição para a Seguridade Social destinada à Previdência Social e para o Fundo de Garantia do Tempo de Serviço."
+Art. 7º O § 2º do art. 7º da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"§ 2º Para efeito do disposto no § 1º, consideram-se salários o valor da base de cálculo da contribuição prevista nos incisos I e III do art. 22 da Lei nº 8.212, de 24 de julho de 1991, agregando-se o valor do décimo-terceiro salário na competência da incidência da referida contribuição, na forma do caput e dos §§ 1º e 2º do art. 7º da Lei nº 8.620, de 5 de janeiro de 1993."
+Art. 8º O art. 8º da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"Art. 8º Na hipótese de a ME ou a EPP auferir receitas sujeitas aos anexos I ou II desta Resolução, ou em decorrência do exercício das atividades previstas nos incisos I a XII do § 3o do art. 12 da Resolução CGSN no 4, de 2007, concomitantemente com receitas previstas nos incisos XIII a XXVI e no § 4o, todos do art. 12 da Resolução CGSN no 4, de 2007, o valor devido da Contribuição para a Seguridade Social destinada à Previdência Social, a cargo da pessoa jurídica, não incluído no Simples Nacional, seguirá orientação de norma específica da RFB."
+Art. 9º O parágrafo único do art. 15 da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"Parágrafo único. A ME e a EPP optantes pelo Simples Nacional deverão, para cálculo dos tributos devidos mensalmente e geração do documento único de arrecadação para recolhimento, informar os valores relativos à totalidade das receitas correspondentes às suas operações e prestações realizadas no período, no aplicativo a que se refere o caput, observadas as demais disposições estabelecidas nesta Resolução."
+Art. 10. O código 6822-6/00 - Gestão e Administração da Propriedade Imobiliária do Anexo I da Resolução CGSN nº 6, de 18 de junho de 2007, passa a constar do Anexo II da referida Resolução.
+Parágrafo único. Ficam inseridos os códigos 6810-2/01 - Compra e Venda de Imóveis Próprios e 6810-2/02 - Aluguel de Imóveis Próprios no Anexo II da Resolução de que trata o caput.
+Art. 11. Esta Resolução entra em vigor na data de sua publicação.
+JORGE ANTONIO DEHER RACHID Presidente do Comitê

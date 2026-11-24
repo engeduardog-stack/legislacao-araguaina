@@ -1,0 +1,114 @@
+Resolução CGSN nº 58, de 27 de abril de 2009
+Publicado(a) no DOU de 28/04/2009, página 24
+Visão: original
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32861
+
+[Alterado(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 67, de 16 de setembro de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 70, de 26 de janeiro de 2010]
+[Alterado(a) pelo(a) Resolução CGSN nº 73, de 4 de maio de 2010]
+[Alterado(a) pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+[Alterado(a) pelo(a) Resolução CGSN nº 78, de 13 de setembro de 2010]
+[Alterado(a) pelo(a) Resolução CGSN nº 81, de 18 de janeiro de 2011]
+[Alterado(a) pelo(a) Resolução CGSN nº 83, de 26 de janeiro de 2011]
+[Alterado(a) pelo(a) Resolução CGSN nº 84, de 23 de fevereiro de 2011]
+[Alterado(a) pelo(a) Resolução CGSN nº 87, de 3 de maio de 2011]
+Dispõe sobre o Microempreendedor Individual - MEI no âmbito do Simples Nacional.
+O Comitê Gestor do Simples Nacional (CGSN), no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007 e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º O Microempreendedor Individual (MEI) poderá optar pelo Sistema de Recolhimento em Valores Fixos Mensais dos Tributos abrangidos pelo Simples Nacional (SIMEI), independentemente da receita bruta por ele auferida no mês, na forma desta Resolução.
+§ 1º Considera-se MEI o empresário individual a que se refere o art. 966 da Lei nº 10.406, de 10 de janeiro de 2002, que atenda cumulativamente às seguintes condições:
+I - tenha auferido receita bruta acumulada no ano-calendário anterior de até R$ 36.000,00 (trinta e seis mil reais);
+II - seja optante pelo Simples Nacional;
+III - exerça tão-somente atividades constantes do Anexo Único desta Resolução;
+IV - possua um único estabelecimento;
+V - não participe de outra empresa como titular, sócio ou administrador;
+VI - não contrate mais de um empregado, observado o disposto no art. 5º.
+§ 2º No caso de início de atividade, o limite de que trata o inciso I do § 1º será de R$ 3.000,00 (três mil reais) multiplicados pelo número de meses compreendido entre o início da atividade e o final do respectivo ano-calendário, consideradas as frações de meses como um mês inteiro.
+§ 3º Na vigência da opção pelo SIMEI não se aplicam ao MEI:
+I - valores fixos que tenham sido estabelecidos por Estado, Município ou Distrito Federal na forma do disposto no § 18 do art. 18 da Lei Complementar nº 123, de 2006;
+II - reduções previstas no § 20 do art. 18 da Lei Complementar nº 123, de 2006, ou qualquer dedução na base de cálculo;
+III - isenções específicas para as microempresas e empresas de pequeno porte concedidas pelo Estado, Município ou Distrito Federal a partir de 1º de julho de 2007 que abranjam integralmente a faixa de receita bruta anual de até R$ 36.000,00 (trinta e seis mil reais);
+IV - retenções de ISS sobre os serviços prestados;
+V - atribuições da qualidade de substituto tributário.
+§ 4º A opção pelo SIMEI importa opção simultânea pelo recolhimento da contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade de contribuinte individual, na forma prevista no § 2º do art. 21 da Lei nº 8.212, de 24 de julho de 1991.
+§ 5º O optante pelo SIMEI recolherá, por meio do Documento de Arrecadação do Simples Nacional (DAS), valor fixo mensal correspondente à soma das seguintes parcelas:
+I - R$ 51,15 (cinquenta e um reais e quinze centavos), a título de contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade de contribuinte individual, referida no § 4º;
+II - R$ 1,00 (um real), a título de ICMS, caso seja contribuinte desse imposto;
+III - R$ 5,00 (cinco reais), a título de ISS, caso seja contribuinte desse imposto.
+§ 6º O valor a ser pago a título de ICMS ou de ISS será determinado de acordo com os códigos de atividades econômicas previstos na Classificação Nacional de Atividades Econômicas (CNAE) registrados no Cadastro Nacional de Pessoas Jurídicas (CNPJ), observando-se:
+I - o enquadramento previsto no Anexo Único;
+II - as atividades econômicas constantes do CNPJ na primeira geração do Documento de Arrecadação relativo ao mês de início do enquadramento no SIMEI ou ao primeiro mês de cada ano-calendário.
+§ 7º A tabela constante do Anexo Único aplica-se tão-somente no âmbito do SIMEI.
+§ 8º Na hipótese de qualquer alteração do Anexo Único, seus efeitos dar-se-ão a partir do ano-calendário subsequente, observadas as seguintes regras:
+I - se determinada atividade econômica passar a ser considerada permitida ao SIMEI, o contribuinte que exerça essa atividade passará a poder optar por esse sistema de recolhimento a partir do ano-calendário seguinte ao da alteração, desde que não incorra em nenhuma das vedações previstas nesta Resolução;
+II - se determinada atividade econômica deixar de ser considerada permitida ao SIMEI, o contribuinte optante que exerça essa atividade deverá efetuar a sua exclusão obrigatória do referido sistema, com efeitos para o ano-calendário subsequente.
+§ 9º O optante pelo SIMEI não estará sujeito à incidência dos tributos referidos nos incisos I a VI do caput do art. 13 da Lei Complementar nº 123, de 2006.
+§ 10. O valor referido no inciso I do § 5º será reajustado, na forma prevista em lei ordinária, na mesma data de reajustamento dos benefícios de que trata a Lei nº 8.213, de 24 de julho de 1991, de forma a manter equivalência com a contribuição de que trata o § 2º do art. 21 da Lei nº 8.212, de 1991.
+§ 11. Aplica-se ao optante pelo SIMEI o disposto no § 4º do art. 55 e no § 2º do art. 94, ambos da Lei nº 8.213, de 1991, exceto se optar pela complementação da contribuição previdenciária a que se refere o § 3º do art. 21 da Lei nº 8.212, de 1991.
+§ 12. O recolhimento da complementação prevista no § 11º será disciplinado pela Secretaria da Receita Federal do Brasil (RFB).
+§ 13. O optante pelo SIMEI fica dispensado de prestar a informação prevista no inciso IV do art. 32 da Lei nº 8.212, de 1991, no que se refere à remuneração paga ou creditada decorrente do seu trabalho, salvo se presentes outras hipóteses de obrigatoriedade de prestação de informações, na forma estabelecida pela RFB, observado o disposto no inciso II do parágrafo único do art. 5º.
+ENQUADRAMENTO
+Art. 2º A opção de que trata o art. 1º:
+I - será irretratável para todo o ano-calendário;
+II - para a empresa já constituída, deverá ser realizada no mês de janeiro, até seu último dia útil, produzindo efeitos a partir do primeiro dia do ano-calendário da opção, em aplicativo disponibilizado no Portal do Simples Nacional, ressalvado o disposto no § 1º.
+§ 1º Para as empresas em início de atividade com data de abertura constante do CNPJ a partir de 1º de julho de 2009, a realização da opção pelo SIMEI será simultânea à inscrição no CNPJ, observadas as condições previstas nesta Resolução, devendo ser utilizado o registro simplificado de que trata o § 1º do art. 4º da Lei Complementar nº 123, de 2006.
+§ 2º Na opção pelo SIMEI, o MEI declarará:
+I - que não se enquadra nas vedações para ingresso no SIMEI;
+II - que se enquadra nos limites previstos no inciso I do § 1º ou § 2º, ambos do art. 1º;
+III - o Número de Inscrição do Trabalhador (NIT) na Previdência Social.
+§ 3º A RFB disponibilizará aos Estados, Distrito Federal e Municípios relação dos contribuintes optantes pelo SIMEI.
+DESENQUADRAMENTO
+Art. 3º O desenquadramento do SIMEI será realizado de ofício ou mediante comunicação do MEI.
+§ 1º O desenquadramento do SIMEI não implica necessariamente exclusão do Simples Nacional.
+§ 2º O desenquadramento mediante comunicação do contribuinte dar-se-á:
+I - por opção, até o vencimento dos tributos relativos aos fatos geradores ocorridos em janeiro, em aplicativo disponibilizado no Portal do Simples Nacional, produzindo efeitos a partir de 1º de janeiro do ano-calendário da comunicação;
+II - obrigatoriamente, quando deixar de atender a qualquer das condições previstas nos incisos III a VI do § 1º do art. 1º ou quando se transformar em sociedade empresária, devendo a comunicação ser efetuada até o último dia útil do mês subsequente àquele em que ocorrida a situação de vedação, produzindo efeitos a partir do mês subsequente ao da ocorrência da situação impeditiva;
+III - obrigatoriamente, quando exceder, no ano-calendário, o limite de receita bruta previsto no inciso I do § 1º do art. 1º, devendo a comunicação ser efetuada até o último dia útil do mês subsequente àquele em que ocorrido o excesso, produzindo efeitos:
+a) a partir de 1º de janeiro do ano-calendário subsequente ao da ocorrência do excesso, na hipótese de não ter ultrapassado o referido limite em mais de 20% (vinte por cento);
+b) retroativamente a 1º de janeiro do ano-calendário da ocorrência do excesso, na hipótese de ter ultrapassado o referido limite em mais de 20% (vinte por cento);
+IV - obrigatoriamente, quando exceder o limite de receita bruta previsto no § 2º do art. 1º, devendo a comunicação ser efetuada até o último dia útil do mês subsequente àquele em que ocorrido o excesso, produzindo efeitos:
+a) a partir de 1º de janeiro do ano-calendário subsequente ao da ocorrência do excesso, na hipótese de não ter ultrapassado o referido limite em mais de 20% (vinte por cento);
+b) retroativamente ao início de atividade, na hipótese de ter ultrapassado o referido limite em mais de 20% (vinte por cento);
+V - obrigatoriamente, quando incorrer em alguma das situações previstas para a exclusão do Simples Nacional, ficando o desenquadramento sujeito às regras da Resolução CGSN nº 15, de 23 de julho de 2007.
+§ 3º O desenquadramento de ofício dar-se-á quando verificada a falta de comunicação obrigatória de que trata o § 2º.
+§ 4º O contribuinte desenquadrado do SIMEI passará a recolher os tributos devidos pela regra geral do Simples Nacional a partir da data de início dos efeitos do desenquadramento, observado o disposto nos §§ 5º e 6º.
+§ 5º O contribuinte desenquadrado do SIMEI e excluído do Simples Nacional passará a recolher os tributos devidos de acordo com as respectivas legislações de regência.
+§ 6º Na hipótese de a receita bruta auferida no ano-calendário anterior não exceder em mais de 20% (vinte por cento) os limites de que tratam o inciso I do § 1º e o § 2º do art. 1º, o contribuinte deverá recolher a diferença, sem acréscimos, em parcela única, juntamente com a da apuração do mês de janeiro do ano-calendário subsequente ao do excesso, somando-se aos valores relativos aos fatos geradores daquela competência.
+§ 7º Na hipótese de a receita bruta auferida exceder em mais de 20% (vinte por cento) os limites de que tratam o inciso I do § 1º e o § 2º do art. 1º, o contribuinte deverá informar no Programa Gerador do Documento de Arrecadação do Simples Nacional (PGDAS) as receitas efetivas mensais, devendo ser recolhidas as diferenças relativas aos tributos com os acréscimos legais na forma prevista na legislação do Imposto sobre a Renda, sem prejuízo do disposto no § 5º.
+DOCUMENTO DE ARRECADAÇÃO DO SIMPLES NACIONAL (DAS)
+Art. 4º Para o contribuinte optante pelo SIMEI, o aplicativo possibilitará a emissão simultânea dos Documentos de Arrecadação do Simples Nacional (DAS), para todos os meses do ano-calendário.
+Parágrafo Único. A impressão de que trata o caput estará disponível a partir do início do ano-calendário ou do início das atividades do MEI.
+CONTRATAÇÃO DE EMPREGADO
+Art. 5º O MEI poderá contratar um único empregado que receba exclusivamente 1 (um) salário mínimo ou o piso salarial da categoria profissional.
+Parágrafo único. Na hipótese referida no caput, o MEI:
+I - deverá reter e recolher a contribuição previdenciária relativa ao segurado a seu serviço na forma da lei, observados prazo e condições estabelecidos pela RFB;
+II - fica obrigado a prestar informações relativas ao segurado a seu serviço, devendo cumprir o disposto no inciso IV do art. 32 da Lei nº 8.212, de 1991;
+III - está sujeito ao recolhimento da Contribuição Patronal Previdenciária (CPP) para a Seguridade Social, a cargo da pessoa jurídica, de que trata o art. 22 da Lei nº 8.212, de 1991, calculada à alíquota de 3% (três por cento) sobre o salário de contribuição previsto no caput.
+CESSÃO OU LOCAÇÃO DE MÃO-DE-OBRA
+Art. 6º O MEI não poderá realizar cessão ou locação de mão-de-obra.
+§ 1º Cessão ou locação de mão-de-obra é a colocação à disposição da empresa contratante, em suas dependências ou nas de terceiros, de trabalhadores, inclusive o MEI, que realizem serviços contínuos relacionados ou não com sua atividade fim, quaisquer que sejam a natureza e a forma de contratação.
+§ 2º Dependências de terceiros são aquelas indicadas pela empresa contratante, que não sejam as suas próprias e que não pertençam à empresa prestadora dos serviços.
+§ 3º Serviços contínuos são aqueles que constituem necessidade permanente da contratante, que se repetem periódica ou sistematicamente, ligados ou não a sua atividade fim, ainda que sua execução seja realizada de forma intermitente ou por diferentes trabalhadores.
+§ 4º Por colocação à disposição da empresa contratante entende-se a cessão do trabalhador, em caráter não eventual, respeitados os limites do contrato.
+§ 5º A vedação de que trata o caput não se aplica à prestação de serviços de hidráulica, eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos.
+§ 6º Na hipótese do § 5º, a empresa contratante de serviços executados por intermédio do MEI deverá, com relação a esta contratação:
+I - recolher a Contribuição Previdenciária Patronal (CPP) a que se refere o inciso III do caput e o § 1º do art. 22 da Lei nº 8.212, de 1991;
+II - arrecadar a contribuição do MEI na qualidade de segurado contribuinte individual a seu serviço, descontando-a da respectiva remuneração, e recolher o valor arrecadado juntamente com a contribuição a seu cargo, no prazo previsto no art. 4º da Lei nº 10.666, de 8 de maio de 2003;
+III - prestar as informações de que trata o inciso IV do art. 32 da Lei nº 8.212, de 1991;
+IV - cumprir as demais obrigações acessórias relativas à contratação de contribuinte individual.
+§ 7º O disposto no § 6º aplica-se a qualquer forma de contratação, inclusive por empreitada.
+DECLARAÇÃO ANUAL DE AJUSTE
+Art. 7º Na hipótese de o MEI ser optante pelo SIMEI no ano-calendário anterior, deverá apresentar, até o último dia útil do mês de janeiro de cada ano, à RFB, a declaração de que trata o art. 4º da Resolução CGSN nº 10, de 28 de junho de 2007, em formato especial, que conterá tão somente:
+I - a receita bruta total auferida relativa ao ano-calendário anterior;
+II - a receita bruta total auferida relativa ao ano-calendário anterior, referente às atividades sujeitas ao ICMS.
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Art. 8º O empreendedor individual com data de abertura constante do CNPJ até 30 de junho de 2009 não poderá optar pelo SIMEI no ano-calendário de 2009.
+Art. 9º Excepcionalmente, para o MEI optante pelo SIMEI que venha a ser extinto no segundo semestre de 2009, a declaração de que trata o art. 7º deverá ser entregue até o último dia útil do mês de janeiro de 2010.
+Art. 10. Aplica-se subsidiariamente ao MEI o disposto nas Resoluções relativas ao Simples Nacional editadas pelo CGSN.
+Art. 11. Esta Resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de julho de 2009.
+LINA MARIA VIEIRA Presidente do Comitê
+ANEXO ÚNICO
+Códigos previstos na CNAE permitidos para opção pelo SIMEI. LEGENDA: (S) = significa que o imposto será considerado para fins do disposto no § 5º do art. 1º. (N) = significa que o imposto NÃO será considerado para fins do disposto no § 5º do art. 1º. Observações: Esta tabela se aplica tão-somente no âmbito do SIMEI; Na apuração do valor a ser pago serão consideradas, além da atividade principal, as atividades secundárias constantes do CNPJ.
+[arquivo: tab.htm]

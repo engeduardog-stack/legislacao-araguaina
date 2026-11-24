@@ -1,0 +1,15 @@
+---
+norma: Lei 4.729/1965 (sonegação fiscal)
+sigla: L4729
+artigo: "7"
+paginas_pdf: "2-2"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art 7º As autoridades administrativas que tiverem conhecimento de crime previsto nesta Lei, inclusive em autos e papéis que
+conhecerem, sob pena de responsabilidade, remeterão ao Ministério Público os elementos comprobatórios da infração, para instrução
+do procedimento criminal cabível.
+§ 1º Se os elementos comprobatórios forem suficientes, o Ministério Público oferecerá, desde logo, denúncia.
+§ 2º Sendo necessários esclarecimentos, documentos ou diligências complementares, o Ministério Público os requisitará, na
+forma estabelecida no Código de Processo Penal.

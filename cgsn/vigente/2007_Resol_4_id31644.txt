@@ -1,0 +1,341 @@
+Resolução CGSN nº 4, de 30 de maio de 2007
+Publicado(a) no DOU de 01/06/2007, página 38
+Visão: vigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/31644
+
+[Alterado(a) pelo(a) Resolução CGSN nº 14, de 23 de julho de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 17, de 8 de agosto de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 19, de 13 de agosto de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 20, de 15 de agosto de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 22, de 23 de agosto de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 23, de 13 de novembro de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 29, de 21 de janeiro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 37, de 30 de junho de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 41, de 1º de setembro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 54, de 29 de janeiro de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 70, de 26 de janeiro de 2010]
+[Alterado(a) pelo(a) Resolução CGSN nº 85, de 9 de março de 2011]
+Dispõe sobre a opção pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).
+O Comitê Gestor de Tributação das Microempresas e Empresas de Pequeno Porte (CGSN), no uso da atribuição que lhe confere a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+DISPOSIÇÕES PRELIMINARES
+Art. 1º Esta Resolução regulamenta a opção pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).
+MICROEMPRESA E EMPRESA DE PEQUENO PORTE
+Definição
+Art. 2º Consideram-se microempresas (ME) ou empresas de pequeno porte (EPP) a sociedade empresária, a sociedade simples e o empresário a que se refere o art. 966 da Lei nº 10.406, de 10 de janeiro de 2002, devidamente registrados no Registro de Empresas Mercantis ou no Registro Civil de Pessoas Jurídicas, conforme o caso, desde que:
+I - no caso das ME, o empresário, a pessoa jurídica, ou a ela equiparada, aufira, em cada ano-calendário, receita bruta igual ou inferior a R$ 240.000,00 (duzentos e quarenta mil reais);
+II - no caso das EPP, o empresário, a pessoa jurídica, ou a ela equiparada, aufira, em cada ano-calendário, receita bruta superior a R$ 240.000,00 (duzentos e quarenta mil reais) e igual ou inferior a R$ 2.400.000,00 (dois milhões e quatrocentos mil reais).
+§ 1º A ME que no ano-calendário, exceder o limite de receita bruta anual previsto no inciso I passa, no ano-calendário seguinte, automaticamente, à condição de EPP.
+§ 2º A EPP que no ano-calendário, não ultrapassar o limite de receita bruta anual previsto no inciso I passa, no ano-calendário seguinte, automaticamente, à condição de ME.
+Início de atividade
+Art. 3º No caso de início de atividade no próprio ano-calendário, os limites de que tratam os incisos I e II do art. 2º serão, respectivamente, de R$ 20.000,00 (vinte mil reais) e de R$ 200.000,00 (duzentos mil reais), multiplicados pelo número de meses compreendido entre o início da atividade e o final do respectivo ano-calendário, consideradas as frações de meses como um mês inteiro.
+§ 1º Se o valor acumulado da receita bruta no ano-calendário de início de atividade for superior a R$ 200.000,00 (duzentos mil reais), multiplicados pelo número de meses desse período, a ME ou a EPP estará excluída do regime que trata esta Resolução devendo pagar a totalidade ou a diferença dos respectivos impostos e contribuições devidos de conformidade com as normas gerais de incidência, desde o primeiro mês de início de atividade, ressalvado o disposto no § 3º.
+§ 2º Na hipótese de o Distrito Federal, os Estados e seus respectivos Municípios adotarem o disposto nos incisos I e II do art. 13 e no art. 14, caso a receita bruta auferida durante o ano-calendário de início de atividade ultrapasse o limite de R$ 100.000,00 (cem mil reais) ou R$ 150.000,00 (cento e cinqüenta mil reais), respectivamente, multiplicados pelo número de meses desse período, o estabelecimento da ME ou EPP neles localizado estará impedido de recolher o ICMS e o ISS na forma do Simples Nacional, com efeitos retroativos ao início de suas atividades, ressalvado o disposto no § 3º.
+§ 3º A exclusão e o impedimento a que se referem os §§ 1º e 2º, respectivamente, não retroagirão ao início das atividades se o excesso verificado em relação à receita bruta não for superior a 20% (vinte por cento) dos respectivos limites referidos, hipóteses em que os efeitos da exclusão ou impedimento dar-se-ão tão-somente a partir do ano-calendário subseqüente.
+§ 4º Na hipótese de início de atividade no ano-calendário imediatamente anterior ao da opção, deverá ser observado o seguinte:
+I - os limites de que tratam os incisos I e II do art. 2º serão, respectivamente, de R$ 20.000,00 (vinte mil reais) e de R$ 200.000,00 (duzentos mil reais), multiplicados pelo número de meses naquele período;
+II - os estabelecimentos das ME e EPP localizados em unidades da federação que adotarem o disposto nos incisos I e II do art. 13, e no art. 14, ficam impedidos de recolher o ICMS e o ISS na forma do Simples Nacional já no ano de ingresso nesse Regime, caso a receita bruta auferida durante o ano-calendário de início de atividade ultrapasse o limite de R$ 100.000,00 (cem mil reais) ou R$ 150.000,00 (cento e cinqüenta mil reais), respectivamente, multiplicados pelo número de meses desse período.
+§ 5º Para efeitos do disposto nos §§ 1º e 2º, a ME e a EPP ficarão sujeitas ao pagamento da totalidade ou diferença dos respectivos tributos, devidos de conformidade com as normas gerais de incidência, acrescidos, tão-somente, de juros de mora, quando efetuado antes do início de procedimento de ofício.
+Receita bruta
+Art. 4º Considera-se receita bruta o produto da venda de bens e serviços nas operações de conta própria, o preço dos serviços prestados e o resultado nas operações em conta alheia, excluídas as vendas canceladas e os descontos incondicionais concedidos.
+Art. 4º-A Na hipótese de devolução de mercadoria vendida por ME ou EPP optante pelo Simples Nacional, em período de apuração posterior ao da venda, deverá ser observado o seguinte: [Incluído(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+I - o valor da mercadoria devolvida deve ser deduzido da receita bruta total, no período de apuração do mês da devolução, segregada pelas regras vigentes no Simples Nacional nesse mês; [Incluído(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+II - caso o valor da mercadoria devolvida seja superior ao da receita bruta total ou das receitas segregadas relativas ao mês da devolução, o saldo remanescente deverá ser deduzido nos meses subsequentes, até ser integralmente deduzido. [Incluído(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+Parágrafo único. Para a optante pelo Simples Nacional tributada com base no critério de apuração de receitas pelo regime de caixa, o valor a ser deduzido limita-se ao valor efetivamente devolvido ao adquirente. [Incluído(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+ABRANGÊNCIA DO SIMPLES NACIONAL
+Abrangência
+Art. 5º O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, dos seguintes impostos e contribuições devidos por microempresas ou empresas de pequeno porte:
+I - Imposto sobre a Renda da Pessoa Jurídica (IRPJ);
+II - Imposto sobre Produtos Industrializados (IPI), observado o disposto no inciso XII do §1° deste artigo;
+III - Contribuição Social sobre o Lucro Líquido (CSLL);
+IV - Contribuição para o Financiamento da Seguridade Social (Cofins), observado o disposto no inciso XII do §1º deste artigo;
+V - Contribuição para o PIS/Pasep, observado o disposto no inciso XII do § 1º deste artigo;
+VI - Contribuição patronal previdenciária (CPP) para a Seguridade Social, a cargo da pessoa jurídica, de que trata o art. 22 da Lei nº 8.212, de 24 de julho de 1991, exceto no caso da ME e da EPP que se dediquem às atividades de prestação de serviços referidos: [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+a) nas alíneas ' n' a ' z' do inciso I do § 3º do art. 12, para os fatos geradores ocorridos até 31 de dezembro de 2008; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+b) nas alíneas ' i' e ' j' do inciso II do § 3º do art. 12, para os fatos geradores ocorridos a partir de 1º de janeiro de 2009; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XIII a XXVI do § 3º e no § 4º do art. 12 desta Resolução;
+VII - Imposto sobre operações relativas à circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e de comunicação (ICMS);
+VIII - Imposto sobre serviços de qualquer natureza (ISS).
+§ 1º O recolhimento na forma deste artigo não exclui a incidência dos seguintes impostos ou contribuições, devidos na qualidade de contribuinte ou responsável, em relação aos quais será observada a legislação aplicável às demais pessoas jurídicas:
+I - Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários (IOF);
+II - Imposto sobre a Importação de Produtos Estrangeiros (II);
+III - Imposto sobre Exportação, para o exterior, de produtos nacionais ou nacionalizados (IE);
+IV - Imposto sobre a Propriedade Territorial Rural (ITR);
+V - Imposto de Renda, relativo aos rendimentos ou ganhos líquidos auferidos em aplicações de renda fixa ou variável;
+VI - Imposto de Renda relativo aos ganhos de capital auferidos na alienação de bens do ativo permanente;
+VII - Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF);
+VIII - Contribuição para o Fundo de Garantia do Tempo de Serviço (FGTS);
+IX - Contribuição para manutenção da Seguridade Social, relativa ao trabalhador;
+X - Contribuição para a Seguridade Social, relativa à pessoa do empresário, na qualidade de contribuinte individual;
+XI - Imposto de Renda relativo aos pagamentos ou créditos efetuados pela pessoa jurídica a pessoas físicas;
+XII - Contribuição para o PIS/Pasep, Cofins e IPI incidentes na importação de bens e serviços;
+XIII - ICMS devido
+a) nas operações ou prestações sujeitas ao regime de substituição tributária;
+b) por terceiro, a que o contribuinte se ache obrigado, por força da legislação estadual ou distrital vigente;
+c) na entrada, no território do Estado ou do Distrito Federal, de petróleo, inclusive lubrificantes e combustíveis líquidos e gasosos dele derivados, bem como energia elétrica, quando não destinados à comercialização ou industrialização;
+d) por ocasião do desembaraço aduaneiro;
+e) na aquisição ou manutenção em estoque de mercadoria desacobertada de documento fiscal;
+f) na operação ou prestação desacobertada de documento fiscal;
+g) nas operações com bens ou mercadorias sujeitas ao regime de antecipação do recolhimento do imposto, nas aquisições em outros Estados e Distrito Federal: [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+1 - com encerramento da tributação, observado o disposto no inciso IV do § 4º do art. 18 da Lei Complementar nº 123, de 2006; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+2 - sem encerramento da tributação, hipótese em que será cobrada a diferença entre a alíquota interna e a interestadual, sendo vedada a agregação de qualquer valor. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+h) nas aquisições em outros Estados e Distrito Federal de bens ou mercadorias, não sujeitas ao regime de antecipação do recolhimento do imposto, relativo à diferença entre a alíquota interna e a interestadual. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XIV - ISS devido:
+a) em relação aos serviços sujeitos à substituição tributária ou retenção na fonte;
+b) na importação de serviços;
+XV - demais tributos de competência da União, dos Estados, do Distrito Federal ou dos Municípios, não relacionados nos incisos anteriores.
+§ 2º Observada a legislação aplicável, a incidência do imposto de renda na fonte, na hipótese do inciso V do § 1º, será definitiva.
+§ 3º A tributação do ganho de capital será definitiva mediante a incidência da alíquota de 15% (quinze por cento) sobre a diferença positiva entre o valor de alienação e o custo de aquisição diminuído da depreciação, amortização ou exaustão acumulada, ainda que a microempresa e a empresa de pequeno porte não mantenham escrituração contábil desses lançamentos.
+§ 4º Para efeito do disposto no § 3º, a ME ou a EPP optante pelo Simples Nacional que não mantiver escrituração contábil deverá comprovar, mediante documentação hábil e idônea, o valor e data de aquisição do bem ou direito e demonstrar o cálculo da depreciação, amortização ou exaustão acumulada.
+§ 5º Na apuração de ganho de capital, os valores acrescidos em virtude de reavaliação somente poderão ser computados como parte integrante dos custos de aquisição dos bens e direitos se a empresa comprovar que os valores acrescidos foram computados na determinação da base de cálculo do imposto.
+§ 6º O imposto de renda calculado na forma dos §§ 3º e 4º, decorrente da alienação de ativos, deverá ser pago até o último dia útil do mês subseqüente ao da percepção dos ganhos.
+§ 7º As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam dispensadas do pagamento das demais contribuições instituídas pela União, inclusive as contribuições para as entidades privadas de serviço social e de formação profissional vinculadas ao sistema sindical, de que trata o art. 240 da Constituição Federal, e demais entidades de serviço social autônomo.
+§ 8º A diferença entre a alíquota interna e a interestadual de que tratam as alíneas ' g' e ' h' do inciso XIII do § 1º será calculada tomando-se por base as alíquotas aplicáveis às pessoas jurídicas não optantes pelo Simples Nacional. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+Art. 6º Consideram-se isentos do imposto de renda na fonte e na declaração de ajuste do beneficiário os valores efetivamente pagos ou distribuídos ao titular ou sócio da ME ou EPP optante pelo Simples Nacional, salvo os que corresponderem a pró-labore, aluguéis ou serviços prestados.
+§ 1º A isenção de que trata o caput fica limitada ao valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995, sobre a receita bruta mensal, no caso de antecipação de fonte, ou da receita bruta total anual, tratando-se de declaração de ajuste, subtraído do valor devido na forma do Simples Nacional no período, relativo ao IRPJ. [Redação dada pelo(a) Resolução CGSN nº 14, de 23 de julho de 2007]
+§ 2º O disposto no § 1º não se aplica na hipótese de a ME ou a EPP manter escrituração contábil e evidenciar lucro superior àquele limite.
+DA OPÇÃO PELO SIMPLES NACIONAL
+Art. 7º A opção pelo Simples Nacional dar-se-á por meio da internet, sendo irretratável para todo o ano-calendário.
+§ 1º A opção de que trata o caput deverá ser realizada no mês de janeiro, até seu último dia útil, produzindo efeitos a partir do primeiro dia do ano-calendário da opção, ressalvado o disposto no § 3º deste artigo e observado o disposto no § 3º do art. 21.
+§ 1º-A Enquanto não vencido o prazo para solicitação da opção o contribuinte poderá: [Incluído(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+I - regularizar eventuais pendências impeditivas ao ingresso no Simples Nacional, sujeitando-se ao indeferimento da opção caso não as regularize até o término desse prazo; [Incluído(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+II - efetuar o cancelamento da solicitação de opção, salvo se o pedido já houver sido deferido. [Incluído(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+§ 1º-B O disposto no § 1º-A não se aplica às empresas em início de atividade. [Incluído(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+§ 1º-C Para os fins do disposto no inciso I do § 1º-A deste artigo, a ausência ou irregularidade na inscrição municipal ou estadual, quando exigível, também é considerada como pendência impeditiva à opção pelo Simples Nacional. [Incluído(a) pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+§ 2º No momento da opção, o contribuinte deverá prestar declaração quanto ao não-enquadramento nas vedações previstas no art. 12, independentemente da verificação efetuada conforme disposto no art. 9º.
+§ 3º No caso de início de atividade da ME ou EPP no ano-calendário da opção, deverá ser observado o seguinte:
+I - a ME ou a EPP, após efetuar a inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ), bem como obter a sua inscrição municipal e estadual, caso exigíveis, terá o prazo de até 30 (trinta) dias, contados do último deferimento de inscrição, para efetuar a opção pelo Simples Nacional; [Redação dada pelo(a) Resolução CGSN nº 41, de 1º de setembro de 2008]
+II - após a formalização da opção, a Secretaria da Receita Federal do Brasil (RFB) disponibilizará aos Estados, Distrito Federal e Municípios a relação dos contribuintes para verificação da regularidade da inscrição Municipal ou Estadual, quando exigível; [Redação dada pelo(a) Resolução CGSN nº 41, de 1º de setembro de 2008]
+III - os entes federativos deverão efetuar a comunicação à RFB sobre a regularidade na inscrição Municipal ou Estadual, quando exigível: [Redação dada pelo(a) Resolução CGSN nº 41, de 1º de setembro de 2008]
+a) até o dia 5 (cinco) de cada mês, relativamente às informações disponibilizadas pela RFB do dia 20 ao dia 31 do mês anterior; [Incluído(a) pelo(a) Resolução CGSN nº 14, de 23 de julho de 2007]
+b) até o dia 15 (quinze) de cada mês, relativamente às informações disponibilizadas pela RFB do dia 1º ao dia 9 do mesmo mês; [Redação dada pelo(a) Resolução CGSN nº 37, de 30 de junho de 2008]
+c) até o dia 25 (vinte e cinco) de cada mês, relativamente às informações disponibilizadas pela RFB do dia 10 ao dia 19 do mesmo mês. [Incluído(a) pelo(a) Resolução CGSN nº 14, de 23 de julho de 2007]
+IV - confirmada a regularidade na inscrição Municipal ou Estadual, quando exigível, ou ultrapassado o prazo a que se refere o inciso III, sem manifestação por parte do ente federativo, a opção será deferida, observadas as demais disposições relativas à vedação para ingresso no Simples Nacional e o disposto no § 6º; [Redação dada pelo(a) Resolução CGSN nº 41, de 1º de setembro de 2008]
+V - a opção produzirá efeitos: [Redação dada pelo(a) Resolução CGSN nº 29, de 21 de janeiro de 2008]
+a) para as empresas com data de abertura constante do CNPJ até 31 de dezembro de 2007, a partir da data do último deferimento da inscrição nos cadastros estadual e municipal, salvo se o ente federativo considerar inválidas as informações prestadas pela ME ou EPP, hipótese em que a opção será considerada indeferida; [Incluído(a) pelo(a) Resolução CGSN nº 29, de 21 de janeiro de 2008]
+b) para as empresas com data de abertura constante do CNPJ a partir de 1º de janeiro de 2008, desde a respectiva data de abertura, salvo se o ente federativo considerar inválidas as informações prestadas pela ME ou EPP nos cadastros estadual e municipal, hipótese em que a opção será considerada indeferida; [Incluído(a) pelo(a) Resolução CGSN nº 29, de 21 de janeiro de 2008]
+VI - validadas as informações, considera-se data de início de atividade: [Redação dada pelo(a) Resolução CGSN nº 29, de 21 de janeiro de 2008]
+a) para as empresas com data de abertura constante do CNPJ até 31 de dezembro de 2007, a do último deferimento da inscrição nos cadastros estadual e municipal; [Incluído(a) pelo(a) Resolução CGSN nº 29, de 21 de janeiro de 2008]
+b) para as empresas com data de abertura constante do CNPJ a partir de 1º de janeiro de 2008, a da respectiva abertura. [Incluído(a) pelo(a) Resolução CGSN nº 29, de 21 de janeiro de 2008]
+§ 4º A RFB disponibilizará aos Estados, Distrito Federal e Municípios relação dos contribuintes referidos neste artigo para verificação quanto à regularidade para a opção pelo Simples Nacional, e, posteriormente, a relação dos contribuintes que tiveram a sua opção deferida.
+§ 5º Excepcionalmente, para as opções efetuadas durante os meses de julho e agosto de 2007, a verificação de que trata o inciso II do § 3º deverá ser realizada: [Redação dada pelo(a) Resolução CGSN nº 22, de 23 de agosto de 2007]
+I - até o dia 29 de agosto de 2007, relativamente às opções efetuadas em julho; [Redação dada pelo(a) Resolução CGSN nº 22, de 23 de agosto de 2007]
+II - até o dia 10 de setembro de 2007, relativamente às opções efetuadas em agosto. [Redação dada pelo(a) Resolução CGSN nº 22, de 23 de agosto de 2007]
+§ 6º A ME ou a EPP não poderá efetuar a opção pelo Simples Nacional na condição de empresa em início de atividade depois de decorridos 180 (cento e oitenta) dias da data de abertura constante do CNPJ, observados os demais requisitos previstos no inciso I do § 3º deste artigo. [Redação dada pelo(a) Resolução CGSN nº 29, de 21 de janeiro de 2008]
+§ 7º Excepcionalmente, a opção de que trata o caput para a ME ou EPP com sede nos municípios de Areal, Bom Jardim, Nova Friburgo, Petrópolis, São José do Vale do Rio Preto, Sumidouro e Teresópolis, todos no Estado do Rio de Janeiro, poderá ser realizada no período de 4 a 29 de abril de 2011, produzindo efeitos a partir de 1º de janeiro de 2011, ressalvado o disposto no § 3º. [Incluído(a) pelo(a) Resolução CGSN nº 85, de 9 de março de 2011]
+Art. 7º-A A ME ou EPP poderá efetuar agendamento da opção de que trata o § 1º do art. 7º, observadas as seguintes disposições: [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+I - estará disponível, em aplicativo específico no Portal do Simples Nacional, entre o primeiro dia útil de novembro e o penúltimo dia útil de dezembro do ano anterior ao da opção; [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+II - sujeitar-se-á ao disposto nos §§ 2º e 4º do art. 7º; [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+III - na hipótese de serem identificadas pendências impeditivas ao ingresso no Simples Nacional, o agendamento será rejeitado, podendo a empresa: [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+a) solicitar novo agendamento após a regularização das pendências, observado o prazo previsto no inciso I; ou [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+b) realizar a opção no prazo e condições previstos no § 1º do art. 7º; [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+IV - inexistindo pendências, o agendamento será confirmado, gerando para a ME ou EPP opção válida com efeitos a partir do primeiro dia do ano-calendário subsequente; [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+V - o agendamento: [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+a) não se aplica à opção para ME ou EPP em início de atividade; [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+b) poderá ser cancelado até o final do prazo previsto no inciso I. [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+§ 1º A confirmação do agendamento não implica opção pelo Sistema de Recolhimento em Valores Fixos Mensais dos Tributos Abrangidos pelo Simples Nacional (SIMEI), que deverá ser efetuado no prazo previsto no inciso II do art. 2º da Resolução CGSN nº 58, de 27 de abril de 2009. [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+§ 2º Não haverá contencioso administrativo na hipótese de o agendamento ser rejeitado. [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+Art. 8º Na hipótese de a opção a que se refere o art. 7º ser indeferida, será expedido termo de indeferimento da opção pelo Simples Nacional por autoridade fiscal integrante da estrutura administrativa do respectivo ente federado que decidiu o indeferimento, inclusive na hipótese de existência de débitos tributários.
+§ 1º Será dado ciência do termo a que se refere o caput à ME ou à EPP pelo ente federativo que tenha indeferido a sua opção, segundo a sua respectiva legislação. [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 1º-A O contencioso administrativo relativo ao indeferimento de opção será de competência do ente federativo que decidir o indeferimento, observados os dispositivos legais atinentes aos processos administrativos fiscais desse ente. [Incluído(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+§ 1º-B O ente federativo que considerar procedente recurso administrativo do contribuinte contra o indeferimento de sua opção deverá registrar a liberação da respectiva pendência em aplicativo próprio disponível no Portal do Simples Nacional. [Incluído(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+§ 1º-C Na hipótese do § 1º-B, o deferimento da opção será efetuado automaticamente pelo sistema do Simples Nacional caso não tenha havido pendências com outros entes federativos, ou, se existirem, após a liberação da última pendência que tenha motivado o indeferimento. [Incluído(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+§ 1º-D Na hipótese de provimento de recurso administrativo relativo à solicitação de opção efetuada antes da implantação do aplicativo de que trata os §§ 1º-B e 1º-C, o ente federativo deverá promover a inclusão do contribuinte no Simples Nacional pelo aplicativo de registro de eventos, desde que não restem pendências com outros entes federativos. [Incluído(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+§ 2º Na hipótese de decisão administrativa definitiva ou judicial deferindo a opção pelo Simples Nacional com efeitos retroativos, os tributos e contribuições devidos pelo Simples Nacional poderão ser recolhidos sem a cobrança de multa de mora, tão-somente com incidência de juros de mora.
+§ 3º [Revogado(a) pelo(a) Resolução CGSN nº 56, de 23 de março de 2009]
+Art. 9º Serão utilizados os códigos de atividades econômicas previstos na Classificação Nacional de Atividades Econômicas (CNAE) informados pelos contribuintes no CNPJ, para verificar se as ME e as EPP atendem aos requisitos pertinentes.
+§ 1º O CGSN publicará resolução específica relacionando os códigos da CNAE impeditivos ao Simples Nacional.
+§ 2º Na resolução a que se refere o § 1º serão relacionados também os códigos ambíguos da CNAE, ou seja, os que abrangem concomitantemente atividade impeditiva e permitida ao Simples Nacional.
+§ 3º A ME ou a EPP que exerça atividade econômica cuja CNAE seja considerada ambígua não participará da opção tácita prevista no art. 18, podendo, entretanto, efetuar a opção de acordo com o art. 7º, quando prestará declaração de que exerce tão-somente atividades permitidas no Simples Nacional.
+§ 4º Na hipótese de alteração da relação de códigos impeditivos ou ambíguos, serão observadas as seguintes regras:
+I - se determinada atividade econômica deixar de ser considerada como impeditiva ao Simples Nacional, as ME e as EPP que exerçam essa atividade passarão a poder optar por esse regime de tributação a partir do ano-calendário seguinte ao da alteração desse código, desde que não incorram em nenhuma das vedações do art. 12;
+II - se determinada atividade econômica passar a ser considerada impeditiva ao Simples Nacional, as ME e as EPP optantes que exerçam essa atividade deverão efetuar a sua exclusão obrigatória, porém com efeitos para o ano-calendário subseqüente.
+Tributação dos valores diferidos
+Art. 10. Os valores dos impostos e contribuições relativos a períodos anteriores à opção pelo Simples Nacional, cuja tributação tenha sido diferida, deverão ser pagos em até 30 (trinta) dias, contados da data do deferimento da opção.
+Créditos e incentivos fiscais
+Art. 11. As ME e as EPP optantes pelo Simples Nacional não farão jus à apropriação nem transferirão créditos relativos a impostos ou contribuições abrangidos pelo Simples Nacional, tampouco poderão utilizar ou destinar qualquer valor a título de incentivo fiscal.
+Parágrafo único. Para os fatos geradores ocorridos a partir de 1º de janeiro de 2009, as pessoas jurídicas e aquelas a elas equiparadas pela legislação tributária, não optantes pelo Simples Nacional, terão direito a crédito correspondente ao ICMS incidente sobre as suas aquisições de mercadorias de ME ou EPP optante pelo Simples Nacional, desde que destinadas à comercialização ou industrialização e observado, como limite, o ICMS efetivamente devido pelas optantes pelo Simples Nacional em relação a essas aquisições, aplicando-se o disposto nos arts. 2º-A a 2º-D na Resolução CGSN nº 10, de 28 de junho de 2007. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+VEDAÇÕES AO INGRESSO NO SIMPLES NACIONAL
+Art. 12. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a ME ou a EPP:
+I - que tenha auferido, no ano-calendário imediatamente anterior, receita bruta superior a R$ 2.400.000,00 (dois milhões e quatrocentos mil reais);
+II - de cujo capital participe outra pessoa jurídica;
+III - que seja filial, sucursal, agência ou representação, no País, de pessoa jurídica com sede no exterior;
+IV - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de outra empresa que receba tratamento jurídico diferenciado nos termos da Lei Complementar nº 123, de 2006, desde que a receita bruta global ultrapasse o limite de que trata o inciso I do caput deste artigo;
+V - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra empresa não beneficiada pela Lei Complementar nº 123, de 2006, desde que a receita bruta global ultrapasse o limite de que trata o inciso I do caput deste artigo;
+VI - cujo sócio ou titular seja administrador ou equiparado de outra pessoa jurídica com fins lucrativos, desde que a receita bruta global ultrapasse o limite de que trata o inciso I do caput deste artigo;
+VII - constituída sob a forma de cooperativas, salvo as de consumo;
+VIII - que participe do capital de outra pessoa jurídica;
+IX - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de caixa econômica, de sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de corretora ou de distribuidora de títulos, valores mobiliários e câmbio, de empresa de arrendamento mercantil, de seguros privados e de capitalização ou de previdência complementar;
+X - resultante ou remanescente de cisão ou qualquer outra forma de desmembramento de pessoa jurídica que tenha ocorrido em um dos 5 (cinco) anos-calendário anteriores;
+XI - constituída sob a forma de sociedade por ações;
+XII - que explore atividade de prestação cumulativa e contínua de serviços de assessoria creditícia, gestão de crédito, seleção e riscos, administração de contas a pagar e a receber, gerenciamento de ativos (asset management), compras de direitos creditórios resultantes de vendas mercantis a prazo ou de prestação de serviços (factoring);
+XIII - que tenha sócio domiciliado no exterior;
+XIV - de cujo capital participe entidade da administração pública, direta ou indireta, federal, estadual ou municipal;
+XV - para os fatos geradores até 31 de dezembro de 2008, que preste serviço de comunicação; [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XVI - que possua débito com o Instituto Nacional do Seguro Social (INSS), ou com as Fazendas Públicas Federal, Estadual ou Municipal, cuja exigibilidade não esteja suspensa;
+XVII - que preste serviço de transporte intermunicipal e interestadual de passageiros;
+XVIII - que seja geradora, transmissora, distribuidora ou comercializadora de energia elétrica;
+XIX - que exerça atividade de importação ou fabricação de automóveis e motocicletas;
+XX - que exerça atividade de importação de combustíveis;
+XXI - que exerça atividade de produção ou venda no atacado de: [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+a) cigarros, cigarrilhas, charutos, filtros para cigarros, armas de fogo, munições e pólvoras, explosivos e detonantes; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+b) bebidas a seguir descritas: [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+1. Alcoólicas; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+2. Refrigerantes, inclusive águas saborizadas gaseificadas; concentrado; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+3. Preparações compostas, não alcoólicas (extratos concentrados ou sabores concentrados), para elaboração de bebida refrigerante, com capacidade de diluição de até dez partes da bebida para cada parte do concentrado; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+4. Cervejas sem álcool; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XXII - que tenha por finalidade a prestação de serviços decorrentes do exercício de atividade intelectual, de natureza técnica, científica, desportiva, artística ou cultural, que constitua profissão regulamentada ou não, bem como a que preste serviços de instrutor, de corretor, de despachante ou de qualquer tipo de intermediação de negócios;
+XXIII - que realize cessão ou locação de mão-de-obra;
+XXIV - que realize atividade de consultoria;
+XXV - que se dedique ao loteamento e à incorporação de imóveis.
+XXVI - que realize atividade de locação de imóveis próprios, exceto quando se referir a prestação de serviços tributados pelo ISS. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 1º Na hipótese de início de atividade no ano-calendário imediatamente anterior ao da opção, o valor a que se refere o inciso I do caput será de R$ 200.000,00 (duzentos mil reais), multiplicados pelo número de meses daquele período, consideradas as frações de meses como um mês inteiro.
+§ 2º O disposto nos incisos V e VIII do caput não se aplica à participação no capital de cooperativas de crédito, bem como em centrais de compras, bolsas de subcontratação, no consórcio referido no art. 50 e na sociedade de propósito específico, prevista no art. 56, ambos da Lei Complementar nº 123, de 2006, e em associações assemelhadas, sociedades de interesse econômico, sociedades de garantia solidária e outros tipos de sociedade, que tenham como objetivo social a defesa exclusiva dos interesses econômicos das microempresas e empresas de pequeno porte. [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 3º As vedações relativas ao exercício de atividades previstas no caput não se aplicam às pessoas jurídicas que se dediquem exclusivamente às atividades seguintes ou as exerçam em conjunto com outras atividades que não tenham sido objeto de vedação no caput: [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+I - com efeitos até 31 de dezembro de 2008: [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+a) creche, pré-escola e estabelecimento de ensino fundamental; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+b) agência terceirizada de correios; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+c) agência de viagem e turismo; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+d) centro de formação de condutores de veículos automotores de transporte terrestre de passageiros e de carga; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+e) agência lotérica; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+f) serviços de manutenção e reparação de automóveis, caminhões, ônibus, outros veículos pesados, tratores, máquinas e equipamentos agrícolas; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+g) serviços de instalação, manutenção e reparação de acessórios para veículos automotores; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+h) serviços de manutenção e reparação de motocicletas, motonetas e bicicletas; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+i) serviços de instalação, manutenção e reparação de máquinas de escritório e de informática; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+j) serviços de reparos hidráulicos, elétricos, pintura e carpintaria em residências ou estabelecimentos civis ou empresariais, bem como manutenção e reparação de aparelhos eletrodomésticos; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+k) serviços de instalação e manutenção de aparelhos e sistemas de ar condicionado, refrigeração, ventilação, aquecimento e tratamento de ar em ambientes controlados; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+l) veículos de comunicação, de radiodifusão sonora e de sons e imagens, e mídia externa; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+m) transporte municipal de passageiros; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+n) construção de imóveis e obras de engenharia em geral, inclusive sob a forma de subempreitada; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+o) empresas montadoras de estandes para feiras; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+p) escolas livres, de línguas estrangeiras, artes, cursos técnicos e gerenciais; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+q) produção cultural e artística; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+r) produção cinematográfica e de artes cênicas; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+s) cumulativamente administração e locação de imóveis de terceiros; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+t) academias de dança, de capoeira, de ioga e de artes marciais; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+u) academias de atividades físicas, desportivas, de natação e escolas de esportes; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+v) elaboração de programas de computadores, inclusive jogos eletrônicos, desde que desenvolvidos em estabelecimento do optante; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+w) licenciamento ou cessão de direito de uso de programas de computação; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+x) planejamento, confecção, manutenção e atualização de páginas eletrônicas, desde que realizados em estabelecimento do optante; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+y) escritórios de serviços contábeis; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+z) serviço de vigilância, limpeza ou conservação. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+II - com efeitos a partir de 1º de janeiro de 2009: [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+a) creche, pré-escola e estabelecimento de ensino fundamental, escolas técnicas, profissionais e de ensino médio, de línguas estrangeiras, de artes, cursos técnicos de pilotagem, preparatórios para concursos, gerenciais e escolas livres, exceto as previstas nas alíneas ' l' e ' m' ; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+b) agência terceirizada de correios; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+c) agência de viagem e turismo; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+d) centro de formação de condutores de veículos automotores de transporte terrestre de passageiros e de carga; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+e) agência lotérica; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+f) serviços de instalação, de reparos e de manutenção em geral, bem como de usinagem, solda, tratamento e revestimento em metais; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+g) transporte municipal de passageiros; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+h) escritórios de serviços contábeis, observado o disposto nos § 6º; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+i) construção de imóveis e obras de engenharia em geral, inclusive sob a forma de subempreitada, execução de projetos e serviços de paisagismo, bem como decoração de interiores; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+j) serviço de vigilância, limpeza ou conservação; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+k) cumulativamente administração e locação de imóveis de terceiros; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+l) academias de dança, de capoeira, de ioga e de artes marciais; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+m) academias de atividades físicas, desportivas, de natação e escolas de esportes; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+n) elaboração de programas de computadores, inclusive jogos eletrônicos, desde que desenvolvidos em estabelecimento do optante; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+o) licenciamento ou cessão de direito de uso de programas de computação; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+p) planejamento, confecção, manutenção e atualização de páginas eletrônicas, desde que realizados em estabelecimento do optante; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+q) empresas montadoras de estandes para feiras; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+r) produção cultural e artística; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+s) produção cinematográfica e de artes cênicas; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+t) laboratórios de análises clínicas ou de patologia clínica; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+u) serviços de tomografia, diagnósticos médicos por imagem, registros gráficos e métodos óticos, bem como ressonância magnética; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+v) serviços de prótese em geral. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+III - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+III - com efeitos a partir de 1º de janeiro de 2010: produções cinematográficas, audiovisuais, artísticas e culturais, sua exibição ou apresentação, inclusive no caso de música, literatura, artes cênicas, artes visuais, cinematográficas e audiovisuais. [Incluído(a) pelo(a) Resolução CGSN nº 70, de 26 de janeiro de 2010]
+IV - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+V - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+VI - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+VII - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+VIII - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+IX - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+X - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XI - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XII - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XIII - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XIV - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XV - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XVI - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XVII - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XVIII - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XIX - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XX - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XXI - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XXII - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XXIII - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XXIV - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XXV - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+XXVI - [Suprimido(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 4o Também poderá optar pelo Simples Nacional a ME ou EPP que se dedique à prestação de outros serviços que não tenham sido objeto de vedação expressa neste artigo, desde que não incorra em nenhuma das hipóteses de vedação previstas nesta Resolução. [Redação dada pelo(a) Resolução CGSN nº 20, de 15 de agosto de 2007]
+§ 5º A vedação de que trata o inciso XXIII do caput não se aplica às atividades referidas nas alíneas ' i' e ' j' do inciso II do § 3º. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 6º Os escritórios de serviços contábeis, individualmente ou por meio de suas entidades representativas de classe, deverão: [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+I - promover atendimento gratuito relativo à inscrição, à opção de que trata o art. 18-A da Lei Complementar nº 123, de 2006, e à primeira declaração anual simplificada do microempreendedor individual, podendo, para tanto, por meio de suas entidades representativas de classe, firmar convênios e acordos com a União, os Estados, o Distrito Federal e os Municípios, por intermédio dos seus órgãos vinculados; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+II - fornecer, por solicitação do Comitê Gestor, resultados de pesquisas quantitativas e qualitativas relativas às ME e EPP optantes pelo Simples Nacional por eles atendidas; [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+III - promover eventos de orientação fiscal, contábil e tributária para as ME e EPP optantes pelo Simples Nacional por eles atendidas. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+SUBLIMITES
+Art. 13. Sem prejuízo da possibilidade de adoção de todas as faixas de receita previstas no art. 18 da Lei Complementar nº 123, de 2006, os Estados e o Distrito Federal poderão optar pela aplicação das faixas de receita bruta anual, para efeito de recolhimento do ICMS em seus respectivos territórios, observados os seguintes sublimites:
+I - até R$ 1.200.000,00 (um milhão e duzentos mil reais), para os Estados cuja participação anual no Produto Interno Bruto brasileiro seja de até 1% (um por cento);
+II - até R$ 1.800.000,00 (um milhão e oitocentos mil reais), para os Estados cuja participação anual no Produto Interno Bruto brasileiro seja de mais de 1% (um por cento) e de menos de 5% (cinco por cento).
+§ 1º Os Estados cuja participação anual no Produto Interno Bruto (PIB) brasileiro seja igual ou superior a 5% (cinco por cento) ficam obrigados a adotar todas as faixas de receita bruta anual.
+§ 2º Para fins do disposto no caput, a participação no PIB brasileiro será apurada levando em conta o último resultado anual divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE) até o último dia útil de setembro do ano-calendário da manifestação da opção.
+§ 3º A opção prevista nos incisos I e II do caput, bem como a obrigatoriedade de adotar todas as faixas de receita bruta anual conforme o § 1º, produzirá efeitos somente para o ano-calendário subseqüente.
+Art. 14. A opção feita na forma do art. 13 pelo Estado ou Distrito Federal importará adoção do mesmo sublimite de receita bruta anual para efeito de recolhimento do ISS dos Municípios nele localizados, bem como do ISS devido no Distrito Federal.
+Art. 15. As ME e EPP que ultrapassarem os sublimites a que se referem os incisos I e II do art. 13 estarão automaticamente impedidas de recolher o ICMS e o ISS na forma do Simples Nacional no ano-calendário subseqüente ao que tiver ocorrido o excesso.
+Parágrafo único. O disposto no caput não se aplica na hipótese de o Estado ou de o Distrito Federal adotarem, compulsoriamente ou por opção, a aplicação de limite ou sublimite de receita bruta superior ao que vinha sendo utilizado no ano-calendário em que ocorreu o excesso da receita bruta, exceto se o novo sublimite também houver sido ultrapassado.
+Art. 16. Os Estados e o Distrito Federal, na hipótese de adoção, para efeito de recolhimento do ICMS em seus territórios, dos sublimites de receita bruta previstos nos incisos I e II do art. 13, deverão manifestar-se mediante decreto do respectivo Poder Executivo, até o último dia útil de outubro, observado o disposto no art. 13. [Redação dada pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+§ 1º Os Estados e o Distrito Federal notificarão o CGSN da opção a que se refere o caput, até o último dia útil do mês de novembro, dando ciência às entidades referidas no § 3º.
+§ 2º O CGSN divulgará por meio de Resolução a opção efetuada pelos Estados e Distrito Federal, durante o mês de dezembro.
+§ 3º A Associação Brasileira das Secretarias de Finanças das Capitais (Abrasf) e a Confederação Nacional dos Municípios (CNM) serão comunicadas pelo CGSN da opção referida no caput.
+DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+Art. 17. Excepcionalmente, para o ano-calendário de 2007, a opção a que se refere o art. 7º poderá ser realizada do primeiro dia útil de julho de 2007 até 20 de agosto de 2007, produzindo efeitos a partir de 1º de julho de 2007. [Redação dada pelo(a) Resolução CGSN nº 19, de 13 de agosto de 2007]
+Art. 17-A. Excepcionalmente, para o ano-calendário de 2009, a opção a que se refere o art. 7º poderá ser realizada do primeiro dia útil de janeiro de 2009 até 20 de fevereiro de 2009, produzindo efeitos a partir de 1º de janeiro de 2009. [Incluído(a) pelo(a) Resolução CGSN nº 54, de 29 de janeiro de 2009]
+Migração
+Art. 18. Serão consideradas inscritas no Simples Nacional, em 1º de julho de 2007, as ME e EPP regularmente optantes pelo regime tributário de que trata a Lei nº 9.317, de 5 de dezembro de 1996, salvo as que estiverem impedidas de optar por alguma das vedações previstas nesta Resolução. [Redação dada pelo(a) Resolução CGSN nº 20, de 15 de agosto de 2007]
+§ 1º Para fins da opção tácita de que trata o caput, consideram-se regularmente optantes as ME e as EPP inscritas no CNPJ como optantes pelo regime tributário de que trata a Lei nº 9.317, de 1996, que até 30 de junho de 2007 não tenham sido excluídas dessa sistemática de tributação ou, se excluídas, que até essa data não tenham obtido decisão definitiva na esfera administrativa ou judicial com relação a recurso interposto.
+§ 2º No mês de junho de 2007, a RFB disponibilizará, por meio da internet, relação de contribuintes optantes pelo regime tributário de que trata a Lei nº 9.317, de 1996, que não tiveram pendências detectadas relativamente à possibilidade de opção pelo Simples Nacional.
+§ 3º A verificação de que trata o § 2º implica o deferimento da opção tácita para o Simples Nacional, desde que as ME e EPP não incorram em nenhuma das vedações previstas nesta Resolução até 30 de junho de 2007.
+§ 4º Em julho de 2007, será disponibilizado, por meio da internet, o resultado da opção tácita de que trata este artigo.
+§ 5º A opção tácita realizada de conformidade com o caput submeterá o contribuinte à sistemática do Simples Nacional a partir de 1º de julho de 2007, sendo irretratável para todo o segundo semestre do ano-calendário de 2007, ressalvado o disposto no § 6º.
+§ 6º Os contribuintes inscritos no Simples Nacional na forma do caput poderão cancelar sua opção no período de que trata o caput do art. 17, mediante aplicativo específico disponível na internet. [Redação dada pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007]
+§ 7º A opção tácita não exclui a responsabilidade do contribuinte quanto ao atendimento dos requisitos exigidos para o ingresso no Simples Nacional.
+§ 8º Os contribuintes inscritos no Simples Nacional na forma do caput que incorram em pelo menos uma das situações impeditivas previstas nesta Resolução deverão cancelar sua inscrição no Simples Nacional na forma do § 6º.
+§ 9º Ulterior exclusão do regime tributário de que trata a Lei nº 9.317, de 1996, não implicará anulação da opção tácita pelo Simples Nacional.
+§ 10. Será disponibilizada aos Estados, Distrito Federal e Municípios a relação dos contribuintes referidos neste artigo para verificação quanto à regularidade para a opção pelo Simples Nacional.
+Art. 19. Excepcionalmente para o ano-calendário de 2007, a manifestação dos Estados e do Distrito Federal de que trata o art. 16 dar-se-á até 12 de junho, sendo a participação no PIB brasileiro apurada levando em conta o resultado anual divulgado pelo IBGE até a data de publicação desta Resolução.
+§ 1º Os Estados e o Distrito Federal notificarão o CGSN da opção a que se refere o caput, até o dia 15 de junho.
+§ 2º O CGSN divulgará por meio de Resolução, durante a segunda quinzena do mês de junho, a opção efetuada pelos Estados e Distrito Federal, sem prejuízo do disposto no § 3º do art. 16.
+Parcelamento Especial para Ingresso
+Art. 20. Poderão ser objeto do parcelamento de que trata o art. 79 da Lei Complementar nº 123, de 2006, os débitos com o Instituto Nacional do Seguro Social - INSS, ou com as Fazendas Públicas Federal, Estadual ou Municipal, inclusive os inscritos em dívida ativa, com vencimento até 30 de junho de 2008. [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 1º Os débitos objeto de litígio judicial ou administrativo somente serão alcançados pelo parcelamento de que trata o caput, no caso de o sujeito passivo desistir de forma irretratável da impugnação ou do recurso interposto, ou da ação judicial proposta, e cumulativamente renunciar a quaisquer alegações de direito sobre as quais se fundam os referidos processos administrativos e ações judiciais;
+§ 2º O ingresso no parcelamento de que trata o caput impõe ao sujeito passivo a aceitação plena e irretratável de todas as condições estabelecidas nesta Resolução e constituí confissão irretratável e irrevogável da dívida relativa aos débitos tributários nele incluídos, com reconhecimento expresso da certeza e liquidez do crédito correspondente, produzindo os efeitos previstos no parágrafo único do art. 174 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional) e no inciso VI do art. 202 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil).
+§ 3º [Revogado(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 4º [Revogado(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 5º O parcelamento de que trata o caput não se aplica na hipótese de reingresso de ME ou EPP no Simples Nacional. [Incluído(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+Art. 21. O parcelamento de que trata o art. 20:
+I - deverá ser requerido perante cada órgão responsável pelos respectivos débitos, tão-somente até o dia 20 de fevereiro de 2009, prazo no qual deverá ser paga a primeira parcela de cada pedido de parcelamento; [Redação dada pelo(a) Resolução CGSN nº 54, de 29 de janeiro de 2009]
+II - poderá ser concedido em até 100 (cem) parcelas mensais e sucessivas; [Redação dada pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+III - terá como valor mínimo de parcela mensal R$ 100,00 (cem reais), considerados isoladamente os débitos:
+a) para com a Seguridade Social, previstos na alínea "a" do parágrafo único do art. 11 da Lei nº 8.212, de 24 de julho de 1991, inclusive a título de substituição, destinadas ao Fundo do Regime Geral de Previdência Social (RGPS) de que trata o § 1º do art. 2º da Lei nº 11.457, de 16 de março de 2007;
+b) para com a Fazenda Nacional e não destinadas ao Fundo do RGPS;
+c) para com a Fazenda de cada Estado e do Distrito Federal;
+d) para com a Fazenda de cada Município.
+§ 1º O requerimento do parcelamento é condicionado à comprovação do pedido da opção pelo Simples Nacional.
+§ 2º O indeferimento do pedido da opção pelo Simples Nacional implicará a rescisão dos parcelamentos já concedidos.
+§ 3º [Revogado(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007]
+I - [Revogado(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007]
+II - [Revogado(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007]
+§ 4º [Revogado(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007]
+§ 5º [Revogado(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007]
+Art. 21-A. [Incluído(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007] [Revogado(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 1º [Incluído(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007] [Revogado(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+§ 2º [Incluído(a) pelo(a) Resolução CGSN nº 16, de 30 de julho de 2007] [Revogado(a) pelo(a) Resolução CGSN nº 50, de 22 de dezembro de 2008]
+Art. 22. Os depósitos existentes vinculados aos débitos a serem parcelados nos termos desta Resolução, serão automaticamente convertidos em renda da União, da Previdência Social, dos Estados, dos Municípios ou do Distrito Federal, conforme o caso, concedendo-se o parcelamento sobre o saldo remanescente.
+Art. 23. Aplicam-se a este parcelamento, subsidiariamente, regras específicas a serem expedidas pelas administrações tributárias responsáveis pelos débitos, no âmbito de sua competência.
+Art. 24. Esta Resolução entra em vigor na data de sua publicação.
+JORGE ANTONIO DEHER RACHID Presidente do Comitê

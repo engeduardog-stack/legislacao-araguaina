@@ -1,0 +1,27 @@
+Resolução CGSN nº 39, de 1º de setembro de 2008
+Publicado(a) no DOU de 03/09/2008, página 45
+Visão: vigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32524
+
+Dispõe sobre a restituição no âmbito do Simples Nacional.
+O Comitê Gestor do Simples Nacional (CGSN), no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007 e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+DISPOSIÇÃO PRELIMINAR
+Art. 1º Esta Resolução regulamenta o processo de restituição dos tributos arrecadados no âmbito do Simples Nacional.
+Art. 2º A Microempresa (ME) ou a Empresa de Pequeno Porte (EPP), no caso de recolhimento indevido ou em valor maior que o devido, poderá requerer restituição.
+Parágrafo único. Entende-se como restituição, para efeitos desta Resolução, a repetição de indébito decorrente de valores pagos indevidamente ou a maior pelo contribuinte, por meio do Documento de Arrecadação do Simples Nacional (DAS), mesmo que objeto de concomitante compensação de ofício promovida pelo ente federativo, observado o disposto no § 3º do art. 3º.
+Restituição
+Art. 3º A ME ou EPP optante pelo Simples Nacional somente poderá solicitar a restituição de tributos abrangidos pelo Simples Nacional diretamente ao respectivo ente federativo, observada sua competência tributária.
+§ 1º O ente federativo deverá:
+I - certificar-se da existência do crédito a ser restituído, pelas informações constantes nos aplicativos de consulta no Portal do Simples Nacional;
+II - registrar em controles próprios, para transferência ao aplicativo específico do Simples Nacional, quando disponível, os dados referentes à restituição processada, contendo:
+a) Número no Cadastro Nacional da Pessoa Jurídica (CNPJ);
+b) Razão Social;
+c) Período de Apuração;
+d) Tributo objeto da restituição;
+e) Valor original restituído;
+f) Número do DAS objeto da restituição.
+§ 2º O processo de restituição deverá observar as normas estabelecidas na legislação de cada ente federativo.
+§ 3º O crédito a ser restituído poderá, a critério do ente federativo, ser objeto de compensação com débitos com a Fazenda Pública, desde que relativos tão-somente a valores e tributos não abrangidos pelo Simples Nacional, de acordo com a legislação de cada ente.
+§ 4º Não haverá compensação entre créditos relativos a tributos abrangidos pelo Simples Nacional, enquanto não houver regulamentação específica por parte do CGSN.
+Art. 4º Esta Resolução entra em vigor na data de sua publicação.
+LINA MARIA VIEIRA Presidente do Comitê

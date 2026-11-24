@@ -1,0 +1,26 @@
+Resolução CGSN nº 7, de 18 de junho de 2007
+Publicado(a) no DOU de 20/06/2007, página 41
+Visão: multivigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/31741
+
+Altera a Resolução CGSN nº 5, de 30 de maio de 2007, que dispõe sobre o Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).
+O COMITÊ GESTOR DE TRIBUTAÇÃO DAS MICROEMPRESAS E EMPRESAS DE PEQUENO PORTE (CGSN) no uso da atribuição que lhe confere a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º O § 3º do art. 3º da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"§ 3º As receitas relativas a operações sujeitas a substituição tributária deverão ser segregadas em função dos tributos objetos da substituição."
+Art. 2º O art. 5º da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar acrescido do seguinte § 5º:
+"§ 5º Na hipótese de a receita bruta acumulada nos 12 (doze) meses anteriores ao do período de apuração ser superior ao limite máximo previsto no inciso II do art. 2º da Resolução CGSN nº 4, de 2007, observado o disposto nos §§ 2º a 4º deste artigo, e a receita bruta acumulada no ano-calendário ser igual ou inferior a esse limite, deverão ser adotadas as alíquotas correspondentes às últimas faixas de receita bruta dos anexos desta Resolução."
+Art. 3º O caput do art. 7º da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"Art. 7º Na hipótese de a ME ou a EPP optante pelo Simples Nacional obter receitas previstas nos incisos XIV a XIX do art. 3º, deverá ser apurada a relação entre a folha de salários, incluídos encargos, nos 12 (doze) meses anteriores ao período de apuração e a receita bruta total acumulada nos 12 (doze) meses anteriores ao período de apuração ®, conforme demonstrado abaixo:
+Folha de salários nos 12 meses anteriores ao período de apuração
+r = ----------------------------------------------------------------------
+Receita bruta total acumulada nos 12 meses anteriores ao período de apuração"
+Art. 4º Os incisos I e II do § 5º do art. 10 da Resolução CGSN nº 5, de 30 de maio de 2007, passam a vigorar com a seguinte redação:
+"I - na hipótese de o contribuinte auferir tão-somente um tipo de receita prevista no art. 3º, mediante a multiplicação da receita bruta total mensal pela diferença entre as relações a que se referem os §§ 3º e 4º e, ainda, pela alíquota obtida na forma do inciso I do caput;
+II - na hipótese de o contribuinte auferir mais de um tipo de receita prevista no art. 3º, mediante o somatório das expressões formadas pela multiplicação da receita correspondente pela diferença entre as relações a que se referem os §§ 3º e 4º e, ainda, pela respectiva alíquota obtida na forma do inciso I do caput, observado o disposto no § 1º."
+Art. 5º Os incisos I e II do § 10 do art. 11 da Resolução CGSN nº 5, de 30 de maio de 2007, passam a vigorar com a seguinte redação:
+"I - na hipótese de o contribuinte auferir tão-somente um tipo de receita prevista no art. 3º, mediante a multiplicação da diferença entre as relações a que se referem os §§ 3º e 5º pela respectiva receita bruta mensal e, ainda, pela alíquota obtida na forma do inciso I do caput;
+II - na hipótese de o contribuinte auferir mais de um tipo de receita prevista no art. 3º, mediante o somatório das expressões formadas pela multiplicação da diferença entre as relações a que se referem os §§ 3º e 5º pela receita correspondente e, ainda, pela respectiva alíquota obtida na forma do inciso I do caput."
+Art. 6º O § 1º do art. 12 da Resolução CGSN nº 5, de 30 de maio de 2007, passa a vigorar com a seguinte redação:
+"§ 1º Os valores fixos estabelecidos pelos Estados, pelo Distrito Federal e pelos Municípios em determinado ano-calendário só serão aplicados a partir do ano-calendário seguinte, salvo para o ano-calendário de 2007, quando poderão ser estabelecidos até o último dia útil de julho."
+Art. 7º Esta Resolução entra em vigor na data de sua publicação.
+JORGE ANTONIO DEHER RACHID Presidente do Comitê

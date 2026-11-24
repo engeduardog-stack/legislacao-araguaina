@@ -1,0 +1,14 @@
+---
+norma: LC 123/2006 (Simples Nacional)
+sigla: LC123
+artigo: "79-D"
+paginas_pdf: "63-63"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 79-D Excepcionalmente, para os fatos geradores ocorridos entre 1o de julho de 2007 e 31 de dezembro
+de 2008, as pessoas jurídicas que exerçam atividade sujeita simultaneamente à incidência do IPI e do ISS deverão
+recolher o ISS diretamente ao Município em que este imposto é devido até o último dia útil de fevereiro de 2009,
+aplicando-se, até esta data, o disposto no parágrafo único do art. 100 da Lei nº 5.172, de 25 de outubro de 1966 -
+Código Tributário Nacional - CTN.

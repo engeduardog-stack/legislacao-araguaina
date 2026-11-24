@@ -1,0 +1,25 @@
+---
+norma: LC 214/2025 (IBS e CBS)
+sigla: LC214
+artigo: "36"
+paginas_pdf: "21-21"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 36. O adquirente de bens ou de serviços que seja contribuinte do IBS e da CBS pelo regime
+regular poderá pagar o IBS e a CBS incidentes sobre a operação caso o pagamento ao fornecedor seja
+efetuado mediante a utilização de instrumento de pagamento que não permita a segregação e o
+recolhimento nos termos dos arts. 32 e 33 desta Lei Complementar.
+§ 1º A opção de que trata ocaputdeste artigo será exercida exclusivamente mediante o
+recolhimento, pelo adquirente, do IBS e da CBS incidentes sobre a operação.
+§ 2º (VETADO).
+§ 3º O valor recolhido na forma deste artigo:
+I - será utilizado exclusivamente para pagamento dos valores dos débitos ainda não extintos do
+IBS e da CBS relativos às respectivas operações; e
+II - quando excedente ao valor utilizado nos termos do inciso I deste parágrafo, será transferido
+ao contribuinte em até 3 (três) dias úteis.
+§ 4º O Comitê Gestor do IBS e a RFB estabelecerão mecanismo para acompanhamento, pelo
+fornecedor, do recolhimento pelo adquirente.
+Subseção V
+Do Pagamento pelo Responsável

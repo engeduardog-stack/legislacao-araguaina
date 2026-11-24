@@ -1,0 +1,48 @@
+Resolução CGSN nº 34, de 17 de março de 2008
+Publicado(a) no DOU de 20/03/2008, página 12
+Visão: vigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32406
+
+Dispõe sobre os processos judiciais de que trata o art. 41 da Lei Complementar nº 123, de 14 de dezembro de 2006.
+O Comitê Gestor do Simples Nacional (CGSN) no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+DISPOSIÇÃO PRELIMINAR
+Art. 1º Esta Resolução regulamenta o art. 41 da Lei Complementar nº 123, de 14 de dezembro de 2006, que trata dos Processos Judiciais relativos ao Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional).
+DA LEGITIMIDADE PASSIVA
+Art. 2º Serão propostas em face da União, que será representada em juízo pela Procuradoria-Geral da Fazenda Nacional (PGFN), as ações judiciais que tenham por objeto:
+I - ato do Comitê Gestor do Simples Nacional (CGSN) e o Simples Nacional;
+II - impostos e contribuições abrangidos pelo Simples Nacional.
+Parágrafo único. Os Estados, o Distrito Federal e os Municípios poderão atuar em conjunto com a União na defesa dos processos em que houver impugnação relativa ao Simples Nacional, caso o eventual provimento da ação gere impacto no recolhimento de seus respectivos tributos.
+Art. 3º Excetuam-se ao disposto no inciso II do art. 2º:
+I - informações em mandados de segurança impugnando atos de autoridade coatora pertencente a Estado, Distrito Federal ou Município;
+II - ações que tratem exclusivamente de tributos dos Estados, do Distrito Federal ou dos Municípios, as quais serão propostas em face desses entes federativos e cujas defesas incumbirão às suas respectivas representações judiciais;
+III - ações promovidas na hipótese de celebração do convênio previsto no § 3º do art. 41 da Lei Complementar nº 123, de 2006.
+Parágrafo único. O disposto no inciso III alcança todas as ações conexas com a cobrança da dívida, desde que versem exclusivamente sobre tributos estaduais ou municipais.
+Art. 4º Na hipótese de ter sido celebrado o convênio de que trata o § 3º do art. 41 da Lei Complementar nº 123, de 2006, e ter sido proposta ação contra a União, com a finalidade de discutir tributo da competência do outro ente federativo conveniado, deverá a PGFN, na qualidade de representante da União, requerer a citação do Estado, Distrito Federal ou Município conveniado, para que integre a lide.
+DA PRESTAÇÃO DE AUXÍLIO À PROCURADORIA-GERAL DA FAZENDA NACIONAL
+Art. 5º Os Estados, o Distrito Federal e os Municípios, por meio de suas Secretarias de Fazenda ou de Finanças, ou outros órgãos de sua estrutura interna, quando assim determinado por ato competente, prestarão auxílio à PGFN em relação aos tributos de suas respectivas competências independentemente da celebração de convênio, em prazo não inferior à terça parte do prazo judicial em curso.
+§ 1º O requerimento feito pela PGFN, bem como as informações a lhe serem prestadas pelo respectivo ente federativo, serão, preferencialmente, feitos por meio eletrônico.
+§ 2º A resposta será dirigida diretamente ao órgão ou autoridade solicitante da PGFN.
+§ 3º Transcorrido o prazo estabelecido sem que tenha sido prestado o auxílio solicitado pela PGFN a os Estados, Distrito Federal e Municípios, tal fato será informado ao ente federativo competente.
+Art. 6º As informações prestadas pelos Estados, pelo Distrito Federal e pelos Municípios, em cumprimento ao §1º do art. 41 da Lei Complementar nº 123, de 2006, deverão conter:
+I - descrição detalhada dos fundamentos fáticos que ensejaram o ato de lançamento, que poderá ser representada por cópia do relatório fiscal relativo ao lançamento, desde que os contenha;
+II - cópia da legislação e regulamentos pertinentes, incluindo eventuais consultas e pareceres existentes sobre a matéria, e indicação de sítio na Internet em que porventura esteja disponibilizada a legislação;
+III - cópia de documentos relacionados ao ato de fiscalização;
+IV - data em que prestada a informação, nome do informante, sua assinatura, endereço eletrônico e telefone para contato.
+DA INSCRIÇÃO EM DÍVIDA ATIVA E SUA COBRANÇA JUDICIAL
+Art. 7º Os créditos tributários oriundos da aplicação do regime de que trata o art. 12 da Lei Complementar nº 123, de 2006 - Simples Nacional, serão apurados, inscritos em Dívida Ativa da União e cobrados judicialmente pela PGFN, excetuada a hipótese de convênio.
+§ 1º O encaminhamento pelos Estados, Distrito Federal e Municípios, dos créditos tributários para inscrição na Dívida Ativa da União, será realizado com a observância dos requisitos previstos no art. 202 da Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), no art. 2º da Lei nº 6.830, de 22 de setembro de 1980 e, preferencialmente, por meio eletrônico.
+§ 2º A movimentação e encaminhamento serão realizados via processo administrativo em meio convencional, em caso de impossibilidade de sua realização por meio eletrônico.
+§ 3º A PGFN proporá a forma padronizada de encaminhamento eletrônico ou convencional de débitos para inscrição na Dívida Ativa da União, a ser aprovado em ato do CGSN.
+§ 4º A notificação da inscrição em Divida Ativa da União ao ente federativo, dos créditos relativos aos tributos de sua competência, dar-se-á por meio de aplicativo disponível no Portal do Simples Nacional.
+§ 5º O pagamento dos tributos abrangidos pelo Simples Nacional inscritos em Dívida Ativa da União deverá ser efetuado por meio do Documento de Arrecadação do Simples Nacional (DAS), instituído pela Resolução CGSN nº 11, de 23 de julho de 2007.
+§ 6º Os valores arrecadados a título de pagamento dos créditos tributários inscritos em dívida ativa serão apropriados diretamente pela União, Estados, Distrito Federal e Municípios, na exata medida de suas respectivas quotas-partes, acrescidos dos consectários legais correspondentes.
+DO CONVÊNIO
+Art. 8º Os Estados, o Distrito Federal e os Municípios deverão manifestar seu interesse na celebração de convênio com a PGFN, nos termos do § 3º do art. 41 da Lei Complementar nº 123, de 2006, para que efetuem a inscrição em dívida ativa e cobrança dos tributos de suas respectivas competências.
+Art. 9º A existência do convênio implica a delegação integral pela União da competência para inscrição, cobrança e defesa relativa ao Imposto sobre Operações Relativas à Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) ou ao Imposto sobre Serviços de Qualquer Natureza (ISS), quando estes estiverem incluídos no regime de arrecadação do Simples Nacional.
+§ 1º A delegação integral prevista no caput dar-se-á sem prejuízo da possibilidade de a União, representada pela PGFN, integrar a demanda na qualidade de interessada.
+§ 2º Na hipótese deste artigo, não se aplica o disposto no § 5º do art. 7º.
+DA LEGITIMIDADE ATIVA
+Art. 10. À exceção da execução fiscal, os Estados, o Distrito Federal e os Municípios possuem legitimidade ativa para ingressar com as ações que entenderem cabíveis contra a microempresa ou a empresa de pequeno porte optante pelo Simples Nacional, independentemente da celebração do convênio previsto no § 3º do art. 41 da Lei Complementar nº 123, de 2006.
+Art. 11. Será inscrito em dívida ativa do ente federativo autuante o crédito tributário decorrente de auto de infração lavrado exclusivamente em face de descumprimento de obrigação acessória.
+Art. 12. Esta Resolução entra em vigor na data de sua publicação.
+JORGE ANTONIO DEHER RACHID Presidente do Comitê

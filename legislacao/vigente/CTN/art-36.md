@@ -1,0 +1,17 @@
+---
+norma: Código Tributário Nacional (Lei 5.172/1966)
+sigla: CTN
+artigo: "36"
+paginas_pdf: "6-6"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 36. Ressalvado o disposto no artigo seguinte, o impôsto não incide sôbre a transmissão dos bens ou direitos
+referidos no artigo anterior:
+I - quando efetuada para sua incorporação ao patrimônio de pessoa jurídica em pagamento de capital nela
+subscrito;
+II - quando decorrente da incorporação ou da fusão de uma pessoa jurídica por outra ou com outra.
+Parágrafo único. O impôsto não incide sôbre a transmissão aos mesmos alienantes, dos bens e direitos adquiridos
+na forma do inciso I dêste artigo, em decorrência da sua desincorporação do patrimônio da pessoa jurídica a que foram
+conferidos.

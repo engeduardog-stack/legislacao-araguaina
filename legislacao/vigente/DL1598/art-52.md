@@ -1,0 +1,22 @@
+---
+norma: Decreto-Lei 1.598/1977 (omissão de receita)
+sigla: DL1598
+artigo: "52"
+paginas_pdf: "22-22"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 52 Considera-se lucro inflacionário, em cada exercício social, o saldo credor da conta de correção monetária
+ajustado pela diminuição das variações monetárias e das correções monetárias prefixadas computadas no lucro líquido
+do exercício.   (Redação dada pelo Decreto-lei nº 1.733, de 1979)
+§ 1º O ajuste será procedido mediante a dedução, do saldo credor da conta de correção monetária, de montante
+correspondente à soma do valor das variações monetárias passivas que exceder o das ativas com o valor das despesas
+de correção monetária prefixada que exceder o das receitas da mesma natureza.   (Redação dada pelo Decreto-lei nº
+1.733, de 1979)
+§ 2º - Lucro inflacionário acumulado é a soma do lucro inflacionário do exercício com o saldo de lucro inflacionário a
+tributar transferido do exercício anterior.
+§ 3º - O lucro inflacionário a tributar será registrada em conta especial do livro de que trata o item I do artigo 8º, e o
+saldo transferido do balanço anterior será corrigido monetariamente, com base na variação do valor nominal de uma
+ORTN entre a mês do balanço anterior e o mês do balanço do exercício da correção.
+Lucro Inflacionário Realizado

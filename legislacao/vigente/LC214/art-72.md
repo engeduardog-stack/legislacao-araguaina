@@ -1,0 +1,15 @@
+---
+norma: LC 214/2025 (IBS e CBS)
+sigla: LC214
+artigo: "72"
+paginas_pdf: "34-34"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 72. É contribuinte do IBS e da CBS na importação de bens materiais:
+I - o importador, assim considerado qualquer pessoa ou entidade sem personalidade jurídica
+que promova a entrada de bens materiais de procedência estrangeira no território nacional; e
+II - o adquirente de mercadoria entrepostada.
+Parágrafo único. Na importação por conta e ordem de terceiro, quem promove a entrada de
+bens materiais de procedência estrangeira no território nacional é o adquirente dos bens no exterior.

@@ -1,0 +1,33 @@
+Resolução CGSN nº 52, de 22 de dezembro de 2008
+Publicado(a) no DOU de 23/12/2008, página 43
+Visão: vigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32766
+
+[Retificado(a) em 26 de dezembro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+Dispõe a concessão de benefícios, na forma de isenção, redução ou estabelecimento de valores fixos do ICMS ou do ISS às Microempresas (ME) ou Empresas de Pequeno Porte (EPP) optantes pelo Simples Nacional.
+O Comitê Gestor do Simples Nacional, no uso da atribuição que lhe confere a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º O ente federativo tem competência para, com relação à ME ou à EPP optante pelo Simples Nacional, de acordo com os §§ 18 a 20-A do art. 18 da Lei Complementar nº 123, de 14 de dezembro de 2006, na forma prevista nesta Resolução:
+I - conceder isenção ou redução do ICMS;
+II - conceder isenção ou redução do ISS; [Redação dada pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+III - estabelecer valores fixos para recolhimento do ICMS ou do ISS.
+Parágrafo único. O ente federativo não poderá conceder outros benefícios à ME ou à EPP optante, com vigência no âmbito do Simples Nacional, não previstos na Lei Complementar nº 123, de 2006.
+Art. 2º A concessão dos benefícios previstos no art. 1º poderá ser realizada:
+I - mediante deliberação exclusiva e unilateral do Estado, do Distrito Federal ou do Município concedente;
+II - de modo diferenciado para cada ramo de atividade.
+Art. 3º Na hipótese de o ente federativo conceder isenção ou redução do ICMS ou do ISS, à ME ou à EPP optante pelo Simples Nacional, o benefício deve ser concedido: [Redação dada pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+I - de forma a abranger a mesma distribuição de faixas de receita bruta dos últimos doze meses previstas nos anexos da Lei Complementar nº 123, de 2006;
+II - na forma de redução do percentual original do ICMS ou do ISS constante dos anexos da Lei Complementar nº 123, de 2006.
+Art. 4º Caso o ente federativo opte por aplicar percentuais de redução diferenciados para cada faixa de receita bruta, estes devem constar da respectiva legislação, de forma a facilitar o processo de geração do DAS pelo contribuinte.
+§ 1º Na hipótese do caput, o percentual de redução do ICMS ou do ISS deve ser calculado, para cada faixa de receita bruta dos últimos doze meses, da seguinte forma:
+Percentual = 1 - Percentual diferenciado do ICMS ou do ISS concedido pelo ente federativo de __________________________________________________________ redução Percentual original do ICMS ou do ISS constante da LC 123/2006 [arquivo: formula.JPG]
+§ 2º Deverão constar da legislação veiculadora da isenção ou redução da base de cálculo todas as informações a serem observadas pela ME ou EPP, a exemplo dos QUADROS I a V do Anexo a esta Resolução, que abrangem situações hipotéticas. [Redação dada pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+§ 3º Na hipótese de concessão de redução para determinada atividade econômica pela qual o percentual final do tributo tenha carga igualitária para todas as faixas de receita bruta, o quadro teria exemplificadamente a configuração do QUADRO IV do Anexo a esta Resolução.
+Art. 5º O ente federativo poderá, no âmbito de sua respectiva competência, independentemente da receita bruta auferida no mês pelo contribuinte, adotar valores fixos mensais para o recolhimento do ICMS e do ISS devido por ME que aufira receita bruta, no ano-calendário anterior, de até R$ 120.000,00 (cento e vinte mil reais), observado o disposto no art. 13 da Resolução CGSN nº 51, de 22 de dezembro de 2008.
+Art. 6º As disposições relativas a benefícios para a ME ou para a EPP optante pelo Simples Nacional deverão adequar-se ao previsto nesta Resolução, devendo, se for o caso, serem promovidas as alterações cabíveis nas respectivas legislações.
+Art. 7º O ente federativo deve notificar o CGSN sobre a concessão de benefícios fiscais para a ME ou a EPP optante pelo Simples Nacional, remetendo a legislação respectiva, no prazo de até trinta dias após a sua publicação.
+Parágrafo único. Os benefícios concedidos de 1ºde julho de 2007 a 31 de dezembro de 2008 deverão ser comunicados ao CGSN até 30 de janeiro de 2009.
+Art. 8º Esta Resolução entra em vigor na data da sua publicação, produzindo efeitos a partir de 1º de janeiro de 2009.
+LINA MARIA VIEIRA Presidente do CGSN
+Anexo
+[arquivo: Anexo.doc] [Redação dada pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]

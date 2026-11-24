@@ -1,0 +1,46 @@
+---
+norma: Decreto-Lei 1.598/1977 (omissão de receita)
+sigla: DL1598
+artigo: "10"
+paginas_pdf: "5-5"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art 10 - Na apuração do resultado de contratos, com prazo de execução superior a um ano, de construção por
+empreitada ou de fornecimento, a preço predeterminado, de bens ou serviços a serem produzidos, serão computados em
+cada período: (Vide Lei nº 9.065, de 1995)
+I - o custo de construção ou de produção dos bens ou serviços incorrido durante o período;
+Il - parte do preço total da empreitada, ou dos bens ou serviços a serem fornecidos, determinada mediante
+aplicação, sobre esse preço total, da porcentagem do contrato ou da produção executada no período.
+§ 1º - A porcentagem do contrato ou da produção executada durante o período poderá ser determinada:
+a) com base na relação entre os custos incorridos no período e o custo total estimado da execução da empreitada
+ou da produção; ou
+b) com base em laudo técnico de profissional habilitado, segundo a natureza da empreitada ou dos bens ou
+serviços, que certifique a porcentagem executada em função do progresso físico da empreitada ou produção.
+§ 2º - O disposto neste artigo não se aplica às construções ou fornecimentos contratados com base em preço
+unitário de quantidades de bens ou serviços produzidos em prazo inferior a um ano, cujo resultado deverá ser
+reconhecido à medida da execução.
+§ 3º - No caso de empreitada ou fornecimento contratado, nas condições deste artigo, ou do § 2º, com pessoa
+jurídica de direito público, ou empresa sob seu controle, empresa pública, sociedade de economia mista ou sua
+subsidiária, o contribuinte poderá diferir a tributação do lucro até sua realização, observadas as seguintes normas:
+a) poderá ser excluída do lucro líquido do exercício, para efeito de determinar o lucro real, parcela do lucro da
+empreitada ou fornecimento computado no resultado do exercício, proporcional à receita dessas operações consideradas
+nesse resultado e não recebida até a data do balanço de encerramento do mesmo exercício social; (Redação dada pelo
+Decreto-lei nº 1.648, de 1978).
+b) a parcela excluída nos termos da letra a deverá ser computada na determinação do lucro real do exercício social
+em que a receita for recebida.
+§ 4º - Se o contribuinte subcontratar parte da empreitada ou fornecimento, o direito ao diferimento de que trata o §
+3º caberá a ambos, na proporção da sua participação na receita a receber.
+§ 5º - O contribuinte contratante de empreitada iniciada antes de 31 de dezembro de 1977 poderá, para efeito de
+determinar o lucro real, reconhecer todo o lucro do contrato somente no período-base de incidência em que for
+completada sua execução, observadas as seguintes normas:
+a) o contrato com duração superior a 3 anos considerar-se-á completado quando executado em porcentagem
+superior a 95% (§ 1º);
+b) o disposto neste parágrafo não se aplicará aos aumentos, mediante aditamento ao contrato em data posterior a
+31 de dezembro de 1977, da empreitada contratada.
+SEÇÃO II
+Lucro Operacional
+SUB-SEÇÃO I
+Disposições Gerais
+Conceito e Discriminação

@@ -1,0 +1,110 @@
+Resolução CGSN nº 60, de 22 de junho de 2009
+Publicado(a) no DOU de 24/06/2009, página 19
+Visão: vigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32888
+
+Altera as Resoluções CGSN nº 4, de 30 de maio de 2007, nº 10, de 28 de junho de 2007, nº 18, de 10 de agosto de 2007, nº 51, de 22 de dezembro de 2008, e nº 58, de 27 de abril de 2009.
+O Comitê Gestor do Simples Nacional (CGSN), no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007 e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º Fica acrescido o art. 7º-A à Resolução CGSN nº 4, de 30 de maio de 2007, com a seguinte redação:
+"Art. 7º-A A ME ou EPP poderá efetuar agendamento da opção de que trata o § 1º do art. 7º, observadas as seguintes disposições:
+I - estará disponível, em aplicativo específico no Portal do Simples Nacional, entre o primeiro dia útil de novembro e o penúltimo dia útil de dezembro do ano anterior ao da opção;
+II - sujeitar-se-á ao disposto nos §§ 2º e 4º do art. 7º;
+III - na hipótese de serem identificadas pendências impeditivas ao ingresso no Simples Nacional, o agendamento será rejeitado, podendo a empresa:
+a) solicitar novo agendamento após a regularização das pendências, observado o prazo previsto no inciso I; ou
+b) realizar a opção no prazo e condições previstos no § 1º do art. 7º;
+IV - inexistindo pendências, o agendamento será confirmado, gerando para a ME ou EPP opção válida com efeitos a partir do primeiro dia do ano-calendário subsequente;
+V - o agendamento:
+a) não se aplica à opção para ME ou EPP em início de atividade;
+b) poderá ser cancelado até o final do prazo previsto no inciso I.
+§ 1º A confirmação do agendamento não implica opção pelo Sistema de Recolhimento em Valores Fixos Mensais dos Tributos Abrangidos pelo Simples Nacional (SIMEI), que deverá ser efetuado no prazo previsto no inciso II do art. 2º da Resolução CGSN nº 58, de 27 de abril de 2009.
+§ 2º Não haverá contencioso administrativo na hipótese de o agendamento ser rejeitado." (NR)
+Art. 2º O art. 2º da Resolução CGSN nº 10, de 28 de junho de 2007, passa a vigorar com as seguintes modificações:
+"Art. 2º....................................................................................
+...................................................................................................
+§ 2º .........................................................................................
+............................................................................................
+II - "NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI".
+.................................................................................................
+§ 2º-A Na hipótese de o estabelecimento da ME ou EPP estar impedido de recolher o ICMS e o ISS pelo Simples Nacional, em decorrência de haver extrapolado o sublimite estabelecido, em face do disposto no § 1º do art. 20 da Lei Complementar nº 123, de 2006:
+I - não se aplica a inutilização dos campos prevista no § 2º;
+II - o contribuinte deverá consignar, no campo destinado às informações complementares ou, em sua falta, no corpo do documento, por qualquer meio gráfico indelével, as expressões:
+I - "ESTABELECIMENTO IMPEDIDO DE RECOLHER O ICMS/ISS PELO SIMPLES NACIONAL, NOS TERMOS DO § 1º DO ART. 20 DA LC 123/2006"
+II - "NÃO GERA DIREITO A CRÉDITO FISCAL DE IPI" .
+....................................................................................." (NR)
+Art. 3º O art. 2º-A da Resolução CGSN nº 10, de 2007, passa a vigorar com as seguintes modificações:
+"Art 2º-A A ME ou EPP optante pelo Simples Nacional que emitir Nota Fiscal com direito ao crédito estabelecido no § 1º do art. 23 da Lei Complementar nº 123, de 2006, consignará no campo destinado às informações complementares ou excepcionalmente, em caso de insuficiência de espaço, no quadro Dados do Produto, a expressão: "PERMITE O APROVEITAMENTO DO CRÉDITO DE ICMS NO VALOR DE R$...; CORRESPONDENTE À ALÍQUOTA DE ...%, NOS TERMOS DO ART. 23 DA LC 123/2006".
+§ 1º ..........................................................................................
+..................................................................................................
+I - ao percentual previsto na coluna "ICMS" nos Anexos I ou II da Lei Complementar nº 123, de 2006 para a faixa de receita bruta a que ela estiver sujeita no mês anterior ao da operação, assim considerada:
+a) a receita bruta acumulada nos 12 (doze) meses que antecederem o mês anterior ao da operação;
+b) a média aritmética da receita bruta total dos meses que antecederem o mês anterior ao da operação, multiplicada por 12 (doze), na hipótese de a empresa ter iniciado suas atividades há menos de 13 meses da operação.
+......................................................................................." (NR)
+Art. 4º O art. 2º-B da Resolução CGSN nº 10, de 2007, passa a vigorar com as seguintes modificações:
+"Art. 2º-B A ME ou EPP optante pelo Simples Nacional não poderá consignar no documento fiscal a expressão mencionada no artigo 2º-A, ou caso já consignada, deverá inutilizá-la, quando:
+...................................................................................................
+II - tratar-se de operação de venda ou revenda de mercadorias em que o ICMS não é devido pelo Simples Nacional;
+................................................................................................
+IV - a operação for imune ao ICMS;
+.................................................................................................
+VI - tratar-se de prestação de serviço de comunicação, de transporte interestadual ou de transporte intermunicipal." (NR)
+Art. 5º O art. 2º-C da Resolução CGSN nº 10, de 2007, passa a vigorar com as seguintes modificações:
+"Art 2º-C O adquirente da mercadoria não poderá se creditar do ICMS consignado em nota fiscal emitida por ME ou EPP optante pelo Simples Nacional, de que trata o art. 2º-A, quando:
+I - a alíquota de que trata o § 1º do artigo 2º-A não for informada na nota fiscal;
+II - a mercadoria adquirida não se destinar à comercialização ou industrialização;
+III - a operação enquadrar-se em situações previstas nos incisos I a VI do art. 2º-B.
+Parágrafo único. Na hipótese de utilização de crédito a que se refere o § 1º do art. 23 da Lei Complementar nº 123, de 2006, de forma indevida ou a maior, o destinatário da operação estornará o crédito respectivo em conformidade com o estabelecido na legislação de cada ente, sem prejuízo de eventuais sanções ao emitente nos termos da legislação do Simples Nacional." (NR)
+Art. 6º O art. 7º da Resolução CGSN nº 10, de 2007, passa a vigorar com as seguintes modificações:
+"Art. 7º.....................................................................................
+I - fará a comprovação da receita bruta, mediante apresentação do registro de vendas ou de prestação de serviços de que trata o Anexo Único desta Resolução, que deverá ser preenchido até o dia 20 (vinte) do mês subsequente àquele em que houver sido auferida a receita bruta;
+.................................................................................................
+§ 2º .........................................................................................
+.................................................................................................
+II - será obrigatória a emissão de documento fiscal nas operações com mercadorias e nas prestações de serviços realizadas pelo empreendedor individual para destinatário cadastrado no Cadastro Nacional de Pessoas Jurídicas (CNPJ), ressalvado o disposto na alínea 'b' do inciso IV;
+III - o documento fiscal de que trata o inciso II atenderá aos requisitos:
+a) da Nota Fiscal Avulsa, quando prevista na legislação do ente federativo; ou
+b) da autorização para impressão de documentos fiscais do ente federativo da circunscrição do contribuinte.
+IV - fica dispensado da emissão de documento fiscal:
+a) nas operações com venda de mercadorias ou prestações de serviços para consumidor final pessoa física;
+b) nas operações com venda de mercadorias para pessoa jurídica, desde que o destinatário emita nota fiscal de entrada.
+§ 3º Na hipótese de o empresário individual exceder a receita bruta anual de que trata o caput, perderá o direito ao tratamento diferenciado previsto neste artigo, passando a estar submetido às obrigações acessórias previstas para os demais optantes pelo Simples Nacional:
+I - a partir de 1º de janeiro do ano-calendário subsequente ao da ocorrência do excesso, na hipótese de não ter extrapolado o referido limite em mais de 20% (vinte por cento);
+II - a partir do mês subsequente ao da ocorrência do excesso, na hipótese de ter extrapolado o referido limite em mais de 20% (vinte por cento)." (NR)
+Art. 7º O art. 4º da Resolução CGSN nº 18, de 10 de agosto de 2007, passa a vigorar com as seguintes modificações:
+"Art. 4º ..................................................................................
+................................................................................................
+I - O cadastramento do "usuário-mestre" será efetuado por meio de aplicativo, disponível na página de acesso para os entes federativos, no Portal do Simples Nacional, observado o disposto nos §§ 3º e 3º-A;
+..................................................................................................
+§ 3º Inicialmente, o "usuário-mestre" será o representante do ente federativo no cadastro do Fundo de Participação dos Estados (FPE) ou do Fundo de Participação dos Municípios (FPM), denominado "responsável pelo FPEM".
+§ 3º-A São aptos a alterar o "usuário-mestre", por meio do aplicativo previsto no inciso I do caput:
+I - o "responsável pelo FPEM";
+II - o "usuário-mestre" que se encontrar cadastrado, para designar um novo "usuário-mestre".
+.................................................................................................
+§ 4º A substituição do "usuário-mestre" poderá ser oficiada diretamente ao Presidente do CGSN, quando, por questões circunstanciais, não for possível a utilização do aplicativo tratado no inciso I do caput:
+......................................................................................" (NR)
+Art. 8º O art. 3º da Resolução CGSN nº 51, de 22 de dezembro de 2008, passa a vigorar com as seguintes modificações:
+"Art. 3º ....................................................................................
+.................................................................................................
+§ 2º ..........................................................................................
+.................................................................................................
+I - a alíquota aplicável na retenção na fonte deverá ser informada no documento fiscal e corresponderá ao percentual de ISS previsto nos Anexos III, IV ou V para a faixa de receita bruta a que a ME ou a EPP estiver sujeita no mês anterior ao da prestação, assim considerada:
+a) a receita bruta acumulada nos 12 (doze) meses que antecederem o mês anterior ao da prestação;
+b) a média aritmética da receita bruta total dos meses que antecederem o mês anterior ao da prestação, multiplicada por 12 (doze), na hipótese de a empresa ter iniciado suas atividades há menos de 13 meses da prestação.
+......................................................................................" (NR)
+Art. 9º Fica acrescido o § 4º ao art. 2º da Resolução CGSN nº 58, de 27 de abril de 2009, com a seguinte redação:
+"Art. 2º ...................................................................................
+.................................................................................................
+§ 4º Enquanto não vencido o prazo para solicitação da opção pelo SIMEI, de que trata o inciso II do caput deste artigo, o contribuinte poderá:
+I - regularizar eventuais pendências impeditivas ao ingresso no SIMEI, sujeitando-se à rejeição da solicitação de opção caso não as regularize até o término desse prazo;
+II - efetuar o cancelamento da solicitação de opção, salvo se já houver sido confirmada. " (NR)
+Art. 10. O art. 3º da Resolução CGSN nº 58, de 2009, passa a vigorar com as seguintes modificações:
+"Art. 3º ....................................................................................
+...................................................................................................
+§ 2º .........................................................................................
+................................................................................................
+I - por opção, no mês de janeiro, até seu último dia útil, em aplicativo disponibilizado no Portal do Simples Nacional, produzindo efeitos a partir de 1º de janeiro do ano-calendário da comunicação;
+................................................................................................
+§ 6º-A Na hipótese do § 6º, caso o contribuinte não esteja enquadrado na situação de optante pelo Simples Nacional no mês de janeiro do exercício seguinte ao do excesso ocorrido, deverá gerar DAS para essa competência, informando como receita bruta, tão somente, o valor da receita excedida, para os fins previstos naquele parágrafo.
+....................................................................................." (NR)
+Art. 11. Fica revogado o art. 5º da Resolução CGSN nº 18, de 2007.
+Art. 12. Esta Resolução entra em vigor na data de sua publicação.
+LINA MARIA VIEIRA Presidente do Comitê

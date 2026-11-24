@@ -1,0 +1,21 @@
+---
+norma: LC 123/2006 (Simples Nacional)
+sigla: LC123
+artigo: "18-B"
+paginas_pdf: "30-30"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 18-B. A empresa contratante de serviços executados por intermédio do MEI mantém, em relação a esta
+contratação, a obrigatoriedade de recolhimento da contribuição a que se refere o inciso III do caput e o § 1o do art.
+22 da Lei no 8.212, de 24 de julho de 1991, e o cumprimento das obrigações acessórias relativas à contratação de
+contribuinte individual. (Vide Lei Complementar nº 147, de 2014)
+§ 1º ⟦RISCADO NO PDF: Aplica-se o disposto no caput em relação ao MEI que for contratado para prestar serviços de hidráulica,
+eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos.⟧
+§ 1º Aplica-se o disposto neste artigo exclusivamente em relação ao MEI que for contratado para prestar
+serviços de hidráulica, eletricidade, pintura, alvenaria, carpintaria e de manutenção ou reparo de veículos. (Redação
+dada pela Lei Complementar nº 147, de 2014)
+§ 2º O disposto no caput e no § 1o não se aplica quando presentes os elementos da relação de emprego,
+ficando a contratante sujeita a todas as obrigações dela decorrentes, inclusive trabalhistas, tributárias e
+previdenciárias.

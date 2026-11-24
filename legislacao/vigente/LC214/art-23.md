@@ -1,0 +1,21 @@
+---
+norma: LC 214/2025 (IBS e CBS)
+sigla: LC214
+artigo: "23"
+paginas_pdf: "14-15"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 23. A plataforma digital, inclusive a domiciliada no exterior, deverá se inscrever no cadastro
+do IBS e da CBS no regime regular para fins de cumprimento do disposto no art. 22.
+Parágrafo único. Caso o fornecedor ou a plataforma digital residentes ou domiciliados no
+exterior não se inscrevam no cadastro do IBS e da CBS no regime regular de que trata ocaput deste artigo:
+I - o IBS e a CBS serão segregados e recolhidos, pelas alíquotas de referência, nas remessas ao
+fornecedor ou à plataforma, pela instituição que realiza a operação de câmbio, observados os critérios
+estabelecidos em regulamento; e
+II - eventual diferença do IBS e da CBS devidos na operação ou importação deverá ser:
+a) paga pelo adquirente ou importador, caso as alíquotas incidentes sejam maiores que as
+alíquotas de referência; ou
+b) devolvida ao adquirente ou importador, caso as alíquotas incidentes sejam menores que as
+alíquotas de referência.

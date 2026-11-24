@@ -1,0 +1,42 @@
+Resolução CGSN nº 98, de 13 de março de 2012
+Publicado(a) no DOU de 19/03/2012, página 27
+Visão: multivigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/37568
+
+Altera a Resolução CGSN nº 94, de 29 de novembro de 2011, que dispõe sobre o Simples Nacional.
+O COMITÊ GESTOR DO SIMPLES NACIONAL (CGSN), no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º Os arts. 16, 66, 91, 96, 100, 127 e 129 da Resolução CGSN nº 94, de 29 de novembro de 2011, passam a vigorar com a seguinte redação:
+“Art. 16. ...................................................................................
+...................................................................................................
+§ 3º Para efeitos do disposto neste artigo:
+I - a receita bruta auferida ou recebida será segregada na forma do art. 25; (Lei Complementar nº 123, de 2006, art. 18, § 4º)
+II - considera-se a receita bruta total mensal auferida ou recebida nos mercados interno e externo. (Lei Complementar nº 123, de 2006, art. 3º, § 15)” (NR)
+“Art. 66. ...................................................................................
+...................................................................................................
+§ 13. Aplica-se à DASN o disposto nos §§ 2º, 3º e 5º a 8º e no art. 37-A. (Lei Complementar nº 123, de 2006, art. 25, caput)” (NR)
+“Art. 91. ...................................................................................
+...................................................................................................
+§ 3º Para fins deste Título, o tratamento diferenciado e favorecido previsto para o MEI aplica-se exclusivamente na vigência do período de enquadramento no sistema de recolhimento de que trata o art. 92, exceto na hipótese do inciso II do parágrafo único do art. 103. (Lei Complementar nº 123, de 2006, art. 18-A, § 14)” (NR)
+“Art. 96. O MEI poderá contratar um único empregado que receba exclusivamente 1 (um) salário mínimo previsto em lei federal ou estadual ou o piso salarial da categoria profissional, definido em lei federal ou por convenção coletiva da categoria. (Lei Complementar nº 123, de 2006, art. 18-C)
+...................................................................................................
+§ 3º Não se inclui no limite de que trata o caput valores recebidos a título de horas extras e adicionais de insalubridade, periculosidade e por trabalho noturno, bem como os relacionados aos demais direitos constitucionais do trabalhador decorrentes da atividade laboral, inerentes à jornada ou condições do trabalho, e que incidem sobre o salário. (Lei Complementar nº 123, de 2006, art. 18-C)
+§ 4º A percepção de valores a título de gratificações, gorjetas, percentagens, abonos e demais remunerações de caráter variável implica o descumprimento do limite de que trata o caput. (Lei Complementar nº 123, de 2006, art. 18-C)” (NR)
+“Art. 100. Na hipótese de o empresário individual ser optante pelo SIMEI no ano-calendário anterior, deverá apresentar, até o último dia de maio de cada ano, à RFB, a Declaração Anual Simplificada para o Microempreendedor Individual (DASN-SIMEI) que conterá tão somente: (Lei Complementar nº 123, de 2006, art. 25, caput e § 4º)
+.........................................................................................”(NR)
+“Art. 127. .................................................................................
+...................................................................................................
+§ 3º Depois da transferência dos dados relativos aos débitos de ICMS ou de ISS ao Estado ou Município que tenha firmado o convênio de que trata o caput, a responsabilidade pela sua administração fica transferida ao respectivo ente federado, observados os termos do citado convênio. (Lei Complementar nº 123, de 2006, art. 41, § 3º)” (NR)
+“Art. 129. .................................................................................
+...................................................................................................
+§ 8º Depois da disponibilização do Sefisc, poderão ser utilizados alternativamente os procedimentos administrativos fiscais previstos na legislação de cada ente federado até 31 de dezembro de 2012, observado o disposto neste artigo. (Lei Complementar nº 123, de 2006, art. 33, § 4º)” (NR)
+Art. 2º A Resolução CGSN nº 94, de 2011, passa a vigorar acrescida do art. 37-A:
+“Art. 37-A. A alteração das informações prestadas no PGDAS-D será efetuada por meio de retificação relativa ao respectivo período de apuração. (Lei Complementar nº 123, de 2006, art. 2º, inciso I, § 6º)
+§ 1º A retificação terá a mesma natureza da declaração originariamente apresentada, substituindo-a integralmente, e servirá para declarar novos débitos, aumentar ou reduzir os valores de débitos já informados. (Lei Complementar nº 123, de 2006, art. 2º, inciso I, § 6º)
+§ 2º A retificação não produzirá efeitos quando tiver por objeto alterar os débitos relativos aos períodos de apuração: (Lei Complementar nº 123, de 2006, art. 2º, inciso I, § 6º; Lei nº 5.172, de 1966, art. 138, Parágrafo único)
+I - cujos saldos a pagar já tenham sido enviados à PGFN para inscrição em DAU, ou, com relação ao ICMS ou ao ISS, transferidos ao Estado ou Município que tenha efetuado o convênio previsto no § 3º do art. 41 da Lei Complementar nº 123, de 2006; ou
+II - em relação aos quais a ME ou EPP tenha sido intimada sobre o início de procedimento fiscal.
+§ 3º Depois da remessa para inscrição em DAU ou da transferência dos valores de ICMS ou ISS para o Estado ou Município que tenha efetuado o convênio previsto no § 3º do art. 41 da Lei Complementar nº 123, de 2006, a retificação de valores informados no PGDAS-D, relativos a determinado período de apuração, que resulte em alteração do montante do débito, nos casos em que houver prova inequívoca da ocorrência de erro de fato no preenchimento da declaração, poderá ser efetuada: (Lei Complementar nº 123, de 2006, art. 2º, inciso I, § 6º; Lei nº 5.172, de 1966, art. 138, Parágrafo único)
+I - pela RFB, com relação aos tributos federais e, na ausência de convênio mencionado neste parágrafo, ao ICMS e ISS; ou
+II - pelo Estado ou Município, com relação ao ICMS ou ISS, quando firmado o convênio mencionado neste parágrafo.” (NR)
+Art. 3º Esta Resolução entra em vigor na data de sua publicação.
+CARLOS ALBERTO FREITAS BARRETO Presidente do Comitê

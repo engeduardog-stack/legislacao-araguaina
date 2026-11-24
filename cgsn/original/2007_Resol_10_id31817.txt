@@ -1,0 +1,80 @@
+Resolução CGSN nº 10, de 28 de junho de 2007
+Publicado(a) no DOU de 02/07/2007, página 6
+Visão: original
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/31817
+
+[Alterado(a) pelo(a) Resolução CGSN nº 20, de 15 de agosto de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 22, de 23 de agosto de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 25, de 20 de dezembro de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 28, de 21 de janeiro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 33, de 17 de março de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 42, de 13 de outubro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 44, de 18 de novembro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 53, de 22 de dezembro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 55, de 23 de março de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 68, de 28 de outubro de 2009]
+[Alterado(a) pelo(a) Resolução CGSN nº 72, de 30 de março de 2010]
+[Alterado(a) pelo(a) Resolução CGSN nº 76, de 13 de setembro de 2010]
+[Alterado(a) pelo(a) Resolução CGSN nº 83, de 26 de janeiro de 2011]
+[Alterado(a) pelo(a) Resolução CGSN nº 86, de 28 de março de 2011]
+Dispõe sobre as obrigações acessórias relativas às microempresas e empresas de pequeno porte optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições (Simples Nacional).
+O Comitê Gestor de Tributação das Microempresas e Empresas de Pequeno Porte (CGSN) no uso da atribuição que lhe confere a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+DISPOSIÇÕES PRELIMINARES
+Art. 1º Esta Resolução regulamenta as obrigações acessórias das Microempresas (ME) e Empresas de Pequeno Porte (EPP) optantes pelo Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte (Simples Nacional), referentes à emissão de documentos fiscais e à escrituração de livros fiscais e contábeis e dá outras providências.
+DOCUMENTOS FISCAIS
+Art. 2º As ME e as EPP optantes pelo Simples Nacional utilizarão, conforme as operações e prestações que realizarem, os documentos fiscais, inclusive os emitidos por meio eletrônico, autorizados pelos entes federativos onde possuírem estabelecimento.
+§ 1º Relativamente à prestação de serviços sujeita ao Imposto sobre Serviços de Qualquer Natureza (ISS) as ME e as EPP optantes pelo Simples Nacional utilizarão a Nota Fiscal de Serviços, conforme modelo aprovado e autorizado pelo Município, ou Distrito Federal, ou outro documento fiscal autorizado conjuntamente pelo Estado e pelo Município da sua circunscrição fiscal.
+§ 2º A utilização dos documentos fiscais fica condicionada à inutilização dos campos destinados à base de cálculo e ao imposto destacado, de obrigação própria, constando, no campo destinado às informações complementares ou, em sua falta, no corpo do documento, por qualquer meio gráfico indelével, as expressões:
+I - "DOCUMENTO EMITIDO POR ME OU EPP OPTANTE PELO SIMPLES NACIONAL"; e
+II - "NÃO GERA DIREITO A CRÉDITO FISCAL DE ICMS E DE ISS".
+§ 3º A expressão a que se refere o inciso II do § 2º não constará do documento fiscal emitido por ME ou EPP optante pelo Simples Nacional impedida de recolher o ICMS ou o ISS na forma desse Regime.
+§ 4º Quando a ME ou a EPP revestir-se da condição de responsável, inclusive de substituto tributário, fará a indicação alusiva à base de cálculo e ao imposto retido no campo próprio ou, em sua falta, no corpo do documento fiscal utilizado na operação ou prestação.
+§ 5º Na hipótese de devolução de mercadoria a contribuinte não optante pelo Simples Nacional, a ME e a EPP farão a indicação no campo "Informações Complementares", ou no corpo da Nota Fiscal Modelo 1, 1-A, ou Avulsa, da base de cálculo, do imposto destacado, e do número da Nota Fiscal de compra da mercadoria devolvida, observado o disposto no art. 10.
+§ 6º Na prestação de serviço sujeito ao ISS, cujo imposto for de responsabilidade do tomador, o emitente fará a indicação alusiva à base de cálculo e ao imposto devido no campo próprio ou, em sua falta, no corpo do documento fiscal utilizado na prestação.
+§ 7º Relativamente ao equipamento Emissor de Cupom Fiscal (ECF), deverão ser observadas as normas estabelecidas nas legislações dos entes federativos.
+LIVROS FISCAIS E CONTÁBEIS
+Art. 3º As ME e as EPP optantes pelo Simples Nacional deverão adotar para os registros e controles das operações e prestações por elas realizadas:
+I - Livro Caixa, no qual deverá estar escriturada toda a sua movimentação financeira e bancária;
+II - Livro Registro de Inventário, no qual deverão constar registrados os estoques existentes no término de cada ano-calendário, quando contribuinte do ICMS;
+III - Livro Registro de Entradas, modelo 1 ou 1-A, destinado à escrituração dos documentos fiscais relativos às entradas de mercadorias ou bens e às aquisições de serviços de transporte e de comunicação efetuadas a qualquer título pelo estabelecimento, quando contribuinte do ICMS;
+IV - Livro Registro dos Serviços Prestados, destinado ao registro dos documentos fiscais relativos aos serviços prestados sujeitos ao ISS, quando contribuinte do ISS;
+V - Livro Registro de Serviços Tomados, destinado ao registro dos documentos fiscais relativos aos serviços tomados sujeitos ao ISS;
+VI - Livro de Registro de Entrada e Saída de Selo de Controle, caso exigível pela legislação do Imposto sobre Produtos Industrializados - IPI.
+§ 1º Os livros discriminados neste artigo poderão ser dispensados, no todo ou em parte, pelo ente tributante da circunscrição fiscal do estabelecimento do contribuinte, respeitados os limites de suas respectivas competências.
+§ 2º Além dos livros previstos no caput, serão utilizados:
+I - Livro Registro de Impressão de Documentos Fiscais, pelo estabelecimento gráfico para registro dos impressos que confeccionar para terceiros ou para uso próprio;
+II - Livros específicos pelos contribuintes que comercializem combustíveis;
+III - Livro Registro de Veículos, por todas as pessoas que interfiram habitualmente no processo de intermediação de veículos, inclusive como simples depositários ou expositores.
+DECLARAÇÕES
+Art. 4º A ME e a EPP optantes do Simples Nacional apresentarão, anualmente, declaração única e simplificada de informações socioeconômicas e fiscais que será entregue à Secretaria da Receita Federal do Brasil (RFB), por meio da internet, até o último dia do mês de março do ano-calendário subseqüente ao de ocorrência dos fatos geradores dos impostos e contribuições previstos no Simples Nacional.
+§ 1º Nas hipóteses de extinção, cisão total, cisão parcial, fusão, incorporação ou exclusão do Simples Nacional, a declaração simplificada deverá ser entregue até o último dia do mês subseqüente ao do evento.
+§ 2º A declaração simplificada poderá ser retificada independentemente de prévia autorização da administração tributária e terá a mesma natureza da declaração originariamente apresentada, observado o disposto no parágrafo único do art. 138 do CTN.
+§ 3º A retificação da declaração simplificada por iniciativa do próprio declarante, quando vise reduzir ou excluir tributo, só é admissível antes do início de procedimento fiscal.
+§ 4º As informações prestadas pelo contribuinte na declaração simplificada serão compartilhadas entre a RFB e os órgãos de fiscalização tributária dos Estados e Municípios.
+§ 5º A RFB disponibilizará aos Estados, ao Distrito Federal e aos Municípios relação dos contribuintes que não apresentarem a declaração simplificada.
+§ 6º A exigência de declaração única a que se refere o caput não desobriga a prestação de informações relativas a terceiros.
+Art. 5º Relativamente aos tributos devidos, não abrangidos pelo Simples Nacional, nos termos do § 1º do art. 5º da Resolução CGSN nº 4, de 30 de maio de 2007, a ME e a EPP optantes pelo Simples Nacional deverão observar a legislação dos respectivos entes federativos quanto à prestação de informações e entrega de declarações.
+Art. 6º As ME e as EPP optantes pelo Simples Nacional ficam obrigadas à entrega da Declaração Eletrônica de Serviços, quando exigida pelo Município, que servirá para a escrituração mensal de todos os documentos fiscais emitidos e documentos recebidos referentes aos serviços prestados, tomados ou intermediados de terceiros.
+Parágrafo único. A declaração a que se refere o caput substitui os livros referidos nos inciso IV e V do art. 3º, e será apresentada ao Município pelo prestador, pelo tomador, ou por ambos, observadas as condições previstas na legislação de sua circunscrição fiscal.
+EMPREENDEDOR INDIVIDUAL
+Art. 7º O empreendedor individual, assim entendido como o empresário individual a que se refere o artigo 966 da Lei nº 10.406, de 10 de janeiro de 2002, com receita bruta acumulada no ano de até R$ 36.000,00 (trinta e seis mil reais):
+I - poderá optar por fornecer nota fiscal avulsa obtida nas Secretarias de Fazenda ou Finanças dos Estados, do Distrito Federal ou dos Municípios, nos termos definidos pelo respectivo ente federativo;
+II - fará a comprovação da receita bruta, mediante apresentação do registro de vendas ou de prestação de serviços, ou de escrituração fiscal simplificada, nos termos definidos pelo respectivo ente federativo, hipótese em que o empreendedor individual fica dispensado da emissão do respectivo documento fiscal.
+III - poderá optar por fornecer nota fiscal gratuita, quando disponibilizada pelo respectivo Município.
+Parágrafo único. O empreendedor individual a que se refere o caput fica dispensado das obrigações a que se refere o art. 3º.
+DAS DISPOSIÇÕES GERAIS
+Art. 8º O ente tributante que adote sistema eletrônico de emissão de documentos fiscais ou recepção eletrônica de informações poderá exigi-los de seus contribuintes optantes pelo Simples Nacional, observando os prazos e formas previstos nas respectivas legislações.
+Art. 9º Os documentos fiscais relativos a operações ou prestações realizadas ou recebidas, bem como os livros fiscais e contábeis, deverão ser mantidos em boa guarda, ordem e conservação enquanto não decorrido o prazo decadencial e não prescritas eventuais ações que lhes sejam pertinentes.
+Art. 10. Os livros e documentos fiscais previstos nesta Resolução serão emitidos e escriturados nos termos da legislação do ente tributante da circunscrição do contribuinte, com observância do disposto nos Convênios e Ajustes Sinief que tratam da matéria, especialmente os Convênios Sinief s/nº de 15 de dezembro de 1970, e nº 6, de 21 de fevereiro de 1989.
+Parágrafo único. O disposto no caput não se aplica aos livros e documentos fiscais relativos ao ISS.
+Art. 11. Na hipótese de a ME ou a EPP ser excluída do Simples Nacional ficará obrigada ao cumprimento das obrigações tributárias pertinentes ao seu novo regime de recolhimento, nos termos da legislação tributária dos respectivos entes federativos, a partir do início dos efeitos da exclusão.
+Parágrafo único. O disposto no caput aplica-se ao estabelecimento da ME ou EPP que estiver impedido de recolher o ICMS e o ISS na forma do Simples Nacional, desde a data de início dos efeitos do impedimento.
+Art. 12. As ME e as EPP optantes pelo Simples Nacional ficam obrigadas ao cumprimento das obrigações acessórias previstas nos regimes especiais de controle fiscal, quando exigíveis pelo respectivo ente tributante.
+Art. 13. Será considerado inidôneo o documento fiscal utilizado pela ME e EPP optantes pelo Simples Nacional em desacordo com o disposto nesta Resolução.
+DISPOSIÇÕES TRANSITÓRIAS
+Art. 14. Excepcionalmente, para os eventos de que trata o § 1º do art. 4º que ocorrerem durante o 2º semestre de 2007, a declaração simplificada anual deverá ser entregue até o último dia de março de 2008.
+Art. 15. Os documentos fiscais já autorizados poderão ser utilizados até o limite do prazo previsto para o seu uso, desde que observadas as condições desta Resolução.
+Art. 16. Relativamente aos períodos fiscais até 30 de junho de 2007, deverão ser observadas as normas estabelecidas pelos entes federativos para as respectivas obrigações acessórias.
+Art. 17. Esta Resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de julho de 2007.
+JORGE ANTONIO DEHER RACHID Presidente

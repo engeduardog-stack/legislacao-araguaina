@@ -1,0 +1,40 @@
+Resolução CGSN nº 38, de 1º de setembro de 2008
+Publicado(a) no DOU de 03/09/2008, página 44
+Visão: original
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32501
+
+[Alterado(a) pelo(a) Resolução CGSN nº 45, de 18 de novembro de 2008]
+[Alterado(a) pelo(a) Resolução CGSN nº 64, de 17 de agosto de 2009]
+Dispõe sobre a forma opcional de determinação da base de cálculo para apuração dos impostos e contribuições devidos utilizando a receita recebida pelas Microempresas e Empresas de Pequeno Porte optantes pelo Simples Nacional.
+O Comitê Gestor do Simples Nacional (CGSN), no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007 e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+DISPOSIÇÃO PRELIMINAR
+Art. 1º Esta Resolução regulamenta a forma opcional de determinação da base de cálculo para apuração dos impostos e contribuições devidos utilizando a receita recebida pelas Microempresas (ME) e Empresas de Pequeno Porte (EPP) optantes pelo Simples Nacional.
+CÁLCULO DOS TRIBUTOS
+Art. 2º A ME e a EPP poderão, opcionalmente, utilizar a receita bruta total recebida no mês - regime de caixa -, em substituição à receita bruta auferida - regime de competência -, de que trata o caput do art. 2º da Resolução CGSN nº 5, de 30 de maio de 2007, exclusivamente para a determinação da base de cálculo mensal.
+§ 1º A opção pela determinação da base de cálculo de que trata o caput:
+I - deverá ser registrada quando da apuração dos valores devidos relativos ao mês de janeiro de cada ano-calendário em aplicativo disponibilizado no Portal do Simples Nacional;
+II - será irretratável para todo o ano-calendário.
+§ 2º Na hipótese de inicio de atividade, o registro de que trata o inciso I do § 1º deverá ser feito quando da apuração dos valores devidos relativos ao mês de opção pelo Simples Nacional.
+§ 3º Na hipótese de a ME ou a EPP possuir filiais, deverá ser considerado o somatório das receitas recebidas por todos os estabelecimentos.
+§ 4º Para a determinação dos limites e sublimites, nos termos da Resolução CGSN nº 4, de 30 de maio de 2007, bem como da alíquota a ser aplicada sobre a receita bruta recebida no mês, deverá ser utilizada a receita bruta auferida, observado o disposto na Resolução CGSN nº 5, de 2007.
+Art. 3º Nas prestações de serviços ou operações com mercadorias a prazo, a parcela não vencida deverá obrigatoriamente integrar a base de cálculo dos tributos abrangidos pelo Simples Nacional até o último mês do ano-calendário subseqüente àquele em que tenha ocorrido a respectiva prestação de serviço ou operação com mercadorias.
+Art. 4º A receita auferida e ainda não recebida deverá integrar a base de cálculo dos tributos abrangidos pelo Simples Nacional, na hipótese de:
+I - encerramento de atividade, no mês em que ocorrer o evento;
+II - retorno ao regime de competência, no último mês de vigência do regime de caixa;
+III - exclusão do Simples Nacional, no mês anterior ao dos efeitos da exclusão.
+REGISTRO DOS VALORES NÃO RECEBIDOS
+Art. 5º O optante pelo regime de apuração de receitas de que trata o art. 2º deverá manter registro dos valores não recebidos, em modelo a ser estabelecido pelo CGSN, no qual constarão, no mínimo, as seguintes informações, relativas a cada prestação de serviço ou operação com mercadorias, à vista ou a prazo:
+I - número e data de emissão de cada documento fiscal;
+II - valor da operação ou prestação;
+III - valor e quantidade de parcelas a receber, bem como a data dos respectivos vencimentos;
+IV - a data de recebimento e o valor recebido;
+V - saldo a receber;
+VI - créditos considerados não mais cobráveis, bem como a respectiva motivação.
+§ 1º Na hipótese de haver mais de um documento fiscal referente a uma mesma prestação de serviço ou operação com mercadorias, estas deverão ser registradas conjuntamente.
+§ 2º A adoção do regime de que trata o caput pela ME ou EPP não a desobriga de manter em boa ordem e guarda os documentos e livros previstos da Resolução CGSN nº 10, de 28 de junho de 2007, inclusive com a discriminação completa de toda a sua movimentação financeira e bancária, constante do Livro Caixa.
+Art. 6º Na hipótese de descumprimento do disposto no art. 5º, será desconsiderada, de ofício, a opção pelo regime de apuração de receitas de que trata o art. 2º, para os anos-calendário correspondentes ao período em que tenha ocorrido o descumprimento.
+Parágrafo único. Na hipótese do caput, os tributos abrangidos pelo Simples Nacional deverão ser recalculados pelo regime de competência, sem prejuízo dos acréscimos legais correspondentes.
+DISPOSIÇÃO FINAL
+Art. 7º Fica revogado o § 3º do art. 2º da Resolução CGSN nº 5, de 2007.
+Art. 8º Esta Resolução entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2009.
+LINA MARIA VIEIRA Presidente do Comitê

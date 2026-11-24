@@ -1,0 +1,23 @@
+---
+norma: LC 225/2026 (devedor contumaz)
+sigla: LC225
+artigo: "48"
+paginas_pdf: "19-20"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 48. O art. 2º da Lei nº 10.522, de 19 de julho de 2002, passa a vigorar com a seguinte redação:
+“Art.
+2º
+......................................................................................................................................
+.............................................................................................................................................................
+VI - sejam enquadradas como devedores contumazes, na forma da legislação
+específica.
+.............................................................................................................................................................
+§ 10. Os Estados, o Distrito Federal e os Municípios informarão ao Ministério da
+Fazenda a inclusão e a exclusão do contribuinte da condição de devedor contumaz, para fins
+de registro da informação no Cadin.
+§ 11. A União adotará ações com vistas a garantir a integração, a sincronização e o
+compartilhamento obrigatório, gratuito e tempestivo dos dados de que trata o §  10 deste
+artigo.” (NR)

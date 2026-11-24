@@ -1,0 +1,10 @@
+---
+norma: Código Civil (Lei 10.406/2002)
+sigla: CC
+artigo: "70"
+paginas_pdf: "8-8"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 70. O domicílio da pessoa natural é o lugar onde ela estabelece a sua residência com ânimo definitivo.

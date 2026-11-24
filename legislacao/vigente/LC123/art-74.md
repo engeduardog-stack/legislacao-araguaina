@@ -1,0 +1,13 @@
+---
+norma: LC 123/2006 (Simples Nacional)
+sigla: LC123
+artigo: "74"
+paginas_pdf: "61-61"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 74. Aplica-se às microempresas e às empresas de pequeno porte de que trata esta Lei Complementar o
+disposto no § 1º do art. 8º da Lei nº 9.099, de 26 de setembro de 1995, e no inciso I do caput do art. 6º da Lei nº
+10.259, de 12 de julho de 2001, as quais, assim como as pessoas físicas capazes, passam a ser admitidas como
+proponentes de ação perante o Juizado Especial, excluídos os cessionários de direito de pessoas jurídicas.

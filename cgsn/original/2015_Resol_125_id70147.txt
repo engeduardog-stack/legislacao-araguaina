@@ -1,0 +1,109 @@
+Resolução CGSN nº 125, de 8 de dezembro de 2015
+Publicado(a) no DOU de 09/12/2015, seção 1, página 64
+Visão: original
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/70147
+
+Altera a Resolução nº 94, de 29 de novembro de 2011, que dispõe sobre o Simples Nacional e dá outras providências.
+O COMITÊ GESTOR DO SIMPLES NACIONAL, no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º Os arts. 2º, 15, 35-A, 37-A, 61-A, 68, 72, 100, 105, 129 e 130-C da Resolução CGSN nº 94, de 29 de novembro de 2011, passam a vigorar com a seguinte redação:
+“Art. 2º .............................................................................................................................................
+...................................................................................................
+§ 5º Consideram-se bens do ativo imobilizado, ativos tangíveis: (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; Resolução CFC nº 1.285, de 18 de junho de 2010)
+I – que sejam disponibilizados para uso na produção ou fornecimento de bens ou serviços, ou para locação por outros, para investimento, ou para fins administrativos; e
+II – cuja desincorporação ocorra somente a partir do segundo ano subsequente ao da respectiva entrada.
+................................................................................................................................................” (NR)
+“Art. 15. ............................................................................................................................................
+...................................................................................................
+“§ 7º Não compõem a receita bruta do ano-calendário imediatamente anterior ao da opção pelo Simples Nacional, para efeitos do disposto no inciso I do caput deste artigo, os valores: (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º; art. 3º, §§ 1º e 16)
+I – destacados a título de IPI;
+II – devidos a título de ICMS retido por substituição tributária, pelo contribuinte que se encontra na condição de substituto. ” (NR)
+“Art. 35-A. Na hipótese em que a União, o Estado ou o Distrito Federal, em lei específica destinada à ME ou EPP optante pelo Simples Nacional, concedam isenção ou redução de Cofins, Contribuição para o PIS/Pasep e ICMS para produtos da cesta básica, será realizada a redução proporcional, relativamente à receita objeto da isenção ou redução concedida, da seguinte forma: (Lei Complementar nº 123, de 2006, art. 18, § 20-B)
+................................................................................................................................................” (NR)
+“Art. 37-A. ........................................................................................................................................
+...................................................................................................
+§ 3º Depois da remessa para inscrição em DAU ou da transferência dos valores de ICMS ou ISS para o Estado ou Município que tenha efetuado o convênio previsto no § 3º do art. 41 da Lei Complementar nº 123, de 2006, o ajuste dos valores dos débitos decorrentes da retificação no PGDAS-D, nos sistemas de cobrança pertinentes, poderá ser efetuado: (Lei Complementar nº 123, de 2006, art. 2º, inciso I, § 6º)
+I – pela RFB, com relação aos tributos federais e, na ausência do convênio mencionado neste parágrafo, ao ICMS e ISS; ou
+II – pelo Estado ou Município, com relação ao ICMS ou ISS, quando firmado o convênio mencionado neste parágrafo.
+§ 4º Na hipótese do § 3º, nos casos em que houver alteração do débito para menor, o ajuste dependerá de prova inequívoca da ocorrência de erro de fato no preenchimento da declaração. (Lei Complementar nº 123, de 2006, art. 2º, inciso I, § 6º; Lei nº 5.172, de 1966, art. 147, § 1º)” (NR)
+“Art. 61-A. ........................................................................................................................................
+...................................................................................................
+§ 1º ....................................................................................................................................................
+...................................................................................................
+II – norma publicada até 31 de março de 2014 que tenha veiculado exigência vigente até aquela data, observado o disposto no § 2º; (Lei Complementar nº 123, de 2006, art. 26, § 15)
+...................................................................................................
+IV – informações apresentadas por meio do Sistema de Captação e Auditoria dos Anexos de Combustíveis – SCANC, aprovado pelo Conselho Nacional de Política Fazendária (Confaz). (Lei Complementar nº 123, de 2006, art. 26, § 15)
+...........................................................................................................................................................
+§ 3º Revogado
+...........................................................................................................................................................
+§ 5º Em relação ao disposto no inciso II do § 1º: (Lei Complementar nº 123, de 2006, art. 26, §§ 4º, 4º-A, inciso I, e 15)
+I – a prestação de informações por meio do Sistema Público de Escrituração Digital (Sped) somente pode ser exigida quando:
+a) referir-se a estabelecimento de EPP que tenha ultrapassado o sublimite adotado pelo Estado ou Distrito Federal; ou
+b) em perfil específico que não exija a apuração de tributos.
+II – o Município que tenha adotado Nota Fiscal Eletrônica de Serviços deverá adotar medidas que visem à revogação das declarações eletrônicas de serviços prestados, em face do disposto no § 10 do art. 26 da Lei Complementar nº 123, de 2006. (NR)
+“Art. 68. A ME ou EPP optante pelo Simples Nacional fica obrigada à entrega da Declaração Eletrônica de Serviços, quando exigida pelo Município, que servirá para a escrituração mensal de todos os documentos fiscais emitidos e documentos recebidos referentes aos serviços prestados, tomados ou intermediados de terceiros, observado o disposto no inciso II do § 5º do art. 61-A. (Lei Complementar nº 123, de 2006, art. 26, § 5º)” (NR)
+“Art. 72. ............................................................................................................................................
+..................................................................................................................................................
+I – ......................................................................................................................................................
+..................................................................................................................................................
+d) a partir de 1º de janeiro de 2017, para empresas com mais de 3 (três) empregados;
+.................................................................................................................................................”(NR)
+“Art. 100. ..........................................................................................................................................
+..................................................................................................................................................
+§ 7º A DASN-Simei constitui confissão de dívida e instrumento hábil e suficiente para a exigência dos tributos que não tenham sido recolhidos resultantes das informações nela prestadas. (Lei Complementar nº 123, de 2006, art. 25, §§ 1º e 4º)” (NR)
+“Art. 105. ..........................................................................................................................................
+..................................................................................................................................................
+§ 2º ...........................................................................................................................................
+...........................................................................................................................................................
+II – ...........................................................................................................................................
+a) exceder, no ano-calendário, o limite de receita bruta previsto no caput ou no § 1º do art. 91, devendo a comunicação ser efetuada até o último dia útil do mês subsequente àquele em que tenha ocorrido o excesso, produzindo efeitos: (Lei Complementar nº 123, de 2006, art. 18-A, § 7º, incisos III e IV)
+1. a partir de 1º de janeiro do ano-calendário subsequente ao da ocorrência do excesso, na hipótese de não ter ultrapassado o limite previsto no caput ou no § 1º do art. 91 em mais de 20% (vinte por cento);
+2. retroativamente a 1º de janeiro do ano-calendário da ocorrência do excesso, na hipótese de ter ultrapassado o limite previsto no caput do art. 91 em mais de 20% (vinte por cento);
+3. retroativamente ao início de atividade, na hipótese de ter ultrapassado o limite previsto no § 1º do art. 91 em mais de 20% (vinte por cento);”
+................................................................................................................................................” (NR)
+“Art. 129. .........................................................................................................................................
+..................................................................................................................................................
+§ 8º Observado o disposto neste artigo, depois da disponibilização do Sefisc poderão ser utilizados alternativamente os procedimentos administrativos fiscais previstos na legislação de cada ente federado: (Lei Complementar nº 123, de 2006, art. 33, § 4º)
+I – para fatos geradores ocorridos:
+a) entre 1º de janeiro de 2012 a 31 de dezembro de 2014, até 31 de dezembro de 2016;
+b) a partir de 1º de janeiro de 2015, até 31 de dezembro de 2017;
+II – para todos os fatos geradores, até 31 de dezembro de 2017, nas seguintes situações:
+........................................................................................……...........................................................
+......................................................................................................................................... (NR)
+“Art. 130-C. ..........................................................................……....................................................
+..................................................................................................................................................
+II – solicitado entre 1º de novembro de 2014 e 31 de dezembro de 2016:
+...................................................................................................
+d) permitir 1 (um) pedido de parcelamento por ano-calendário, devendo a ME ou EPP desistir previamente de eventual parcelamento em vigor.” (NR)
+Art. 2º A Seção VII do Capítulo II do Título IV da Resolução CGSN nº 94, de 2011, passa a vigorar com a seguinte redação:
+“Seção VII
+Do Sumário
+Art. 139. O Sumário das normas desta Resolução consta do Anexo XIV. (Lei Complementar nº 123, de 2006, art. 2º, inciso I e § 6º)” (NR)
+Art. 3º A Resolução CGSN nº 94, de 2011, passa a vigorar acrescida do art. 61-B, com a seguinte redação:
+“Art. 61-B. Os Estados, Distrito Federal e Municípios poderão exigir a escrituração fiscal digital ou obrigação equivalente para a microempresa ou empresa de pequeno porte optante pelo Simples Nacional, desde que: (Lei Complementar nº 123, de 2006, art. 26, § 15)
+I – as informações eletrônicas sejam pré-escrituradas ao contribuinte para que este complemente com prestação de informações de:
+a) documentos fiscais não eletrônicos;
+b) classificação fiscal de documentos fiscais eletrônicos de entrada;
+c) confirmação de serviços tomados;
+II – a obrigação seja cumprida:
+a) mediante aplicativo gratuito, com link disponível no Portal do Simples Nacional;
+b) com dispensa do uso de certificação digital, salvo nas hipóteses do art. 72, casos em que poderá ser exigido.
+§ 1º A exigência prevista no caput não se aplicará às informações relativas a documentos fiscais: (Lei Complementar nº 123, de 2006, art. 26, §§ 4º e 15)
+I – não eletrônicos de que trata o inciso I do caput, cujos dados sejam transmitidos à Administração Tributária do ente federado de localização do emitente em face de programas de cidadania fiscal;
+II – de entrada e de serviços tomados, quando a classificação ou a confirmação de que tratam as alíneas “b” e “c” do inciso I do caput forem efetuadas em sistema que possibilite a recepção eletrônica do documento, na forma estabelecida pela Administração Tributária do ente federado de localização do adquirente ou tomador.
+§ 2º A carga ou confirmação de documentos fiscais eletrônicos de saída ou prestação de serviços não poderá ser solicitada, salvo quando em caráter facultativo. (Lei Complementar nº 123, de 2006, art. 26, § 15)
+§ 3º O disposto neste artigo abrange qualquer modalidade de escrituração fiscal digital, livros eletrônicos de entrada e saída, bem como declaração eletrônica de prestação ou tomada de serviços. (Lei Complementar nº 123, de 2006, art. 26, §§ 4º-A, 5º e 15)
+§ 4º A exigência de prestação de dados por meio de escrituração fiscal digital em qualquer modalidade que não atenda ao disposto neste artigo não poderá ter caráter obrigatório para a ME ou EPP optante pelo Simples Nacional, exceto quando ultrapassado o sublimite adotado por Estado ou Distrito Federal. (Lei Complementar nº 123, de 2006, art. 26, §§ 4º-A, inciso I, e 15)
+§ 5º O disposto neste artigo aplica-se às obrigações exigíveis a partir de 1º de abril de 2014. (Lei Complementar nº 123, de 2006, art. 26, § 15)” (NR)
+Art. 4º O Anexo XIII à Resolução CGSN nº 94, de 2011, passa a vigorar acrescido da seguinte ocupação:
+[arquivo: Anexo.html]
+Art. 5º O Anexo XIV à Resolução CGSN nº 94, de 2011, passa a vigorar na forma do Anexo desta Resolução.
+Art. 6º Esta Resolução entra em vigor na data de sua publicação, produzindo efeitos, em relação ao art. 4º, a partir de 1º de janeiro de 2016.
+Art. 7º Fica revogado o § 3º do art. 61-A da Resolução CGSN nº 94, de 2011.
+CARLOS ROBERTO OCCASO
+Presidente do Comitê
+Substituto
+ANEXO
+Anexo XIV da Resolução CGSN nº 94, de 29 de novembro de 2011 (art. 139)
+Sumário
+[arquivo: Anexo.html]
+.

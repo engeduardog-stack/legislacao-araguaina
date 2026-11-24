@@ -1,0 +1,35 @@
+Resolução CGSN nº 18, de 10 de agosto de 2007
+Publicado(a) no DOU de 14/08/2007, página 309
+Visão: vigente
+https://normasinternet2.receita.fazenda.gov.br/#/consulta/externa/32025
+
+[Alterado(a) pelo(a) Resolução CGSN nº 20, de 15 de agosto de 2007]
+[Alterado(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+Dispõe sobre a utilização, pelos entes federativos, de certificação digital para acesso à base de dados do Simples Nacional.
+O Comitê Gestor do Simples Nacional (CGSN), no uso das competências que lhe conferem a Lei Complementar nº 123, de 14 de dezembro de 2006, o Decreto nº 6.038, de 7 de fevereiro de 2007, e o Regimento Interno aprovado pela Resolução CGSN nº 1, de 19 de março de 2007, resolve:
+Art. 1º Esta Resolução regulamenta a utilização, pelos entes federativos, de certificação digital para acesso à base de dados do Simples Nacional.
+Art. 2º A União, os Estados, o Distrito Federal e os Municípios deverão dispor de certificação digital para ter acesso à base de dados do Simples Nacional, no âmbito de suas respectivas competências, em especial para:
+I - deferimento ou indeferimento de opções;
+II - cadastramento de fiscalizações, lançamentos e contencioso administrativo;
+III - inclusão, exclusão, alteração e consulta de informações;
+IV - importação e exportação de arquivos de dados.
+Art. 3º A especificação dos perfis de acesso aos aplicativos e à base de dados do Simples Nacional será estabelecida por meio de portaria da Secretaria-Executiva do CGSN.
+Art. 4º O processo de cadastramento dos usuários dos entes federativos para acesso ao Simples Nacional, conforme previsto no art. 2º, dar-se-á da seguinte forma:
+I - O cadastramento do "usuário-mestre" será efetuado por meio de aplicativo, disponível na página de acesso para os entes federativos, no Portal do Simples Nacional, observado o disposto nos §§ 3º e 3º-A; [Redação dada pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+II - o "usuário-mestre" poderá cadastrar diretamente outros usuários ou, se preferir, cadastrar "usuários-cadastradores";
+III - os demais usuários serão cadastrados pelos "usuárioscadastradores".
+§ 1º A atribuição de perfis de acesso a cada tipo de usuário caberá:
+I - ao "usuário-mestre", em relação aos "usuários-cadastradores" e outros usuários;
+II - aos "usuários-cadastradores", em relação aos outros usuários.
+§ 2º Todos os níveis de usuários, no âmbito da União, Estados, Distrito Federal e Municípios, deverão possuir certificação digital.
+§ 3º Inicialmente, o "usuário-mestre" será o representante do ente federativo no cadastro do Fundo de Participação dos Estados (FPE) ou do Fundo de Participação dos Municípios (FPM), denominado "responsável pelo FPEM". [Redação dada pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+§ 3º-A São aptos a alterar o "usuário-mestre", por meio do aplicativo previsto no inciso I do caput: [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+I - o "responsável pelo FPEM"; [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+II - o "usuário-mestre" que se encontrar cadastrado, para designar um novo "usuário-mestre". [Incluído(a) pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+§ 4º A substituição do "usuário-mestre" poderá ser oficiada diretamente ao Presidente do CGSN, quando, por questões circunstanciais, não for possível a utilização do aplicativo tratado no inciso I do caput: [Redação dada pelo(a) Resolução CGSN nº 60, de 22 de junho de 2009]
+I - pelo titular do ente federativo; ou [Incluído(a) pelo(a) Resolução CGSN nº 20, de 15 de agosto de 2007]
+II - pelo titular do órgão que administra a Fazenda Estadual ou Municipal, hipótese em que deverá ser anexada cópia do ato designatório. [Incluído(a) pelo(a) Resolução CGSN nº 20, de 15 de agosto de 2007]
+§ 5º No ofício a que se refere o § 4º deverá constar o nome completo, o cargo e o respectivo número do Cadastro de Pessoas Físicas (CPF) do usuário-mestre designado. [Incluído(a) pelo(a) Resolução CGSN nº 20, de 15 de agosto de 2007]
+Art. 5º Esta Resolução não se aplica ao processo de deferimento das opções de que trata o § 5º do art. 7º da Resolução CGSN nº 4, de 30 de maio de 2007, cujas informações serão prestadas por Estados, Distrito Federal e Municípios por meio de PGD - Programa Gerador de Declarações.
+Art. 6º Esta Resolução entra em vigor na data da sua publicação.
+PAULO RICARDO DE SOUZA CARDOSO Presidente do Comitê Gestor Substituto

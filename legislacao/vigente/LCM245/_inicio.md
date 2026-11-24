@@ -1,0 +1,47 @@
+EDIÇÃO Nº 3612
+QUARTA-FEIRA , 14 DE OUTUBRO DE 2026
+PÁGINA 1
+ANO XV
+ARAGUAINA QUARTA-FEIRA , 14 DE OUTUBRO DE 2026 | EDIÇÃO Nº 3612
+22 PÁGINAS
+SUMÁRIO
+ATOS DO EXECUTIVO
+SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO (SECAD)
+SECRETARIA MUNICIPAL DA ASSISTÊNCIA SOCIAL (SEMAS)
+SECRETARIA MUNICIPAL DE CIÊNCIAS, TECNOLOGIA, INOVAÇÃO
+(SECTI)
+SECRETARIA MUNICIPAL DE DESENVOLVIMENTO ECONÔMICO,
+AGRICULTURA, MEIO AMBIENTE E TURISMO (SEDEMAT)
+SECRETARIA DE ESPORTE CULTURA E LAZER (SEMECL)
+SECRETARIA
+MUNICIPAL
+DE
+INFRAESTRUTURA
+E
+DESENVOLVIMENTO URBANO (SEINFRA)
+SECRETARIA MUNICIPAL DA SAÚDE (SEMUS)
+SECRETARIA MUNICIPAL DA MULHER (SEMUL)
+AGÊNCIA DE SEGURANÇA TRANSPORTE E TRÂNSITO (ASTT)
+FUNDAÇÃO DE ATIVIDADE MUNICIPAL COMUNITÁRIA (FUNAMC)
+INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA AOS SERVIDORES DO
+MUNICÍPIO DE ARAGUAÍNA (IMPAR)
+PUBLICAÇÃO PARTICULAR
+Documento assinado digitalmente conforme MP N° 2.200-2
+de 24/08/2001, que institui a Infraestrutura de Chaves
+Públicas Brasileira - ICP-Brasil. A autenticidade deste
+documento pode ser conferida por meio do QRCode ou
+através do link: https://transparencia.araguaina.to.gov.br/diario-
+oficial/validar/2636120100
+ATOS DO EXECUTIVO
+LEI COMPLEMENTAR Nº 245, DE 14 DE OUTUBRO DE 2026
+Institui o Programa de Regularização Fiscal
+– REFIS, destinado à regularização de
+créditos tributários e não tributários do
+Município de Araguaína e dá outras
+providências.
+O PREFEITO MUNICIPAL DE ARAGUAÍNA, ESTADO DO TOCANTINS, no
+uso de suas atribuições legais conferidas pela Lei Orgânica do Município,
+faço saber que a Câmara Municipal de Araguaína, Estado do Tocantins,
+APROVOU e eu SANCIONO a seguinte Lei Complementar:
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS

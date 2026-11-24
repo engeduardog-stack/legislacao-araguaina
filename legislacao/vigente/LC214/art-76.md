@@ -1,0 +1,25 @@
+---
+norma: LC 214/2025 (IBS e CBS)
+sigla: LC214
+artigo: "76"
+paginas_pdf: "35-35"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 76. O IBS e a CBS devidos na importação de bens materiais deverão ser pagos até a entrega
+dos bens submetidos a despacho para consumo, ainda que esta ocorra antes da liberação dos bens pela
+autoridade aduaneira.
+§ 1º O sujeito passivo poderá optar por antecipar o pagamento do IBS e da CBS para o momento
+do registro da declaração de importação.
+§ 2º Eventual diferença de tributos gerada pela antecipação do pagamento será cobrada do
+sujeito passivo na data de ocorrência do fato gerador para efeitos de cálculo do IBS e da CBS, sem a
+incidência de acréscimos moratórios.
+§ 3º O regulamento poderá estabelecer hipóteses em que o pagamento do IBS e da CBS possa
+ocorrer em momento posterior ao definido nocaput deste artigo, para os sujeitos passivos certificados no
+Programa Brasileiro de Operador Econômico Autorizado (Programa OEA) estabelecido na forma da
+legislação específica.
+§ 4º O pagamento do IBS e da CBS é condição para a entrega dos bens, observado o disposto
+no § 3º deste artigo.
+§ 5º O IBS e a CBS devidos na importação serão extintos exclusivamente mediante recolhimento
+pelo sujeito passivo.

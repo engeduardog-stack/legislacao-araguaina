@@ -1,0 +1,113 @@
+---
+norma: LC 227/2026 (CGIBS, processo do IBS, ITCMD)
+sigla: LC227
+artigo: "2"
+paginas_pdf: "1-3"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-23
+---
+
+Art. 2º Os Estados, o Distrito Federal e os Municípios exercerão, de forma integrada, exclusivamente por meio do CGIBS, as
+seguintes competências administrativas relativas ao IBS:
+I - editar regulamento único e uniformizar a interpretação e a aplicação da legislação do imposto;
+II - arrecadar o imposto, efetuar as compensações, realizar as retenções previstas na legislação específica e distribuir o
+produto da arrecadação aos Estados, ao Distrito Federal e aos Municípios; e
+III - decidir o contencioso administrativo.
+§ 1º Além do previsto no caput deste artigo, compete ao CGIBS:
+22/06/2026, 17:00
+Lcp 227
+https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm
+1/104
+I - atuar juntamente com o Poder Executivo federal, com vistas a harmonizar normas, interpretações, obrigações acessórias e
+procedimentos relativos às regras comuns aplicáveis ao IBS e à Contribuição Social sobre Bens e Serviços (CBS);
+II - compartilhar com a Secretaria Especial da Receita Federal do Brasil (RFB) e com a Procuradoria-Geral da Fazenda
+Nacional (PGFN), ambas do Ministério da Fazenda, de modo cooperativo e recíproco, informações de interesse fiscal e de
+cobrança relativas ao IBS e à CBS;
+III - exercer a gestão compartilhada, em conjunto com a RFB, do sistema de registro do início e do resultado das fiscalizações
+do IBS e da CBS de que trata o inciso II do caput do art. 325 da Lei Complementar nº 214, de 16 de janeiro de 2025;
+IV - disciplinar a aplicação do regime especial de fiscalização;
+V - realizar avaliação quinquenal da eficiência, da eficácia e da efetividade de que trata o art. 475 da Lei Complementar
+nº 214, de 16 de janeiro de 2025;
+VI - coordenar, com vistas à integração entre os entes federativos, no âmbito de suas competências, as atividades de:
+a) fiscalização, lançamento, cobrança e representação administrativas relativas ao IBS, que serão realizadas pelas
+administrações tributárias dos Estados, do Distrito Federal e dos Municípios;
+b) cobrança judicial e extrajudicial do IBS e representação administrativa e judicial relativas ao IBS, que serão realizadas
+pelas Procuradorias dos Estados, do Distrito Federal e dos Municípios; e
+c) inscrição em dívida ativa;
+VII - promover a inscrição em dívida ativa dos créditos tributários de IBS, em caso de delegação dos entes federativos,
+preservada a titularidade destes;
+VIII - coordenar, em âmbito administrativo e judicial, a adoção dos métodos de solução adequada de conflitos relacionados ao
+IBS entre os entes federativos e os sujeitos passivos e estabelecer a padronização dos critérios para a sua realização;
+IX - reter o montante de que trata a alínea “b” do inciso IV do caput do art. 158 da Constituição Federal e:
+a) distribuí-lo diretamente aos Municípios, conforme os critérios previstos no § 2º do art. 158 da Constituição Federal; e
+b) depositá-lo, quando for o caso e no limite necessário, em conta especial, nos termos do inciso IV do caput do art. 104 do
+Ato das Disposições Constitucionais Transitórias (ADCT);
+X - efetuar as demais retenções previstas na Constituição Federal e em lei complementar;
+XI - em conjunto com a RFB, propor a metodologia de cálculo, calcular, fixar e divulgar, conforme o caso, as alíquotas do IBS
+e da CBS, para os regimes específicos, na forma e no prazo previstos na Lei Complementar nº 214, de 16 de janeiro de 2025;
+XII - em conjunto com a RFB, encaminhar, na forma do inciso III do § 3º do art. 349 da Lei Complementar nº 214, de 16 de
+janeiro de 2025, a proposta para o cálculo do redutor a ser aplicado sobre as alíquotas do IBS e da CBS nas operações contratadas
+pela administração pública direta, por autarquias e por fundações públicas, inclusive suas importações;
+XIII - deduzir do produto da arrecadação do IBS devido aos Estados o valor compensado relativo a saldo credor acumulado
+do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação (ICMS), nos termos do art. 137 desta Lei Complementar;
+XIV - executar as atividades orçamentárias, financeiras, contábeis e de tesouraria relativas à sua atuação;
+XV - prestar contas perante órgãos de controle externo;
+XVI - solicitar a cessão dos servidores efetivos:
+a) das carreiras das administrações tributárias e das Procuradorias dos Estados, do Distrito Federal e dos Municípios,
+conforme as respectivas áreas de competência exclusiva, para atuarem no CGIBS nos termos do regimento interno;
+b) de outras carreiras das secretarias de economia, fazenda, finanças ou tributação ou das procuradorias dos Estados, do
+Distrito Federal e dos Municípios;
+XVII - estruturar o plano de cargos e salários e contratar empregados públicos, mediante concurso público, sob regime
+celetista, para o exercício de atividades do CGIBS que não estejam contempladas nas atribuições das carreiras da administração
+tributária, das procuradorias e das outras carreiras a que se refere o inciso XVI deste parágrafo;
+XVIII - contratar serviços terceirizados para execução de atividades administrativas e de apoio;
+XIX - estruturar o plano de vantagens remuneratórias ou indenizatórias aos membros do Conselho Superior do CGIBS e aos
+servidores de carreira cedidos ao CGIBS, observado o disposto no art. 37, caput, inciso XI, e §§ 12 e 18, este último conforme
+redação dada pela Emenda Constitucional nº 132, de 20 de dezembro de 2023;
+XX - instituir e manter a Escola Nacional de Tributação com intuito de promover, supervisionar ou financiar o desenvolvimento
+de estudos, pesquisas e programas educacionais, nas modalidades de aperfeiçoamento, de atualização, de reciclagem e de
+especialização, inclusive por meio de cursos de pós-graduação lato sensu e stricto sensu:
+22/06/2026, 17:00
+Lcp 227
+https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp227.htm
+2/104
+a) dos servidores em exercício no CGIBS;
+b) dos servidores em exercício nas administrações tributárias e financeiras e nas Procuradorias dos Estados, do Distrito
+Federal e dos Municípios; e
+c) do público amplo, vedado o financiamento e permitida a cobrança de tarifas;
+XXI - em conjunto com a RFB, estabelecer a metodologia de apuração do crédito nas operações em que o contribuinte seja
+adquirente de combustíveis, nas hipóteses em que seja dispensada a comprovação de pagamento do IBS sobre a aquisição para
+apropriação dos créditos;
+XXII - editar atos exclusivos ou conjuntos com o Poder Executivo federal, nos casos previstos em lei complementar;
+XXIII - instituir programas e ações de incentivo à cidadania e à educação fiscal; e
+XXIV - exercer outras competências que lhe sejam conferidas em lei complementar.
+§ 2º As competências exclusivas das carreiras da administração tributária e das Procuradorias dos Estados, do Distrito
+Federal e dos Municípios serão exercidas, no CGIBS e na representação deste, por servidores das respectivas carreiras.
+§ 3º Para os efeitos do exercício da coordenação da cobrança administrativa ou judicial, o CGIBS realizará todos os atos
+necessários ao controle centralizado das inscrições em dívida ativa, mediante sistema único, e estas serão realizadas nos termos
+da legislação de cada ente federativo titular da parcela do crédito tributário constituído definitivamente.
+§ 4º O regulamento único do IBS definirá o prazo máximo para a realização das atividades de cobrança administrativa, desde
+que não superior a 12 (doze) meses, contado da constituição definitiva do crédito tributário.
+§ 5º Exaurido o prazo regulamentar de que trata o § 4º deste artigo, contado da constituição definitiva do crédito tributário, a
+administração tributária encaminhará o expediente à respectiva procuradoria, observado o disposto no § 3º do art. 5º desta Lei
+Complementar, para as providências de cobrança judicial ou extrajudicial cabíveis, nos termos definidos no regulamento único do
+IBS.
+§ 6º Será do CGIBS o ônus decorrente da cessão, pelos entes federativos, de servidores das carreiras das administrações
+tributárias, das procuradorias e das demais carreiras a que se refere o inciso XVI do § 1º deste artigo, na forma do regimento
+interno.
+§ 7º O CGIBS, a RFB e a PGFN poderão implementar soluções integradas para a administração e a cobrança do IBS e da
+CBS.
+§ 8º Cabe exclusivamente ao CGIBS a criação de obrigações acessórias relativas ao IBS.
+§ 9º Para fins do disposto no inciso VI do § 1º deste artigo, os entes federativos poderão definir hipóteses de delegação,
+mediante ajustes recíprocos, tais como convênios, acordos, protocolos, consórcios ou outros instrumentos jurídicos congêneres, ou
+de compartilhamento.
+§ 10. Os acordos, convênios ou outros instrumentos legais celebrados entre os entes federativos, na forma do § 9º deste
+artigo, deverão ser depositados no CGIBS, que os disponibilizará em seu sítio eletrônico oficial.
+§ 11. As normas comuns ao IBS e à CBS constantes do regulamento único do IBS serão aprovadas por ato conjunto do
+CGIBS e do Poder Executivo federal.
+§ 12. O regulamento único do IBS preverá regras uniformes de conformidade tributária, de orientação, de autorregularização
+e de tratamento diferenciado a contribuintes que atendam a programas de conformidade do IBS estabelecidos pelos entes
+federativos, observado o disposto no parágrafo único do art. 471-C da Lei Complementar nº 214, de 16 de janeiro de 2025.
+Seção II
+Das Diretrizes para a Fiscalização e a Cobrança Compartilhadas e Coordenadas do IBS
