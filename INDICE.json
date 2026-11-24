@@ -1027,6 +1027,12 @@
    "titulo": "IPCA, INPC, IGP-M, Selic, TR e datas de divulgação (IBGE e Banco Central)",
    "situacao": "atualizado semanalmente",
    "grupo": "indices"
+  },
+  {
+   "arquivo": "historico/ctm/",
+   "titulo": "Historico do CTM por dispositivo: cada redacao com datas de vigencia (ctm_versoes.json), valores por exercicio, regras de aplicacao e pendencias",
+   "situacao": "construido em 23/11/2026; atualizar a cada lei alteradora",
+   "grupo": "historico"
   }
  ]
 }

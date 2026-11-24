@@ -13,7 +13,7 @@ Gerada automaticamente (`build_base.py`, toda semana); **nunca se edita à mão*
 5. CGSN: `cgsn/INDICE.csv`; redação por data em `cgsn/original`, `cgsn/vigente`, `cgsn/multivigente`.
 6. Jurisprudência: `jurisprudencia/itens.jsonl` (uma linha por súmula ou tema, com `situacao`).
 7. Índices: `indices/` (IPCA com data de divulgação, Selic, TR, IGP-M).
-8. Histórico por data do CTM: `historico/ctm/` (quando publicado; veja `INDICE.json`).
+8. Histórico por data do CTM: `historico/ctm/ctm_versoes.json` (cada redação de cada dispositivo, com `de`/`ate`, lei, selos de verificação), `valores_por_exercicio.json`, `INDICE-ALTERACOES.md`, `REGRAS-DE-APLICACAO.md` e `PENDENCIAS.md`. Consulta local: `lei.py ctm 361 --data dd/mm/aaaa`.
 
 ## Regra de ouro: norma pela data do fato
 Um mesmo dispositivo pode ter tido várias redações no período fiscalizado (em regra, 5 anos). Antes de citar,

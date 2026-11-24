@@ -1,0 +1,3358 @@
+{
+ "gerado_em": "2026-11-23",
+ "fonte": "decretos anuais de atualização monetária",
+ "pasta_fontes": "repo-legislacao\\legislacao\\vigente-outros\\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS (antes em repo\\base\\legislacao\\...)",
+ "conferencia_fontes": "330 valores numéricos VERIFICADO conferidos por script: numeral encontrado no anexo do decreto, na página citada.",
+ "notas": [
+  "Valores como publicados (numeral); nada calculado. 'pág.' = marca <!-- pág. N --> do .md extraído, que pode diferir da página impressa do DOM.",
+  "Mapeamento: item 6 do anexo = art. 361 (incisos e alíneas iguais); item 7 = art. 362; item 8 = art. 446, §3º (os decretos 2021-2024 citam §2º).",
+  "Chave sem sufixo = redação original da LC 058/2017; '@LC195' = redação da LC 195/2024 (só 2025); '@LC221' = redação da LC 221/2025 (2026). Chave de redação original só é preenchida quando letra e texto da alínea não mudaram.",
+  "selo PARCIAL sempre com valor null e 'motivo': 'revogado', 'redação inexistente no exercício' ou 'decreto não publica'.",
+  "Faixa VI de 361.II: até 2024 o texto diz 'Acima de 101'; em 2025 e 2026, 'Acima de 100'."
+ ],
+ "conferencia_ia_fatores_modais": {
+  "nota": "Cálculo da IA, não consta dos decretos: fator mais frequente valor/base LC 058 por exercício, usado só para achar valores fora da progressão.",
+  "fatores": {
+   "2021": 1.077,
+   "2022": 1.192,
+   "2023": 1.263,
+   "2024": 1.322,
+   "2025": 1.385,
+   "2026": 1.45
+  }
+ },
+ "decretos": {
+  "2021": {
+   "decreto": "Decreto 273/2020",
+   "data": "30/12/2020",
+   "publicacao": "DOM 2214, 30/12/2020",
+   "ipca": "4,31%",
+   "periodo_ipca_declarado": "dezembro/2018 a novembro/2019",
+   "anexo_penalidades": "Anexo VI",
+   "anexo_parcelas": null,
+   "obs": "Considerando declara 4,31% (dez/2018-nov/2019), mas os valores publicados não batem com esse índice. Conferência (cálculo da IA, não consta do decreto): fator ~1,0768 sobre a LC 058/2017. Art. 2º cita art. 446, §2º. Sem parcela mínima nem item 7.IV (MEI)."
+  },
+  "2022": {
+   "decreto": "Decreto 101/2021",
+   "data": "31/12/2021",
+   "publicacao": "DOM 2459, 31/12/2021",
+   "ipca": "10,74%",
+   "periodo_ipca_declarado": "dezembro/2020 a novembro/2021",
+   "anexo_penalidades": "Anexo VI",
+   "anexo_parcelas": null,
+   "obs": "Art. 2º cita art. 446, §2º. Considerando cita o DOM 2.214 'de 30 de dezembro de 2016' (erro material; é 2020)."
+  },
+  "2023": {
+   "decreto": "Decreto 166/2022",
+   "data": "29/12/2022",
+   "publicacao": "DOM 2700, 29/12/2022",
+   "ipca": "5,90%",
+   "periodo_ipca_declarado": "dezembro/2021 a novembro/2022",
+   "anexo_penalidades": "Anexo V",
+   "anexo_parcelas": null,
+   "obs": "Art. 2º cita art. 446, §2º. Marca <!-- pág. N --> do arquivo difere da página impressa do DOM (pág. 11 = DOM p. 14)."
+  },
+  "2024": {
+   "decreto": "Decreto 238/2023",
+   "data": "29/12/2023",
+   "publicacao": "DOM 2939, 29/12/2023",
+   "ipca": "4,68%",
+   "periodo_ipca_declarado": "dezembro/2022 a novembro/2023",
+   "anexo_penalidades": "Anexo V",
+   "anexo_parcelas": null,
+   "obs": "Art. 2º cita art. 446, §2º. Considerando cita 'Decreto nº 164, de 29/12/2022' como o de 2023 (o de atualização é o 166/2022). O arquivo traz também o Dec. 239/2023 (CIP), cujo considerando fala em dez/2023-nov/2024; o IPCA aqui é o do Dec. 238."
+  },
+  "2025": {
+   "decreto": "Decreto 311/2024 (retificado no DOM 3209, 05/02/2025)",
+   "data": "27/12/2024",
+   "publicacao": "DOM 3184, 27/12/2024",
+   "ipca": "4,76%",
+   "periodo_ipca_declarado": "dezembro/2023 a outubro/2024",
+   "anexo_penalidades": "Anexo V",
+   "anexo_parcelas": "Anexo VI",
+   "retificacao": "DOM 3209, 05/02/2025, pág. 1: só o item 6, V, e (3.188,76 -> 3.565,89)",
+   "obs": "Art. 2º cita art. 446, §3º. Art. 3º cita 'arts. 217 e 450' da LC 058; o Anexo VI, item 2, cita art. 458 (taxa de lixo). Item 6.I já na redação da LC 195/2024."
+  },
+  "2026": {
+   "decreto": "Decreto 101/2025",
+   "data": "29/12/2025",
+   "publicacao": "DOM 3424, 29/12/2025",
+   "ipca": "4,68%",
+   "periodo_ipca_declarado": "novembro/2024 a outubro/2025",
+   "anexo_penalidades": "Anexo V",
+   "anexo_parcelas": "Anexo VI",
+   "obs": "Art. 1º diz que tributos, preços e penalidades 'de quaisquer espécies' foram corrigidos em 4,68%, mas os itens 6.I e 6.V (redação da LC 221/2025) e a UPR saem pelos valores nominais da lei, sem a correção. Art. 3º cita art. 446, §3º. Marca pág. difere da página impressa do DOM (pág. 13 = DOM p. 16)."
+  }
+ },
+ "valores": {
+  "361.II.a.I": {
+   "descricao": "NFS-e emitida em desacordo com as normas, por mês - faixa I (1 a 20 notas/RPS)",
+   "base_lei": "R$ 103,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 110.91,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, a, faixa I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 122.82,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, a, faixa I, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 130.07,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, a, faixa I, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 136.16,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, a, faixa I, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 142.64,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, a, faixa I, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 149.32,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, a, faixa I, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.a.II": {
+   "descricao": "NFS-e emitida em desacordo com as normas, por mês - faixa II (21 a 40 notas/RPS)",
+   "base_lei": "R$ 206,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 221.82,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, a, faixa II, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 245.64,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, a, faixa II, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 260.13,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, a, faixa II, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 272.3,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, a, faixa II, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 285.26,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, a, faixa II, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 298.61,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, a, faixa II, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.a.III": {
+   "descricao": "NFS-e emitida em desacordo com as normas, por mês - faixa III (41 a 60 notas/RPS)",
+   "base_lei": "R$ 412,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 443.64,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, a, faixa III, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 491.29,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, a, faixa III, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 520.28,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, a, faixa III, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 544.63,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, a, faixa III, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 570.55,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, a, faixa III, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 597.25,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, a, faixa III, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.a.IV": {
+   "descricao": "NFS-e emitida em desacordo com as normas, por mês - faixa IV (61 a 80 notas/RPS)",
+   "base_lei": "R$ 618,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 665.46,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, a, faixa IV, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 736.93,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, a, faixa IV, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 780.41,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, a, faixa IV, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 816.93,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, a, faixa IV, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 855.82,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, a, faixa IV, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 895.87,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, a, faixa IV, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.a.V": {
+   "descricao": "NFS-e emitida em desacordo com as normas, por mês - faixa V (81 a 100 notas/RPS)",
+   "base_lei": "R$ 824,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, a, faixa V, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, a, faixa V, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, a, faixa V, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, a, faixa V, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1141.09,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, a, faixa V, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1194.49,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, a, faixa V, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.a.VI": {
+   "descricao": "NFS-e emitida em desacordo com as normas, por mês - faixa VI (acima de 100 (até 2024: 'acima de 101') notas/RPS)",
+   "base_lei": "R$ 1.030,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, a, faixa VI, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, a, faixa VI, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, a, faixa VI, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, a, faixa VI, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1426.36,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, a, faixa VI, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1493.11,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, a, faixa VI, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.b.I": {
+   "descricao": "deixar de emitir NFS-e, por mês - faixa I (1 a 20 notas/RPS)",
+   "base_lei": "R$ 206,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 221.82,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, b, faixa I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 245.64,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, b, faixa I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 260.13,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, b, faixa I, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 272.3,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, b, faixa I, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 285.26,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, b, faixa I, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 298.61,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, b, faixa I, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.b.II": {
+   "descricao": "deixar de emitir NFS-e, por mês - faixa II (21 a 40 notas/RPS)",
+   "base_lei": "R$ 412,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 443.64,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, b, faixa II, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 491.29,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, b, faixa II, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 520.28,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, b, faixa II, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 544.63,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, b, faixa II, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 570.55,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, b, faixa II, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 597.25,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, b, faixa II, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.b.III": {
+   "descricao": "deixar de emitir NFS-e, por mês - faixa III (41 a 60 notas/RPS)",
+   "base_lei": "R$ 618,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 665.46,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, b, faixa III, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 736.93,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, b, faixa III, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 780.41,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, b, faixa III, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 816.93,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, b, faixa III, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 855.82,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, b, faixa III, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 895.87,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, b, faixa III, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.b.IV": {
+   "descricao": "deixar de emitir NFS-e, por mês - faixa IV (61 a 80 notas/RPS)",
+   "base_lei": "R$ 824,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, b, faixa IV, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, b, faixa IV, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, b, faixa IV, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, b, faixa IV, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1141.09,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, b, faixa IV, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1194.49,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, b, faixa IV, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.b.V": {
+   "descricao": "deixar de emitir NFS-e, por mês - faixa V (81 a 100 notas/RPS)",
+   "base_lei": "R$ 1.030,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, b, faixa V, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, b, faixa V, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, b, faixa V, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, b, faixa V, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1709.21,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, b, faixa V, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Foge da progressão: 1.709,21, enquanto a faixa IV publicada é 1.141,09 e as alíneas a/c/d na mesma faixa trazem 1.141,09 (Conferência (cálculo da IA, não consta do decreto): pela base 1.030 o valor seria 1.426,36). Não retificado pelo DOM 3209."
+    },
+    "2026": {
+     "valor": 1789.2,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, b, faixa V, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Foge da progressão. Conferência (cálculo da IA, não consta do decreto): 1.789,20 equivale à anomalia de 2025 (1.709,21) corrigida por 4,68%; pela base 1.030 seria o mesmo valor da faixa VI de a/c/d (1.493,11)."
+    }
+   }
+  },
+  "361.II.b.VI": {
+   "descricao": "deixar de emitir NFS-e, por mês - faixa VI (acima de 100 (até 2024: 'acima de 101') notas/RPS)",
+   "base_lei": "R$ 2.060,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 2218.19,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, b, faixa VI, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 2456.42,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, b, faixa VI, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 2601.35,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, b, faixa VI, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 2723.09,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, b, faixa VI, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 2852.71,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, b, faixa VI, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 2986.22,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, b, faixa VI, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.c.I": {
+   "descricao": "deixar de emitir NFS-e (isentos ou não tributados), por mês - faixa I (1 a 20 notas/RPS)",
+   "base_lei": "R$ 103,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 110.91,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, c, faixa I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 122.82,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, c, faixa I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 130.07,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, c, faixa I, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 136.16,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, c, faixa I, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 142.64,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, c, faixa I, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 149.32,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, c, faixa I, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.c.II": {
+   "descricao": "deixar de emitir NFS-e (isentos ou não tributados), por mês - faixa II (21 a 40 notas/RPS)",
+   "base_lei": "R$ 206,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 221.82,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, c, faixa II, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 245.64,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, c, faixa II, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 260.13,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, c, faixa II, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 272.3,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, c, faixa II, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 285.26,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, c, faixa II, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 298.61,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, c, faixa II, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.c.III": {
+   "descricao": "deixar de emitir NFS-e (isentos ou não tributados), por mês - faixa III (41 a 60 notas/RPS)",
+   "base_lei": "R$ 412,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 443.64,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, c, faixa III, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 491.29,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, c, faixa III, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 520.28,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, c, faixa III, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 544.63,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, c, faixa III, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 570.55,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, c, faixa III, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 597.25,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, c, faixa III, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.c.IV": {
+   "descricao": "deixar de emitir NFS-e (isentos ou não tributados), por mês - faixa IV (61 a 80 notas/RPS)",
+   "base_lei": "R$ 618,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 665.46,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, c, faixa IV, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 736.93,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, c, faixa IV, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 780.41,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, c, faixa IV, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 816.93,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, c, faixa IV, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 855.82,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, c, faixa IV, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 895.87,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, c, faixa IV, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.c.V": {
+   "descricao": "deixar de emitir NFS-e (isentos ou não tributados), por mês - faixa V (81 a 100 notas/RPS)",
+   "base_lei": "R$ 824,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, c, faixa V, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, c, faixa V, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, c, faixa V, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, c, faixa V, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1141.09,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, c, faixa V, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1194.49,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, c, faixa V, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.c.VI": {
+   "descricao": "deixar de emitir NFS-e (isentos ou não tributados), por mês - faixa VI (acima de 100 (até 2024: 'acima de 101') notas/RPS)",
+   "base_lei": "R$ 1.030,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, c, faixa VI, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, c, faixa VI, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, c, faixa VI, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, c, faixa VI, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1426.36,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, c, faixa VI, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1493.11,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, c, faixa VI, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.d.I": {
+   "descricao": "RPS não convertido em NFS-e no prazo, por mês - faixa I (1 a 20 notas/RPS)",
+   "base_lei": "R$ 103,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 110.91,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, d, faixa I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 122.82,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, d, faixa I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 130.07,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, d, faixa I, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 136.16,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, d, faixa I, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 142.64,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, d, faixa I, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 149.32,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, d, faixa I, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.d.II": {
+   "descricao": "RPS não convertido em NFS-e no prazo, por mês - faixa II (21 a 40 notas/RPS)",
+   "base_lei": "R$ 206,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 221.82,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, d, faixa II, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 245.64,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, d, faixa II, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 260.13,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, d, faixa II, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 272.3,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, d, faixa II, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 285.26,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, d, faixa II, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 298.61,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, d, faixa II, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.d.III": {
+   "descricao": "RPS não convertido em NFS-e no prazo, por mês - faixa III (41 a 60 notas/RPS)",
+   "base_lei": "R$ 412,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 443.64,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, d, faixa III, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 491.29,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, d, faixa III, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 520.28,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, d, faixa III, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 544.63,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, d, faixa III, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 570.55,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, d, faixa III, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 597.25,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, d, faixa III, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.d.IV": {
+   "descricao": "RPS não convertido em NFS-e no prazo, por mês - faixa IV (61 a 80 notas/RPS)",
+   "base_lei": "R$ 618,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 665.46,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, d, faixa IV, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 736.93,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, d, faixa IV, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 780.41,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, d, faixa IV, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 816.93,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, d, faixa IV, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 855.82,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, d, faixa IV, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 895.87,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, d, faixa IV, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.d.V": {
+   "descricao": "RPS não convertido em NFS-e no prazo, por mês - faixa V (81 a 100 notas/RPS)",
+   "base_lei": "R$ 824,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, d, faixa V, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, d, faixa V, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, d, faixa V, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, d, faixa V, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1141.09,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, d, faixa V, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1194.49,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, d, faixa V, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.d.VI": {
+   "descricao": "RPS não convertido em NFS-e no prazo, por mês - faixa VI (acima de 100 (até 2024: 'acima de 101') notas/RPS)",
+   "base_lei": "R$ 1.030,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, d, faixa VI, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, d, faixa VI, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, d, faixa VI, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, d, faixa VI, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1426.36,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, d, faixa VI, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1493.11,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, d, faixa VI, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.e": {
+   "descricao": "recusar emitir NFS-e quando solicitada, por nota",
+   "base_lei": "R$ 1.030,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, e, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, e, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, e, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, e, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1426.36,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, e, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1493.11,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, e, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.f": {
+   "descricao": "recusar emitir NFS-e durante monitoramento, por nota",
+   "base_lei": "R$ 1.545,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1663.64,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, f, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1842.31,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, f, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1951.01,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, f, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 2042.32,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, f, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 2139.53,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, f, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 2239.66,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, f, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.g": {
+   "descricao": "simulação/fraude na emissão de NFS-e, por nota",
+   "base_lei": "R$ 1.030,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, g, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, g, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, g, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, g, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1426.36,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, g, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1493.11,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, g, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.h": {
+   "descricao": "cancelamento fraudulento de NFS-e, por nota",
+   "base_lei": "R$ 515,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 554.54,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, h, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 614.1,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, h, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 650.33,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, h, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 680.77,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, h, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 713.17,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, h, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 746.55,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, h, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.II.i": {
+   "descricao": "não comunicar inutilização/extravio de NFS, por nota",
+   "base_lei": "R$ 155,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 166.91,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, II, i, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 184.84,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, II, i, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 195.75,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, II, i, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 204.91,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, II, i, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 214.66,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, II, i, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 224.71,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, II, i, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.III.a": {
+   "descricao": "usar documento falso para efeito fiscal, por documento",
+   "base_lei": "R$ 2.060,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 2218.19,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, III, a, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 2456.42,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, III, a, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 2601.35,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, III, a, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 2723.09,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, III, a, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 2852.71,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, III, a, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 2986.22,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, III, a, pág. 12",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.III.b": {
+   "descricao": "não apresentar/apresentar fora do prazo o termo de estimativa",
+   "base_lei": "R$ 309,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 332.73,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, III, b, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 368.47,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, III, b, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 390.21,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, III, b, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 408.47,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, III, b, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 427.91,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, III, b, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 447.94,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, III, b, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.III.c": {
+   "descricao": "ocultar ou extraviar documentos fiscais, por documento",
+   "base_lei": "R$ 30,90 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 33.27,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, III, c, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 36.84,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, III, c, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 39.01,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, III, c, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 40.84,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, III, c, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 42.78,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, III, c, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 44.78,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, III, c, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.III.d": {
+   "descricao": "não apresentar a DESEN no prazo, por mês",
+   "base_lei": "R$ 206,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 221.82,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, III, d, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 245.64,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, III, d, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 260.13,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, III, d, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 272.3,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, III, d, pág. 15",
+     "selo": "VERIFICADO",
+     "obs": "Numeral R$ 272,30; extenso publicado 'duzentos e sessenta e dois reais e trinta centavos' (divergência; vale o numeral, coerente com a faixa II de 361.II.a)."
+    },
+    "2025": {
+     "valor": 285.26,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, III, d, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 298.61,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, III, d, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "361.IV.a": {
+   "descricao": "imprimir documentos fiscais sem autorização, por bloco",
+   "base_lei": "R$ 1.030,00 (LC 058/2017; inciso revogado em 26/12/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, IV, a, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, IV, a, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, IV, a, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, IV, a, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": null,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, IV, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "revogado",
+     "obs": "Inciso IV revogado (LC 195/2024); decreto publica 'IV - Revogado.'"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, IV, pág. 13",
+     "selo": "PARCIAL",
+     "motivo": "revogado",
+     "obs": "Inciso IV revogado (LC 195/2024); decreto publica 'IV - Revogado.'"
+    }
+   }
+  },
+  "361.IV.b": {
+   "descricao": "utilizar documentos fiscais não autorizados, por bloco",
+   "base_lei": "R$ 1.030,00 (LC 058/2017; inciso revogado em 26/12/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, IV, b, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, IV, b, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, IV, b, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1392.96,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, IV, b, pág. 15",
+     "selo": "VERIFICADO",
+     "obs": "Foge da progressão: 1.392,96, enquanto IV.a (mesma base 1.030) = 1.361,55 no mesmo decreto."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, IV, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "revogado",
+     "obs": "Inciso IV revogado (LC 195/2024); decreto publica 'IV - Revogado.'"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, IV, pág. 13",
+     "selo": "PARCIAL",
+     "motivo": "revogado",
+     "obs": "Inciso IV revogado (LC 195/2024); decreto publica 'IV - Revogado.'"
+    }
+   }
+  },
+  "361.IV.c": {
+   "descricao": "imprimir documentos fiscais em desacordo com a autorização, por bloco",
+   "base_lei": "R$ 515,00 (LC 058/2017; inciso revogado em 26/12/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 554.54,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, IV, c, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 614.1,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, IV, c, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 650.33,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, IV, c, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 680.77,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, IV, c, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": null,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, IV, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "revogado",
+     "obs": "Inciso IV revogado (LC 195/2024); decreto publica 'IV - Revogado.'"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, IV, pág. 13",
+     "selo": "PARCIAL",
+     "motivo": "revogado",
+     "obs": "Inciso IV revogado (LC 195/2024); decreto publica 'IV - Revogado.'"
+    }
+   }
+  },
+  "361.I.a": {
+   "descricao": "usar livros fiscais sem autenticação (redação original)",
+   "base_lei": "R$ 824,00 (LC 058/2017, até 25/12/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, I, a, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, I, a, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, I, a, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, I, a, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": null,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, a, pág. 11",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 311/2024 publica só a redação da LC 195/2024; esta conduta não foi mantida no texto da LC 195 e a letra a agora trata de outra conduta (não encadear com 361.I.a@LC195)."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica só a redação da LC 221/2025. 361.I.a@LC221 não corresponde (alínea a da LC 221 = livros em desacordo); conduta sem alínea equivalente."
+    }
+   }
+  },
+  "361.I.b": {
+   "descricao": "usar livros fiscais, comerciais ou contábeis em desacordo com as normas (redação original)",
+   "base_lei": "R$ 824,00 (LC 058/2017, até 25/12/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, I, b, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, I, b, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, I, b, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, I, b, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1141.09,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, b, pág. 11",
+     "selo": "VERIFICADO",
+     "obs": "Alínea b mantida pela LC 195/2024 (mesma letra e mesmo texto). Mesmo valor em 361.I.b@LC195."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica só a redação da LC 221/2025. ver 361.I.a@LC221 (a conduta passou à alínea a)."
+    }
+   }
+  },
+  "361.I.c": {
+   "descricao": "deixar de lançar no livro próprio o imposto devido (redação original)",
+   "base_lei": "R$ 309,00 (LC 058/2017, até 25/12/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 332.73,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, I, c, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 368.47,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, I, c, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 390.21,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, I, c, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 408.47,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, I, c, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": null,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, c, pág. 11",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 311/2024 publica só a redação da LC 195/2024; esta conduta não foi mantida no texto da LC 195 e a letra c agora trata de outra conduta (não encadear com 361.I.c@LC195)."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica só a redação da LC 221/2025. ver chaves @LC221."
+    }
+   }
+  },
+  "361.I.d": {
+   "descricao": "não apresentar livros no prazo, quando solicitados por TIAF/notificação (redação original)",
+   "base_lei": "R$ 1.545,00 (LC 058/2017, até 25/12/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1663.64,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, I, d, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1842.31,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, I, d, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1951.01,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, I, d, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 2042.32,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, I, d, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": null,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, d, pág. 11",
+     "selo": "PARCIAL",
+     "motivo": "revogado",
+     "obs": "Alínea d revogada pela LC 195/2024; decreto publica 'd) Revogado.'"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica só a redação da LC 221/2025. ver chaves @LC221."
+    }
+   }
+  },
+  "361.I.e": {
+   "descricao": "não comunicar inutilização/extravio de documentos fiscais, contábeis ou comerciais (redação original)",
+   "base_lei": "R$ 824,00 (LC 058/2017, até 25/12/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, I, e, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, I, e, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, I, e, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, I, e, pág. 15",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": null,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, e, pág. 11",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 311/2024 publica só a redação da LC 195/2024; esta conduta não foi mantida no texto da LC 195 e a letra e agora trata de outra conduta (não encadear com 361.I.e@LC195)."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica só a redação da LC 221/2025. ver chaves @LC221."
+    }
+   }
+  },
+  "361.I.a@LC195": {
+   "descricao": "entrega fora do prazo de livros, dados, declarações ou documentos solicitados por TIAF/notificação",
+   "base_lei": "R$ 1.420,55 (LC 195/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2025": {
+     "valor": 1420.55,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, a, pág. 11",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 195. Conduta próxima à de 361.V.a (não apresentação no prazo, R$ 1.426,36) no mesmo decreto: dois valores para condutas sobrepostas."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195 substituída pela LC 221/2025; ver chaves 361.I.*@LC221."
+    }
+   }
+  },
+  "361.I.b@LC195": {
+   "descricao": "livros fiscais, comerciais ou contábeis em desacordo com as normas (mantida)",
+   "base_lei": "R$ 824,00 (LC 058/2017, alínea mantida pela LC 195)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2025": {
+     "valor": 1141.09,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, b, pág. 11",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195 substituída pela LC 221/2025; ver chaves 361.I.*@LC221."
+    }
+   }
+  },
+  "361.I.c@LC195": {
+   "descricao": "não entregar documentos ou entregar com dados ilegíveis, inexatos ou faltantes",
+   "base_lei": "R$ 5.670,21 (LC 195/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2025": {
+     "valor": 5670.21,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, c, pág. 11",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 195."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195 substituída pela LC 221/2025; ver chaves 361.I.*@LC221."
+    }
+   }
+  },
+  "361.I.d@LC195": {
+   "descricao": "revogada pela LC 195/2024",
+   "base_lei": "revogada",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, d, pág. 11",
+     "selo": "PARCIAL",
+     "motivo": "revogado",
+     "obs": "Decreto publica 'd) Revogado.'"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195 substituída pela LC 221/2025; ver chaves 361.I.*@LC221."
+    }
+   }
+  },
+  "361.I.e@LC195": {
+   "descricao": "obstar ou dificultar a ação das autoridades fiscais",
+   "base_lei": "R$ 5.670,21 (LC 195/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2025": {
+     "valor": 5670.21,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, e, pág. 11",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 195. Mesma conduta de 361.V.e (obstar/dificultar), que no mesmo decreto vale R$ 3.565,89 (retificado): dois valores para a mesma conduta."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195 substituída pela LC 221/2025; ver chaves 361.I.*@LC221."
+    }
+   }
+  },
+  "361.I.f@LC195": {
+   "descricao": "descumprir atos das autoridades fiscais (retificações, emissões, cancelamentos) solicitados por TIAF/notificação",
+   "base_lei": "R$ 3.210,00 (LC 195/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195/2024 ainda não existia."
+    },
+    "2025": {
+     "valor": 3210.0,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, I, f, pág. 11",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 195. Conduta próxima à de 361.V.g (R$ 4.279,08) no mesmo decreto."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, pág. 12",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 195 substituída pela LC 221/2025; ver chaves 361.I.*@LC221."
+    }
+   }
+  },
+  "361.I.a@LC221": {
+   "descricao": "livros fiscais, comerciais ou contábeis em desacordo com as normas",
+   "base_lei": "R$ 1.141,09 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 1141.09,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, a, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.I.b@LC221": {
+   "descricao": "omissão de registro de operações por fraude nos livros",
+   "base_lei": "R$ 5.670,21 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 5670.21,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, b, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.I.c@LC221": {
+   "descricao": "documento fiscal com valor inferior ou declaração falsa",
+   "base_lei": "R$ 1.420,55 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 1420.55,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, c, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.I.d@LC221": {
+   "descricao": "documento fiscal sem serviço efetivamente prestado",
+   "base_lei": "R$ 1.420,55 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 1420.55,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, d, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.I.e@LC221": {
+   "descricao": "cancelamento indevido de NFS-e",
+   "base_lei": "100% do imposto devido (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, e, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Penalidade percentual, não valor fixo.",
+     "valor_texto": "100% (cem por cento) do imposto devido"
+    }
+   }
+  },
+  "361.I.f@LC221": {
+   "descricao": "não transmitir a EFD, por exercício",
+   "base_lei": "R$ 1.420,55 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 1420.55,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, f, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.I.g@LC221": {
+   "descricao": "não transmitir outra declaração obrigatória, por exercício",
+   "base_lei": "R$ 1.420,55 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 1420.55,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, I, g, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.V.a": {
+   "descricao": "não apresentar no prazo documentos solicitados por TIAF/notificação (redação original)",
+   "base_lei": "R$ 1.030,00 (LC 058/2017, até 25/11/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, V, a, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, V, a, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, V, a, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, V, a, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1426.36,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, V, a, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Conduta próxima à de 361.I.a@LC195 (entrega fora do prazo, R$ 1.420,55) no mesmo decreto."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, a, pág. 13",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica o inciso V na redação da LC 221/2025, com outro texto nesta alínea; ver chaves 361.V.*@LC221."
+    }
+   }
+  },
+  "361.V.b": {
+   "descricao": "sonegar documentos para apuração do preço ou da estimativa (redação original)",
+   "base_lei": "R$ 2.060,00 (LC 058/2017, até 25/11/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 2218.19,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, V, b, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 2456.42,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, V, b, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 2601.35,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, V, b, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 2726.23,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, V, b, pág. 16",
+     "selo": "VERIFICADO",
+     "obs": "Foge da progressão: 2.726,23, enquanto 361.III.a (mesma base 2.060) = 2.723,09 no mesmo decreto. 2025 (2.856,00) segue a partir de 2.726,23."
+    },
+    "2025": {
+     "valor": 2856.0,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, V, b, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 2856.0,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, b, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Alínea b com mesma letra e mesmo texto na LC 221; valor nominal da LC 221, sem a correção de 4,68%. Igual a 361.V.b@LC221."
+    }
+   }
+  },
+  "361.V.c": {
+   "descricao": "recusar exibição de notas, livros ou documentos (redação original)",
+   "base_lei": "R$ 4.120,00 (LC 058/2017, até 25/11/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 4436.39,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, V, c, pág. 18",
+     "selo": "VERIFICADO",
+     "obs": "Extenso publicado 'quatro mil, quatrocentros e trinta e três reais e trinta e nove centavos' diverge do numeral 4.436,39; vale o numeral."
+    },
+    "2022": {
+     "valor": 4912.86,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, V, c, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 5202.72,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, V, c, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 5446.21,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, V, c, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 5705.45,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, V, c, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, c, pág. 13",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica o inciso V na redação da LC 221/2025, com outro texto nesta alínea; ver chaves 361.V.*@LC221."
+    }
+   }
+  },
+  "361.V.d": {
+   "descricao": "desacatar funcionários do fisco, embaraçar ou iludir a ação fiscal (redação original)",
+   "base_lei": "R$ 4.120,00 (LC 058/2017, até 25/11/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 4436.39,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, V, d, pág. 18",
+     "selo": "VERIFICADO",
+     "obs": "Extenso publicado 'quatrocentros e trinta e três' diverge do numeral 4.436,39; vale o numeral."
+    },
+    "2022": {
+     "valor": 4912.86,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, V, d, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 5202.72,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, V, d, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 5446.21,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, V, d, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 5705.45,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, V, d, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, d, pág. 13",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica o inciso V na redação da LC 221/2025, com outro texto nesta alínea; ver chaves 361.V.*@LC221."
+    }
+   }
+  },
+  "361.V.e": {
+   "descricao": "obstar ou dificultar a ação das autoridades fiscais (redação original)",
+   "base_lei": "R$ 2.575,00 (LC 058/2017, até 25/11/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 2772.74,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, V, e, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 3070.53,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, V, e, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 3251.69,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, V, e, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 3403.87,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, V, e, pág. 16",
+     "selo": "VERIFICADO",
+     "obs": "Publicado com ponto no lugar da vírgula: 'R$ 3.403.87'."
+    },
+    "2025": {
+     "valor": 3565.89,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, V, e, pág. 12; retificado pelo DOM 3209, 05/02/2025, pág. 1",
+     "selo": "VERIFICADO",
+     "obs": "Publicado R$ 3.188,76 (abaixo do valor de 2024, 3.403,87); a Retificação (DOM 3209) fixou R$ 3.565,89. Mesma conduta de 361.I.e@LC195 (R$ 5.670,21) no mesmo decreto.",
+     "valor_publicado": 3188.76,
+     "valor_retificado": 3565.89
+    },
+    "2026": {
+     "valor": 3188.76,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, e, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Alínea e com mesma letra e mesmo texto na LC 221. Valor nominal da LC 221 (= valor publicado e depois retificado em 2025), abaixo do valor retificado de 2025 (3.565,89). Igual a 361.V.e@LC221."
+    }
+   }
+  },
+  "361.V.f": {
+   "descricao": "pagar ISSQN/taxas vencidos após TIAF sem autorização (redação original)",
+   "base_lei": "R$ 2.203,99 (LC 058/2017, até 25/11/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 2373.24,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, V, f, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 2628.13,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, V, f, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 2783.19,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, V, f, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 2913.44,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, V, f, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 3052.12,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, V, f, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, f, pág. 13",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica o inciso V na redação da LC 221/2025, com outro texto nesta alínea; ver chaves 361.V.*@LC221."
+    }
+   }
+  },
+  "361.V.g": {
+   "descricao": "descumprir atos das autoridades fiscais solicitados por TIAF/notificação (redação original)",
+   "base_lei": "R$ 3.090,00 (LC 058/2017, até 25/11/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 3327.29,
+     "fonte": "Dec. 273/2020, Anexo VI, item 6, V, g, pág. 18",
+     "selo": "VERIFICADO",
+     "obs": "Publicado com 'R$ R$' duplicado."
+    },
+    "2022": {
+     "valor": 3684.64,
+     "fonte": "Dec. 101/2021, Anexo VI, item 6, V, g, pág. 17",
+     "selo": "VERIFICADO",
+     "obs": "Publicado com 'R$ R$' duplicado."
+    },
+    "2023": {
+     "valor": 3902.03,
+     "fonte": "Dec. 166/2022, Anexo V, item 6, V, g, pág. 12",
+     "selo": "VERIFICADO",
+     "obs": "Publicado com 'R$ R$' duplicado."
+    },
+    "2024": {
+     "valor": 4084.65,
+     "fonte": "Dec. 238/2023, Anexo V, item 6, V, g, pág. 16",
+     "selo": "VERIFICADO",
+     "obs": "Publicado com 'R$ R$' duplicado."
+    },
+    "2025": {
+     "valor": 4279.08,
+     "fonte": "Dec. 311/2024, Anexo V, item 6, V, g, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": null,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, g, pág. 13",
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Dec. 101/2025 publica o inciso V na redação da LC 221/2025, com outro texto nesta alínea; ver chaves 361.V.*@LC221."
+    }
+   }
+  },
+  "361.V.a@LC221": {
+   "descricao": "entrega fora do prazo de livros, dados, declarações ou documentos solicitados por TIAF/notificação",
+   "base_lei": "R$ 1.426,36 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 1426.36,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, a, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.V.b@LC221": {
+   "descricao": "sonegar documentos para apuração do preço ou da estimativa",
+   "base_lei": "R$ 2.856,00 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 2856.0,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, b, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.V.c@LC221": {
+   "descricao": "não entregar documentos ou entregar com dados ilegíveis, inexatos ou faltantes",
+   "base_lei": "R$ 5.705,45 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 5705.45,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, c, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "361.V.d@LC221": {
+   "descricao": "desacato aos servidores do fisco, embaraço ou resistência à fiscalização",
+   "base_lei": "R$ 5.705,45 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 5705.45,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, d, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto. Publicado com 'R$ R$' duplicado."
+    }
+   }
+  },
+  "361.V.e@LC221": {
+   "descricao": "obstar ou dificultar a ação das autoridades fiscais",
+   "base_lei": "R$ 3.188,76 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 3188.76,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, e, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto. Abaixo do valor retificado de 2025 para a mesma conduta (3.565,89)."
+    }
+   }
+  },
+  "361.V.f@LC221": {
+   "descricao": "descumprir atos das autoridades fiscais (retificações, emissões, cancelamentos)",
+   "base_lei": "R$ 4.279,08 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2026": {
+     "valor": 4279.08,
+     "fonte": "Dec. 101/2025, Anexo V, item 6, V, f, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Valor igual ao nominal da LC 221, sem a correção de 4,68% do art. 1º do decreto."
+    }
+   }
+  },
+  "362.I": {
+   "descricao": "falta de inscrição cadastral",
+   "base_lei": "R$ 1.030,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1109.1,
+     "fonte": "Dec. 273/2020, Anexo VI, item 7, I, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1228.22,
+     "fonte": "Dec. 101/2021, Anexo VI, item 7, I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1300.68,
+     "fonte": "Dec. 166/2022, Anexo V, item 7, I, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1361.55,
+     "fonte": "Dec. 238/2023, Anexo V, item 7, I, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1426.36,
+     "fonte": "Dec. 311/2024, Anexo V, item 7, I, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1493.11,
+     "fonte": "Dec. 101/2025, Anexo V, item 7, I, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "362.II": {
+   "descricao": "não comunicar alteração cadastral, venda, transferência, paralisação ou encerramento",
+   "base_lei": "R$ 824,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 7, II, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 7, II, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 7, II, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 7, II, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1141.09,
+     "fonte": "Dec. 311/2024, Anexo V, item 7, II, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1194.49,
+     "fonte": "Dec. 101/2025, Anexo V, item 7, II, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "362.III": {
+   "descricao": "não fazer o recadastramento municipal quando solicitado",
+   "base_lei": "R$ 824,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 887.28,
+     "fonte": "Dec. 273/2020, Anexo VI, item 7, III, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 982.57,
+     "fonte": "Dec. 101/2021, Anexo VI, item 7, III, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1040.54,
+     "fonte": "Dec. 166/2022, Anexo V, item 7, III, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 1089.24,
+     "fonte": "Dec. 238/2023, Anexo V, item 7, III, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 1141.09,
+     "fonte": "Dec. 311/2024, Anexo V, item 7, III, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 1194.49,
+     "fonte": "Dec. 101/2025, Anexo V, item 7, III, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "362.IV": {
+   "descricao": "não comunicar alteração dos requisitos do MEI",
+   "base_lei": "R$ 3.090,00 (desde 07/01/2021)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": "Dec. 273/2020, Anexo VI, item 7, pág. 18",
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Dec. 273/2020 (30/12/2020) traz só os incisos I a III do item 7; o inciso IV (MEI) vigora desde 07/01/2021."
+    },
+    "2022": {
+     "valor": 3421.87,
+     "fonte": "Dec. 101/2021, Anexo VI, item 7, IV, pág. 17",
+     "selo": "VERIFICADO",
+     "obs": "Primeira publicação. Conferência (cálculo da IA, não consta do decreto): 3.421,87 = 3.090 x 10,74% (só o IPCA de 2022, sem o fator de 2021 aplicado aos demais itens)."
+    },
+    "2023": {
+     "valor": 3623.76,
+     "fonte": "Dec. 166/2022, Anexo V, item 7, IV, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 3793.35,
+     "fonte": "Dec. 238/2023, Anexo V, item 7, IV, pág. 16",
+     "selo": "VERIFICADO",
+     "obs": "Extenso publicado 'três mil, setencentos e noventa três e trinta e cinco centavos'."
+    },
+    "2025": {
+     "valor": 3973.91,
+     "fonte": "Dec. 311/2024, Anexo V, item 7, IV, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 4159.89,
+     "fonte": "Dec. 101/2025, Anexo V, item 7, IV, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "446.3.I": {
+   "descricao": "iniciar atividade sem licença de localização/verificação de regularidade",
+   "base_lei": "R$ 2.575,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 2772.74,
+     "fonte": "Dec. 273/2020, Anexo VI, item 8, I, pág. 18",
+     "selo": "VERIFICADO",
+     "obs": "Decretos 2021 a 2024 citam art. 446, §2º."
+    },
+    "2022": {
+     "valor": 3070.53,
+     "fonte": "Dec. 101/2021, Anexo VI, item 8, I, pág. 17",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 3251.69,
+     "fonte": "Dec. 166/2022, Anexo V, item 8, I, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 3403.87,
+     "fonte": "Dec. 238/2023, Anexo V, item 8, I, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 3565.89,
+     "fonte": "Dec. 311/2024, Anexo V, item 8, I, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 3732.77,
+     "fonte": "Dec. 101/2025, Anexo V, item 8, I, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "446.3.II": {
+   "descricao": "funcionar em desacordo com a licença",
+   "base_lei": "R$ 1.545,00 (LC 058/2017)",
+   "por_exercicio": {
+    "2021": {
+     "valor": 1663.64,
+     "fonte": "Dec. 273/2020, Anexo VI, item 8, II, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2022": {
+     "valor": 1842.31,
+     "fonte": "Dec. 101/2021, Anexo VI, item 8, II, pág. 18",
+     "selo": "VERIFICADO"
+    },
+    "2023": {
+     "valor": 1951.01,
+     "fonte": "Dec. 166/2022, Anexo V, item 8, II, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2024": {
+     "valor": 2042.32,
+     "fonte": "Dec. 238/2023, Anexo V, item 8, II, pág. 16",
+     "selo": "VERIFICADO"
+    },
+    "2025": {
+     "valor": 2139.53,
+     "fonte": "Dec. 311/2024, Anexo V, item 8, II, pág. 12",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 2239.66,
+     "fonte": "Dec. 101/2025, Anexo V, item 8, II, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "217.PF": {
+   "descricao": "parcela mínima de parcelamento (demais débitos) - pessoa física",
+   "base_lei": "R$ 105,06 (LC 058/2017, até 25/12/2024); R$ 155,52 (LC 195/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização).",
+     "valor_pela_lei": 105.06,
+     "fonte_lei": "LC 058/2017, art. 217 (DOM 1477), valor nominal até 25/12/2024; o decreto do ano não publica atualização",
+     "obs_lei": "Valor aplicável na data = o da lei (VERIFICADO no DOM 1477). Em 26/12/2024 a LC 195 fixou 155,52 / 310,97 (vigentes até 31/12/2025)."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização).",
+     "valor_pela_lei": 105.06,
+     "fonte_lei": "LC 058/2017, art. 217 (DOM 1477), valor nominal até 25/12/2024; o decreto do ano não publica atualização",
+     "obs_lei": "Valor aplicável na data = o da lei (VERIFICADO no DOM 1477). Em 26/12/2024 a LC 195 fixou 155,52 / 310,97 (vigentes até 31/12/2025)."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização).",
+     "valor_pela_lei": 105.06,
+     "fonte_lei": "LC 058/2017, art. 217 (DOM 1477), valor nominal até 25/12/2024; o decreto do ano não publica atualização",
+     "obs_lei": "Valor aplicável na data = o da lei (VERIFICADO no DOM 1477). Em 26/12/2024 a LC 195 fixou 155,52 / 310,97 (vigentes até 31/12/2025)."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização).",
+     "valor_pela_lei": 105.06,
+     "fonte_lei": "LC 058/2017, art. 217 (DOM 1477), valor nominal até 25/12/2024; o decreto do ano não publica atualização",
+     "obs_lei": "Valor aplicável na data = o da lei (VERIFICADO no DOM 1477). Em 26/12/2024 a LC 195 fixou 155,52 / 310,97 (vigentes até 31/12/2025)."
+    },
+    "2025": {
+     "valor": 155.52,
+     "fonte": "Dec. 311/2024, Anexo VI, item 3, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Igual ao nominal da LC 195/2024."
+    },
+    "2026": {
+     "valor": 163.01,
+     "fonte": "Dec. 101/2025, Anexo VI, item 3, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Foge da progressão. Conferência (cálculo da IA, não consta do decreto): 155,52 x 1,0468 = 162,80 (PJ segue o fator: 310,97 -> 325,52)."
+    }
+   }
+  },
+  "217.PJ": {
+   "descricao": "parcela mínima de parcelamento (demais débitos) - pessoa jurídica",
+   "base_lei": "R$ 212,18 (LC 058/2017, até 25/12/2024); R$ 310,97 (LC 195/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização).",
+     "valor_pela_lei": 212.18,
+     "fonte_lei": "LC 058/2017, art. 217 (DOM 1477), valor nominal até 25/12/2024; o decreto do ano não publica atualização",
+     "obs_lei": "Valor aplicável na data = o da lei (VERIFICADO no DOM 1477). Em 26/12/2024 a LC 195 fixou 155,52 / 310,97 (vigentes até 31/12/2025)."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização).",
+     "valor_pela_lei": 212.18,
+     "fonte_lei": "LC 058/2017, art. 217 (DOM 1477), valor nominal até 25/12/2024; o decreto do ano não publica atualização",
+     "obs_lei": "Valor aplicável na data = o da lei (VERIFICADO no DOM 1477). Em 26/12/2024 a LC 195 fixou 155,52 / 310,97 (vigentes até 31/12/2025)."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização).",
+     "valor_pela_lei": 212.18,
+     "fonte_lei": "LC 058/2017, art. 217 (DOM 1477), valor nominal até 25/12/2024; o decreto do ano não publica atualização",
+     "obs_lei": "Valor aplicável na data = o da lei (VERIFICADO no DOM 1477). Em 26/12/2024 a LC 195 fixou 155,52 / 310,97 (vigentes até 31/12/2025)."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização).",
+     "valor_pela_lei": 212.18,
+     "fonte_lei": "LC 058/2017, art. 217 (DOM 1477), valor nominal até 25/12/2024; o decreto do ano não publica atualização",
+     "obs_lei": "Valor aplicável na data = o da lei (VERIFICADO no DOM 1477). Em 26/12/2024 a LC 195 fixou 155,52 / 310,97 (vigentes até 31/12/2025)."
+    },
+    "2025": {
+     "valor": 310.97,
+     "fonte": "Dec. 311/2024, Anexo VI, item 3, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Igual ao nominal da LC 195/2024."
+    },
+    "2026": {
+     "valor": 325.52,
+     "fonte": "Dec. 101/2025, Anexo VI, item 3, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "O texto de 2026 omite 'para as jurídicas' após o valor; leitura pela ordem do texto de 2025."
+    }
+   }
+  },
+  "458.lixo": {
+   "descricao": "parcela mínima da Taxa de Coleta e Remoção de Lixo (até 10 parcelas)",
+   "base_lei": "R$ 50,00 (LC 195/2024)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização)."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização)."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização)."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização)."
+    },
+    "2025": {
+     "valor": 50.0,
+     "fonte": "Dec. 311/2024, Anexo VI, item 2, pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Dec. 311 art. 3º cita 'art. 450'; o anexo cita art. 458."
+    },
+    "2026": {
+     "valor": 52.34,
+     "fonte": "Dec. 101/2025, Anexo VI, item 2, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "LC008.16.3.IPTU": {
+   "descricao": "parcela mínima do IPTU (art. 16, §3º, LC 008/2013; até 10 parcelas)",
+   "base_lei": "R$ 50,00 (LC 008/2013, art. 16, §3º)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização)."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização)."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização)."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não traz parcela mínima (sem Anexo de parcelas; busca por 'parcela', 'inferior', '217' sem resultado no decreto de atualização)."
+    },
+    "2025": {
+     "valor": 50.0,
+     "fonte": "Dec. 311/2024, Anexo VI, item 1, pág. 13",
+     "selo": "VERIFICADO"
+    },
+    "2026": {
+     "valor": 52.34,
+     "fonte": "Dec. 101/2025, Anexo VI, item 1, pág. 13",
+     "selo": "VERIFICADO"
+    }
+   }
+  },
+  "LC187.2.isencao_IPTU": {
+   "descricao": "limite de valor venal para isenção de IPTU residencial",
+   "base_lei": "LC 187/2024, art. 2º",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não publica este valor."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não publica este valor."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não publica este valor."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não publica este valor."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Decreto do exercício não publica este valor."
+    },
+    "2026": {
+     "valor": 52340.0,
+     "fonte": "Dec. 101/2025, Anexo VI, 'Isenção de IPTU por valor venal', pág. 13",
+     "selo": "VERIFICADO",
+     "obs": "Fora do CTM: art. 2º, §2º, da LC 187/2024 (imóvel residencial com valor venal inferior)."
+    }
+   }
+  },
+  "297.UPR": {
+   "descricao": "Unidade Padrão de Referência (ISS fixo)",
+   "base_lei": "R$ 1,00 (LC 221/2025)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Redação da LC 221/2025 ainda não existia."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "UPR criada pela LC 221/2025 (26/11/2025), depois do Dec. 311/2024; valor de R$ 1,00 vem da lei, não de decreto."
+    },
+    "2026": {
+     "valor": 1.0,
+     "fonte": "Dec. 101/2025, Anexo I, Tabela 2 ('Valor da Unidade Padrão de Referência - UPR - Alteração da LCM nº 221/2025'), pág. 3",
+     "selo": "VERIFICADO",
+     "obs": "Mantém o valor nominal da LC 221, sem a correção de 4,68%. Aplicável ao ISS fixo a partir de 01/03/2026 (art. 2º, II)."
+    }
+   }
+  },
+  "256-I.coworking": {
+   "descricao": "valor do art. 256-I (coworking)",
+   "base_lei": "R$ 3.500,00 (LC 127/2022)",
+   "por_exercicio": {
+    "2021": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "redação inexistente no exercício",
+     "obs": "Art. 256-I incluído pela LC 127/2022."
+    },
+    "2022": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Nenhum decreto de 2021 a 2026 traz o valor do art. 256-I (busca por 'coworking', 'compartilhado', '3.500' sem resultado).",
+     "valor_pela_lei": 3500.0,
+     "fonte_lei": "LC 127/2022, art. 256-I, I e II (DOM 2685, 08/12/2022); em 2022 só a partir de 08/12/2022",
+     "obs_lei": "Valor nominal da lei (VERIFICADO no DOM 2685). Se o art. 109 (IPCA anual) o atualiza sem decreto é pendência (ver PENDENCIAS.md)."
+    },
+    "2023": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Nenhum decreto de 2021 a 2026 traz o valor do art. 256-I (busca por 'coworking', 'compartilhado', '3.500' sem resultado).",
+     "valor_pela_lei": 3500.0,
+     "fonte_lei": "LC 127/2022, art. 256-I, I e II (DOM 2685, 08/12/2022); em 2022 só a partir de 08/12/2022",
+     "obs_lei": "Valor nominal da lei (VERIFICADO no DOM 2685). Se o art. 109 (IPCA anual) o atualiza sem decreto é pendência (ver PENDENCIAS.md)."
+    },
+    "2024": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Nenhum decreto de 2021 a 2026 traz o valor do art. 256-I (busca por 'coworking', 'compartilhado', '3.500' sem resultado).",
+     "valor_pela_lei": 3500.0,
+     "fonte_lei": "LC 127/2022, art. 256-I, I e II (DOM 2685, 08/12/2022); em 2022 só a partir de 08/12/2022",
+     "obs_lei": "Valor nominal da lei (VERIFICADO no DOM 2685). Se o art. 109 (IPCA anual) o atualiza sem decreto é pendência (ver PENDENCIAS.md)."
+    },
+    "2025": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Nenhum decreto de 2021 a 2026 traz o valor do art. 256-I (busca por 'coworking', 'compartilhado', '3.500' sem resultado).",
+     "valor_pela_lei": 3500.0,
+     "fonte_lei": "LC 127/2022, art. 256-I, I e II (DOM 2685, 08/12/2022); em 2022 só a partir de 08/12/2022",
+     "obs_lei": "Valor nominal da lei (VERIFICADO no DOM 2685). Se o art. 109 (IPCA anual) o atualiza sem decreto é pendência (ver PENDENCIAS.md)."
+    },
+    "2026": {
+     "valor": null,
+     "fonte": null,
+     "selo": "PARCIAL",
+     "motivo": "decreto não publica",
+     "obs": "Nenhum decreto de 2021 a 2026 traz o valor do art. 256-I (busca por 'coworking', 'compartilhado', '3.500' sem resultado).",
+     "valor_pela_lei": 3500.0,
+     "fonte_lei": "LC 127/2022, art. 256-I, I e II (DOM 2685, 08/12/2022); em 2022 só a partir de 08/12/2022",
+     "obs_lei": "Valor nominal da lei (VERIFICADO no DOM 2685). Se o art. 109 (IPCA anual) o atualiza sem decreto é pendência (ver PENDENCIAS.md)."
+    }
+   }
+  }
+ },
+ "nao_coberto": {
+  "ISS_fixo_autonomo_Anexo_II": "Bases do ISS fixo (Anexo I dos decretos; Tabelas 1 e 2 no Dec. 101/2025) não levantadas para 2021-2025. Conhecido (DECRETOS-ANO-BASE.md): 2026 até 28/02 pela Tabela 1 (ex.: 4.12 R$ 9.247,69; 5.01 R$ 4.650,68; 14.01 R$ 4.921,14 base anual) e desde 01/03/2026 em UPR (Tabela 2). PARCIAL.",
+  "taxas_Anexos_III_e_IV": "Valores anuais das taxas (TLL, TVRE, vigilância sanitária, publicidade, trânsito, lixo) não levantados nesta tarefa. PARCIAL.",
+  "exercicios_2018_a_2020": "Decretos de 2018, 2019 e 2020 não estão na pasta: valores desses anos não levantados (definem o valor-base corrigido em 01/01/2021). PARCIAL."
+ }
+}
