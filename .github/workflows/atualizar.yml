@@ -1,0 +1,36 @@
+name: Atualizar base (indices e Diario Oficial)
+
+on:
+  schedule:
+    - cron: '0 11 * * 1'   # toda segunda, 08:00 em Araguaina
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Indices oficiais (IBGE e Banco Central)
+        run: python ferramentas/coletar_indices.py
+      - name: Alerta do Diario Oficial de Araguaina
+        run: python ferramentas/dom_alerta.py
+      - name: Abrir Issue para revisao humana, se houver ato novo
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f alertas/ISSUE.txt ]; then
+            gh issue create --title "Atos novos no DOM ($(date +%d/%m/%Y))" --body-file alertas/ISSUE.txt || true
+          fi
+      - name: Gravar mudancas
+        run: |
+          git config user.name "base-bot"
+          git config user.email "base-bot@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "sem mudanca"; else git commit -m "Atualizacao automatica em nuvem $(date +%Y-%m-%d)" && git push; fi
