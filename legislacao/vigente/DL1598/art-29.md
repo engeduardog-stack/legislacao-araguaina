@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "29"
 paginas_pdf: "14-14"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 29.  Na venda a prazo, ou em prestações, com pagamento após o término do período de apuração da venda, o

@@ -4,7 +4,7 @@ sigla: CC
 artigo: "76"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 76. Têm domicílio necessário o incapaz, o servidor público, o militar, o marítimo e o preso.

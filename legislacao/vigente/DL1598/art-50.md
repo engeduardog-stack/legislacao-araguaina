@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "50"
 paginas_pdf: "21-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 50 - As quotas de depreciação, amortização e exaustão a serem registradas na escrituração como custo ou

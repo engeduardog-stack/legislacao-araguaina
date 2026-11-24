@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "47"
 paginas_pdf: "48-48"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 47. Nas contratações públicas da administração direta e indireta, autárquica e fundacional, federal,

@@ -4,7 +4,7 @@ sigla: L4729
 artigo: "5"
 paginas_pdf: "1-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 5º No art. 334, do Código Penal, substituam-se os §§ 1º e 2º pelos seguintes:

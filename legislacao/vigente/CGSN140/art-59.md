@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "59"
 paginas_pdf: "47-49"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 59. A ME ou EPP optante pelo Simples Nacional utilizará, conforme as operações e

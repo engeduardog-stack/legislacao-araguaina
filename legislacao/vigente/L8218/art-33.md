@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "33"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 33 - As multas de ofício de que trata esta Lei, lançadas com base em créditos tributários ou com base em

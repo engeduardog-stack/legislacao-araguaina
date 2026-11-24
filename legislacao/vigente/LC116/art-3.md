@@ -4,7 +4,7 @@ sigla: LC116
 artigo: "3"
 paginas_pdf: "1-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 3o  O serviço considera-se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do

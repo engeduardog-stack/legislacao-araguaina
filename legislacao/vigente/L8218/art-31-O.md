@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "31-O"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 31 - O art. 25 da Lei nº 7.713, de 22 de dezembro de 1988, passa a vigorar com a seguinte redação:

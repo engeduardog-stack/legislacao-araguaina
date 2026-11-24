@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "59"
 paginas_pdf: "26-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 59. O pagamento não importa em automática quitação do crédito fiscal,

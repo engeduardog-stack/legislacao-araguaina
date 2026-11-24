@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "208-J"
 paginas_pdf: "40-40"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-J. A tramitação dos processos administrativos fiscais que versem sobre uma mesma questão jurídica será

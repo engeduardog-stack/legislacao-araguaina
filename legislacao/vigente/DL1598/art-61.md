@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "61"
 paginas_pdf: "26-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61. Se a pessoa ligada for sócio controlador da pessoa jurídica, presumir-se-á distribuição disfarçada de

@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "51"
 paginas_pdf: "26-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 51. A imunidade e a isenção acarretarão a anulação dos créditos relativos às operações

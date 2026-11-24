@@ -4,7 +4,7 @@ sigla: LCM200
 artigo: "22"
 paginas_pdf: "3-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 22. Quando se apurar que o sujeito passivo concorreu com dolo, fraude

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "87-A"
 paginas_pdf: "66-66"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 87-A. Os Poderes Executivos da União, Estados, Distrito Federal e Municípios expedirão, anualmente, até

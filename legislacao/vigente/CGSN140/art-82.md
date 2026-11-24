@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "82"
 paginas_pdf: "58-58"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 82. A alteração de dados no CNPJ, informada pela ME ou EPP à RFB, equivalerá à

@@ -4,7 +4,7 @@ sigla: DEC125
 artigo: "8"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8º. Este Decreto entra em vigor na data de sua publicação, revogadas as

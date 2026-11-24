@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "13"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 13. A não apresentação dos arquivos ou sistemas até o trigésimo dia após o vencimento do prazo estabelecido

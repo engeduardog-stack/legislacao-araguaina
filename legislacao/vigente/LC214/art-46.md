@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "46"
 paginas_pdf: "24-25"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 46. O Comitê Gestor do IBS e a RFB poderão, respectivamente, apresentar ao sujeito passivo

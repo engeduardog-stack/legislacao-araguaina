@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "96"
 paginas_pdf: "42-42"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 96. A plataforma digital, ainda que domiciliada no exterior, é responsável pelo pagamento

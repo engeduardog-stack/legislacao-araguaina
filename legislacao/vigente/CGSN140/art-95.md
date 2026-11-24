@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "95"
 paginas_pdf: "67-67"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 95. Aplicam-se aos tributos devidos pela ME e pela EPP, optantes pelo Simples Nacional, as

@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "62"
 paginas_pdf: "28-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 62. O resultado da atividade rural exercida no exterior por residentes no País, convertido em reais por meio da

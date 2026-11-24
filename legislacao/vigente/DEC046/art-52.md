@@ -4,7 +4,7 @@ sigla: DEC046
 artigo: "52"
 paginas_pdf: "6-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 52. Este Decreto entra em vigor na data de sua publicação,

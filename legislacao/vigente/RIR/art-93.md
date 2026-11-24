@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "93"
 paginas_pdf: "39-40"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 93. A pessoa física poderá deduzir do imposto sobre a renda devido na forma estabelecida no caput e § 1º do

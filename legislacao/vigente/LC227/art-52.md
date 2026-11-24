@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "52"
 paginas_pdf: "19-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 52. O orçamento do CGIBS para os exercícios financeiros de 2025 a 2028 será composto dos montantes previstos no

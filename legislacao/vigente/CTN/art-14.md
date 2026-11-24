@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "14"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 14. O disposto na alínea c do inciso IV do art. 9º é subordinado à observância dos seguintes requisitos pelas

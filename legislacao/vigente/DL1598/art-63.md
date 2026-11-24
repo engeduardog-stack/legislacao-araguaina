@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "63"
 paginas_pdf: "27-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 63 - Os aumentos de capital das pessoas jurídicas mediante incorporação de lucros ou reservas não sofrerão

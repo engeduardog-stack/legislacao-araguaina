@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "37"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 37. Fica acrescido o artigo 147-A à Lei Complementar nº 058, de 30 de

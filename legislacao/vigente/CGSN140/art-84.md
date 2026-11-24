@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "84"
 paginas_pdf: "59-61"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 84. A exclusão de ofício da ME ou da EPP do Simples Nacional produzirá efeitos:

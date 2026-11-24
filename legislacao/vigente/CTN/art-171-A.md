@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "171-A"
 paginas_pdf: "30-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 171-A. Lei especial autorizará a arbitragem especial tributária e aduaneira, com vistas a promover a solução

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "98-B"
 paginas_pdf: "68-76"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 98-B. A suspensão do pagamento do IBS e da CBS decorrente da aplicação de regime

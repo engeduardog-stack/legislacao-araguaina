@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "92"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 92. Para fins do disposto no art. 91 , considera-se solidariamente responsável por inadimplência ou

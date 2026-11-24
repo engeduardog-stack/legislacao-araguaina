@@ -4,7 +4,7 @@ sigla: LC116
 artigo: "7"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7o A base de cálculo do imposto é o preço do serviço.

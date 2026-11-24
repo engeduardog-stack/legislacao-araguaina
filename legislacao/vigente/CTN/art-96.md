@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "96"
 paginas_pdf: "15-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 96. A expressão "legislação tributária" compreende as leis, os tratados e as convenções internacionais, os

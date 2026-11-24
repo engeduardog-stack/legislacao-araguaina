@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "30-O"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 30 - O "caput" do art. 9º da Lei nº 8.177, de 1º de março de 1991, passa a vigorar com a seguinte redação:

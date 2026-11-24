@@ -4,7 +4,7 @@ sigla: L3480
 artigo: "16-B"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 16-B Fica concedido, pelo período de 04 (quatro) anos,

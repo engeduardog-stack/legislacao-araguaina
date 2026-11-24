@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "74"
 paginas_pdf: "61-61"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 74. Aplica-se às microempresas e às empresas de pequeno porte de que trata esta Lei Complementar o

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "79-E"
 paginas_pdf: "63-63"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79-E. A empresa de pequeno porte optante pelo Simples Nacional em 31 de dezembro de 2017 que

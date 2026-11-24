@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "73"
 paginas_pdf: "34-34"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 73. É responsável pelo IBS e pela CBS na importação de bens materiais, em substituição ao

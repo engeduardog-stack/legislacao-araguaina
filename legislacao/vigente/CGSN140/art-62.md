@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "62"
 paginas_pdf: "50-50"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 62. O adquirente da mercadoria não poderá se creditar do ICMS consignado em nota fiscal

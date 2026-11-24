@@ -4,7 +4,7 @@ sigla: CC
 artigo: "32"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 32. Empossados nos bens, os sucessores provisórios ficarão representando ativa e passivamente o ausente, de modo que

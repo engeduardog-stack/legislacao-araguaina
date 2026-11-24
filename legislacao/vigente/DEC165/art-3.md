@@ -4,7 +4,7 @@ sigla: DEC165
 artigo: "3"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art.3º - São atribuições a serem desempenhadas na fiscalização contratual:

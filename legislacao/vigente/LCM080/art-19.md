@@ -4,7 +4,7 @@ sigla: LCM080
 artigo: "19"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 19. É acrescido o inciso IV ao Artigo 362 da Lei Complementar

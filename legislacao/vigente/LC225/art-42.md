@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "42"
 paginas_pdf: "18-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 42. Os contribuintes detentores dos selos de que tratam os incisos I e II do caput do art.  40 desta Lei

@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "4"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 4º O IBS e a CBS incidem sobre operações onerosas com bens ou com serviços.

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "471-A"
 paginas_pdf: "88-88"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 471-A. É instituído o Programa Nacional de Conformidade Tributária (PNCT), destinado a

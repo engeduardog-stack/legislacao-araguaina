@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "51"
 paginas_pdf: "20-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 51. O art. 83 da Lei nº 9.430, de 27 de dezembro de 1996 (Lei do Ajuste Tributário), passa a vigorar com a

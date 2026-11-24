@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "79-A"
 paginas_pdf: "57-57"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79-A. São crimes de responsabilidade do Presidente do CGIBS:

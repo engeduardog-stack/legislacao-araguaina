@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "66"
 paginas_pdf: "28-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 66. A concessão da moratória em caráter individual não gera direito

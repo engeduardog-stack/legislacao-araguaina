@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "78"
 paginas_pdf: "32-32"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 78. O direito da Secretaria Municipal da Fazenda constituir o crédito

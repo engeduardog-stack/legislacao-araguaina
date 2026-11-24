@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "33"
 paginas_pdf: "15-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 33.  O valor contábil, para efeito de determinar o ganho ou perda de capital na alienação ou liquidação do

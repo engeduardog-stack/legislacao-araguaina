@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "64"
 paginas_pdf: "31-32"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 64. Para fins do disposto no art. 63 desta Lei Complementar, considera-se importação de

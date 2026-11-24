@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "23"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 23. O impôsto, de competência da União, sôbre a exportação, para o estrangeiro, de produtos nacionais ou

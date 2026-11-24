@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "208-A"
 paginas_pdf: "37-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-A. Este Capítulo estabelece normas gerais para regular o processo administrativo fiscal no âmbito das

@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "40"
 paginas_pdf: "22-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 40. Aplicam-se os prazos de ressarcimento previstos nos incisos I ou II do § 3º do art. 39

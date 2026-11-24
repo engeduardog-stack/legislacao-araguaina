@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "8"
 paginas_pdf: "8-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8º Será assegurado aos empresários e pessoas jurídicas: (Redação dada pela Lei Complementar nº 147,

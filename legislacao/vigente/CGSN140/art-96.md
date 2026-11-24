@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "96"
 paginas_pdf: "67-69"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 96. O descumprimento de obrigação principal devida no âmbito do Simples Nacional sujeita

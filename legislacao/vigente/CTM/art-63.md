@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "63"
 paginas_pdf: "27-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 63. Após o vencimento do prazo originalmente assinalado para o pagamento

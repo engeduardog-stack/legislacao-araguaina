@@ -4,7 +4,7 @@ sigla: CC
 artigo: "30"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 30. Os herdeiros, para se imitirem na posse dos bens do ausente, darão garantias da restituição deles, mediante penhores

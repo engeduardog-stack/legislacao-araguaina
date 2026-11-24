@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "81"
 paginas_pdf: "36-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 81. A imunidade do IBS e da CBS sobre a exportação de bens materiais a que se refere o art.

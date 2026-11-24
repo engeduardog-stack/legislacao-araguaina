@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "464-D"
 paginas_pdf: "208-208"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 464-D. A isenção cessará nos seguintes casos:

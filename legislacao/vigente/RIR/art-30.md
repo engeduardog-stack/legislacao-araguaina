@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "30"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 30. A pessoa física que se retirar do território nacional temporariamente deverá nomear pessoa habilitada no

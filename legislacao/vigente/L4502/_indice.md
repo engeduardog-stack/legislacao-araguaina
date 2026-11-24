@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei 4.502-1964 - Imposto de Consumo (IPI).pdf"
 paginas: 29
 artigos: 21
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Lei 4.502/1964 (IPI) (L4502)

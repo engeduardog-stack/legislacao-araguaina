@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "75-B"
 paginas_pdf: "62-62"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 75-B. (VETADO). (Incluído pela Lei Complementar nº 155, de 2016) Produção de efeito

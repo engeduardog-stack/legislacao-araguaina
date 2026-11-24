@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "72"
 paginas_pdf: "60-60"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 72. As microempresas e as empresas de pequeno porte, nos termos da legislação civil, acrescentarão à

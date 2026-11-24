@@ -4,7 +4,7 @@ sigla: DEC037
 artigo: "4"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 4º Esta Portaria entra em vigor na data de sua assinatura revogando a

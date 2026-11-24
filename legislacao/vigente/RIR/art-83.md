@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "83"
 paginas_pdf: "36-36"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 83. Nas hipóteses de encerramento de espólio e de saída definitiva do território nacional, o imposto sobre a

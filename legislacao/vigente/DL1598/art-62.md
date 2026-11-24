@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "62"
 paginas_pdf: "26-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 62 - Para efeito de determinar o lucro real da pessoa jurídica:

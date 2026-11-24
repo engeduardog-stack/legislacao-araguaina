@@ -4,7 +4,7 @@ sigla: LCM080
 artigo: "16"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 16. É acrescido a alínea “h” ao parágrafo 2º do Artigo 300

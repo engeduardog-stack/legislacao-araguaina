@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "51"
 paginas_pdf: "23-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 51. Para fins do disposto neste Regulamento, considera-se atividade rural ( Lei nº 8.023, de 12 de abril de

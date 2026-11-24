@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "17"
 paginas_pdf: "8-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17. O Poder Executivo de cada ente federativo disciplinará o disposto nesta Seção.

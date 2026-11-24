@@ -4,7 +4,7 @@ sigla: LCM245
 artigo: "9"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 9º Aos parcelamentos realizados no âmbito do REFIS não será

@@ -4,7 +4,7 @@ sigla: LCM236
 artigo: "59"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 59. O inciso XXVIII do artigo 4º da lei complementar municipal nº 46, de

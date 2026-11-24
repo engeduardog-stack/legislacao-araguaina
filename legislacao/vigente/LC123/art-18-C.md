@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "18-C"
 paginas_pdf: "30-31"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18-C. Observado o disposto no caput e nos §§ 1o a 25 do art. 18-A desta Lei Complementar, poderá

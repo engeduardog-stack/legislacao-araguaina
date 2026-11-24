@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "60"
 paginas_pdf: "28-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 60. Constitui resultado tributável da atividade rural aquele apurado na forma prevista no art. 56, observado o

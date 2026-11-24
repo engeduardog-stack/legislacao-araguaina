@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "84"
 paginas_pdf: "65-65"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 84. O art. 58 da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto-Lei nº 5.452, de 1o de

@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "377-A"
 paginas_pdf: "185-185"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 377-A. Considera-se ocorrido o fato gerador da taxa: (Artigo acrescido pela

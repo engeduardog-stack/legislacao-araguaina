@@ -4,7 +4,7 @@ sigla: CC
 artigo: "36"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 36. Se o ausente aparecer, ou se lhe provar a existência, depois de estabelecida a posse provisória, cessarão para logo as

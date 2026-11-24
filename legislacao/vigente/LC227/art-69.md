@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "69"
 paginas_pdf: "24-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 69. No exame da matéria em litígio, a autoridade julgadora não ficará adstrita às razões de fato ou de direito invocadas,

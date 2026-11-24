@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "42"
 paginas_pdf: "17-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 42. O CGIBS elaborará, ao final de cada quadrimestre, o relatório de gestão fiscal de que tratam os arts. 54 e 55 da Lei

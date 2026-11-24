@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "31"
 paginas_pdf: "14-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 31.  Serão classificados como ganhos ou perdas de capital, e computados na determinação do lucro real, os

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "34"
 paginas_pdf: "43-43"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 34. Aplicam-se à microempresa e à empresa de pequeno porte optantes pelo Simples Nacional todas as

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "8-O"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 8º - O contribuinte deverá escriturar, além dos demais registros requeridos pelas leis comerciais e pela legislação

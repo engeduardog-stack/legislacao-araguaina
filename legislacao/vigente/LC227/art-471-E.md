@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "471-E"
 paginas_pdf: "89-90"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 471-E. A prática reiterada das infrações de que trata o art.  471-D configura violação das

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "72"
 paginas_pdf: "24-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 72. Opera-se a desistência do litígio na esfera administrativa:

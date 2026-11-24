@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "5"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º Na constância da sociedade conjugal, cada cônjuge terá seus rendimentos tributados na proporção de (Lei

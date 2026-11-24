@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "79"
 paginas_pdf: "56-57"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79. A ME ou a EPP optante pelo Simples Nacional poderá ser obrigada ao uso de

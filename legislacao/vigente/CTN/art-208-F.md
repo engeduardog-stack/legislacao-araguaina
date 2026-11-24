@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "208-F"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-F. As decisões e os acórdãos deverão indicar com clareza os pressupostos de fato e de direito que os

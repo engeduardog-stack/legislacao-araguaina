@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "32"
 paginas_pdf: "14-14"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 32. No Programa Sintonia, é permitida a autorregularização para os sujeitos passivos com bom histórico de

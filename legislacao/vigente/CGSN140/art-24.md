@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "24"
 paginas_pdf: "22-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24. Na hipótese de a receita bruta acumulada no ano-calendário em curso ultrapassar pelo

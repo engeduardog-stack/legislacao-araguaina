@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "36"
 paginas_pdf: "21-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 36. O adquirente de bens ou de serviços que seja contribuinte do IBS e da CBS pelo regime

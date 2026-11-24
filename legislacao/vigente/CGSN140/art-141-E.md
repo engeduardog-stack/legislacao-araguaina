@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "141-E"
 paginas_pdf: "96-97"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 141-E. A transação na cobrança da dívida ativa e no contencioso administrativo fiscal poderá

@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "96"
 paginas_pdf: "40-40"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 96. O não cumprimento do projeto a que se referem o inciso I ao inciso III do caput do art. 93 e o art. 94 e a

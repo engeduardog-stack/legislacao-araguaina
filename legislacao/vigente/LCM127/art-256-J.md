@@ -4,7 +4,7 @@ sigla: LCM127
 artigo: "256-J"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 256-J. A taxa de Licença de Localização e

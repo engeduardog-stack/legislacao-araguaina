@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "9"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 9º Ao espólio serão aplicadas as mesmas normas a que ficam sujeitas as pessoas físicas, observado o

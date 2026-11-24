@@ -4,7 +4,7 @@ sigla: LC116
 artigo: "8-A"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8o-A.  A alíquota mínima do Imposto sobre Serviços de Qualquer Natureza é de 2% (dois por cento).  (Incluído

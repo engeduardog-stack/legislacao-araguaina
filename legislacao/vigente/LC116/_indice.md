@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei Complementar 116-2003 - ISSQN Normas Gerais.pdf"
 paginas: 15
 artigos: 13
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # LC 116/2003 (ISSQN, normas gerais) (LC116)

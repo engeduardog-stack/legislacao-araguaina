@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "52"
 paginas_pdf: "44-45"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 52. O órgão concessor definido no art. 48 poderá, em disciplinamento próprio: (Lei

@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "95"
 paginas_pdf: "37-38"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 95. O Poder Executivo Municipal poderá cancelar os créditos inscritos em

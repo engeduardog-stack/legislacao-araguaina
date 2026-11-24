@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "12"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 12. O caput do Art. 113 da Lei Complementar Municipal nº 058, de 30 de

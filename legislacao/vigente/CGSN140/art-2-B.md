@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "2-B"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º-B A União, os Estados, o Distrito Federal e os Municípios exercerão a administração

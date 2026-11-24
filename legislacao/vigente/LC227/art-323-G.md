@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "323-G"
 paginas_pdf: "76-77"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 323-G. Cabe recurso especial, no prazo de 10 (dez) dias úteis, contra decisão do CGIBS

@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "24"
 paginas_pdf: "7-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24. As firmas ou sociedades nacionais e as filiais, as sucursais ou as agências, no País, de firmas ou de

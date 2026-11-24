@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "58-A"
 paginas_pdf: "53-53"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 58-A. Os bancos públicos e privados não poderão contabilizar, para cumprimento de metas, empréstimos

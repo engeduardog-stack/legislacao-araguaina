@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "87"
 paginas_pdf: "37-38"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 87. Para fins do disposto nesta Subseção, considera-se doação a transferência definitiva e irreversível de

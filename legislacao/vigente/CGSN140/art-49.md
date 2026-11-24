@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "49"
 paginas_pdf: "44-44"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 49. Poderá ser realizada, a pedido ou de ofício, revisão dos valores objeto do parcelamento

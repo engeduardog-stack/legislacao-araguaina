@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2017\Decreto 477-2016 - Atualização monetária 2017 (DOM 1233).pdf"
 paginas: 14
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 477-2016 - Atualização monetária 2017 (DOM 1233)

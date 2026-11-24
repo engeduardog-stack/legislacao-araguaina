@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "65"
 paginas_pdf: "28-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 65. A Lei que conceder moratória em caráter geral ou o despacho que a

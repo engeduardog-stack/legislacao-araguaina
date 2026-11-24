@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "341-C"
 paginas_pdf: "79-79"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 341-C. É instituída a Unidade Padrão Fiscal dos Tributos sobre Bens e Serviços (UPF), no

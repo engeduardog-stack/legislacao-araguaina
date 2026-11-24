@@ -5,7 +5,7 @@ grupo: legislacao-vigente-dom
 origem: "LEGISLAÇÕES ATUALIZADAS\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\Decreto Municipal 165-2026 - Regulamenta o REDAF (DOM 3543, 03-07-2026).pdf"
 paginas: 5
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto Municipal 165-2026 - Regulamenta o REDAF (DOM 3543, 03-07-2026)

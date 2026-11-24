@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Regulamentos NFSe_Decreto 46_DOM 1441.pdf"
 paginas: 13
 artigos: 65
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 046/2017 (NFS-e e cadastro WebISS) (DEC046)

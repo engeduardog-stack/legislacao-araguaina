@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "87"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 87. A concessão de isenção dependerá da inexistência de débitos anteriores

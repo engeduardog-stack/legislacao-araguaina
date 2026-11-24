@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "NÃO VIGENTES\DOM ARAGUAÍNA 2021-2026\Lei Complementar Municipal 093-2021 - Programa de Parcelamento Incentivado PPI (DOM 2412, 22-10-2021).pdf"
 paginas: 5
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Lei Complementar Municipal 093-2021 - Programa de Parcelamento Incentivado PPI (DOM 2412, 22-10-2021)

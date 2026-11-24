@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "28"
 paginas_pdf: "33-33"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 28. Na hipótese de a ME ou a EPP optante pelo Simples Nacional se encontrar na condição

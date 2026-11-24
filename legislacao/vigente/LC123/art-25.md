@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "25"
 paginas_pdf: "37-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. A microempresa ou empresa de pequeno porte optante pelo Simples Nacional deverá apresentar

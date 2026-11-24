@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "75-A"
 paginas_pdf: "61-62"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 75-A. Para fazer face às demandas originárias do estímulo previsto nos arts. 74 e 75 desta Lei

@@ -4,7 +4,7 @@ sigla: CC
 artigo: "24"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24. O juiz, que nomear o curador, fixar-lhe-á os poderes e obrigações, conforme as circunstâncias, observando, no que for

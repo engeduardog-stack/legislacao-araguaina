@@ -4,7 +4,7 @@ sigla: LCM245
 artigo: "3"
 paginas_pdf: "1-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 3º O ingresso no REFIS dar-se-á por opção do sujeito passivo, mediante

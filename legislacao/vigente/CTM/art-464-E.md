@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "464-E"
 paginas_pdf: "208-208"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 464-E. Para o requerimento da isenção o contribuinte e membros do grupo

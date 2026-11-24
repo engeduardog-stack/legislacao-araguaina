@@ -4,7 +4,7 @@ sigla: L4729
 artigo: "2"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art 2º Extingue-se a punibilidade dos crimes previstos nesta Lei quando o agente promover o recolhimento do tributo devido,

@@ -4,7 +4,7 @@ sigla: CC
 artigo: "29"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 29. Antes da partilha, o juiz, quando julgar conveniente, ordenará a conversão dos bens móveis, sujeitos a deterioração ou

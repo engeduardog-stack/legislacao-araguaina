@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "79"
 paginas_pdf: "62-63"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79. Será concedido, para ingresso no Simples Nacional, parcelamento, em até 100 (cem) parcelas

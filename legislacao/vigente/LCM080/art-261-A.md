@@ -4,7 +4,7 @@ sigla: LCM080
 artigo: "261-A"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 261-A. Os Micros Empreendedores Individuais –

@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "77"
 paginas_pdf: "55-56"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 77. A optante pelo regime de caixa deverá manter registro dos valores a receber, no modelo

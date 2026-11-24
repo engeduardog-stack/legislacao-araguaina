@@ -1,0 +1,12 @@
+---
+norma: Lei 2.494/2006 (parcelamento do solo urbano; texto do portal, anteprojeto)
+sigla: PARC2494
+artigo: "38"
+paginas_pdf: "12-12"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-24
+---
+
+Art. 38. O condomínio horizontal só poderá ser implantado em lotes que
+tenham frente e acesso para vias oficiais de circulação com largura igual ou superior a 12,00m
+(doze metros).

@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "48"
 paginas_pdf: "19-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 48. O art. 2º da Lei nº 10.522, de 19 de julho de 2002, passa a vigorar com a seguinte redação:

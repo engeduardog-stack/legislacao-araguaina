@@ -4,7 +4,7 @@ sigla: LCM187
 artigo: "18"
 paginas_pdf: "6-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18. Esta Lei entra em vigor na data de sua publicação revogando todas as

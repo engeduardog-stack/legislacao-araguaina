@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "1-O"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 1º - O imposto sobre o lucro das pessoas jurídicas domiciliadas no País, inclusive firmas ou empresas individuais

@@ -4,7 +4,7 @@ sigla: DEC046
 artigo: "50"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 50. As NFS-e emitidas poderão ser consultadas pelo

@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "16"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 16. As pessoas físicas que ingressarem no País com visto permanente ficam sujeitas ao imposto sobre a

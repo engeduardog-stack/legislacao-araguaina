@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "11"
 paginas_pdf: "13-14"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 11. Os Estados e o Distrito Federal deverão manifestar-se, mediante publicação de Decreto

@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "Leis e edições antigas do DOM\DOM 3176 (12-12-2024) - edição com a Lei 3.480-2024 (Domicílio Eletrônico).pdf"
 paginas: 11
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # DOM 3176 (12-12-2024) - edição com a Lei 3.480-2024 (Domicílio Eletrônico)

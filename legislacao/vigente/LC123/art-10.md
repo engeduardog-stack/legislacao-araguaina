@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "10"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 10. Não poderão ser exigidos pelos órgãos e entidades envolvidos na abertura e fechamento de

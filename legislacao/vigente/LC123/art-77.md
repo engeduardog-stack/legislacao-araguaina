@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "77"
 paginas_pdf: "62-62"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 77. Promulgada esta Lei Complementar, o Comitê Gestor expedirá, em 30 (trinta) meses, as instruções

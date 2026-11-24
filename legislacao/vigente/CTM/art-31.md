@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "31"
 paginas_pdf: "12-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 31. Sem prejuízo das disposições legais específicas sobre o cadastro

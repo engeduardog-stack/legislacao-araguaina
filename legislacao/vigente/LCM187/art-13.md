@@ -4,7 +4,7 @@ sigla: LCM187
 artigo: "13"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 13. Ficam isentas da Taxa de Licença de Localização e Verificação de Regularidade

@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "90"
 paginas_pdf: "13-14"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 90. O fator representativo do inverso da renda per capita, a que se refere o inciso II do art. 88, será estabelecido

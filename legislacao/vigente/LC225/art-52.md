@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "52"
 paginas_pdf: "21-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 52. O art.  8º da Lei nº  9.478, de 6 de agosto de 1997 (Lei do Petróleo), passa a vigorar com a seguinte

@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "47"
 paginas_pdf: "13-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 47. É obrigatória a emissão de nota-fiscal em tôdas as operações tributáveis que importem em saídas de produtos tributados

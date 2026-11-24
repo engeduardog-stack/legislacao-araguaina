@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "8"
 paginas_pdf: "3-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8º Na hipótese de dissolução da sociedade conjugal por morte de um dos cônjuges, serão tributadas, em

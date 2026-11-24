@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "12"
 paginas_pdf: "14-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 12. Caso a receita bruta acumulada pela empresa no ano-calendário ultrapasse quaisquer

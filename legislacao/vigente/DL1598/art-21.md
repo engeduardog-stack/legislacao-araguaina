@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "21"
 paginas_pdf: "11-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21.  Em cada balanço, o contribuinte deverá avaliar o investimento pelo valor de patrimônio líquido da

@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "16"
 paginas_pdf: "11-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 16. A alíquota fixada por cada ente federativo na forma do art. 14 desta Lei Complementar

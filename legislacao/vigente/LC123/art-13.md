@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "13"
 paginas_pdf: "11-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 13. O Simples Nacional implica o recolhimento mensal, mediante documento único de arrecadação, dos

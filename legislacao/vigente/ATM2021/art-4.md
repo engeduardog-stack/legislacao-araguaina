@@ -4,7 +4,7 @@ sigla: ATM2021
 artigo: "4"
 paginas_pdf: "18-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 4º. Ao Coordenador Geral do CFGMA compete certificar a

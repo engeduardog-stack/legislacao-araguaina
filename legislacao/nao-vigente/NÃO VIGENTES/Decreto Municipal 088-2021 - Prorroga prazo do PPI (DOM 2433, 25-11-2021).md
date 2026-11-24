@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "NÃO VIGENTES\DOM ARAGUAÍNA 2021-2026\Decreto Municipal 088-2021 - Prorroga prazo do PPI (DOM 2433, 25-11-2021).pdf"
 paginas: 3
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto Municipal 088-2021 - Prorroga prazo do PPI (DOM 2433, 25-11-2021)

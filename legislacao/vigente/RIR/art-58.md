@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "58"
 paginas_pdf: "27-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 58. O resultado positivo obtido na exploração da atividade rural pela pessoa física poderá ser compensado

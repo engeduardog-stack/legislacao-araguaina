@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "40"
 paginas_pdf: "17-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 40. São instituídos os seguintes Selos de Conformidade Tributária e Aduaneira (SCTA), a serem concedidos

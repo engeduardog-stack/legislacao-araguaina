@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "3"
 paginas_pdf: "4-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 3º Para os efeitos desta Lei Complementar, consideram-se microempresas ou empresas de pequeno

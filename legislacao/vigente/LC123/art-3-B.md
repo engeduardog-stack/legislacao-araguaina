@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "3-B"
 paginas_pdf: "6-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 3º-B. Os dispositivos desta Lei Complementar, com exceção dos dispostos no Capítulo IV, são aplicáveis a

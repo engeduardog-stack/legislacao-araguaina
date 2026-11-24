@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "59"
 paginas_pdf: "27-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 59. A pessoa física que, na apuração do resultado da atividade rural, decidir-se pela opção de que trata o art.

@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "85"
 paginas_pdf: "37-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 85. Poderão ser deduzidos do imposto sobre a renda devido, na forma estabelecida no art. 84 , as quantias

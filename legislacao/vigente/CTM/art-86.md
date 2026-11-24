@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "86"
 paginas_pdf: "34-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 86. A concessão de isenção por leis especiais apoiar-se-á sempre em fortes

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "18-F"
 paginas_pdf: "31-31"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18-F. Para o transportador autônomo de cargas inscrito como MEI, nos termos do art. 18-A desta Lei

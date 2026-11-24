@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "49"
 paginas_pdf: "23-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 49. Os rendimentos recebidos acumuladamente, quando correspondentes ao ano-calendário em curso, serão

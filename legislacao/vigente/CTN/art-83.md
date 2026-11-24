@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "83"
 paginas_pdf: "12-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 83. Sem prejuízo das demais disposições dêste Título, os Estados e Municípios que celebrem com a União

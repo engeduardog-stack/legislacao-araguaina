@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "199-A"
 paginas_pdf: "36-36"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 199-A. As Fazendas Públicas da União, dos Estados, do Distrito Federal e dos Municípios poderão estabelecer

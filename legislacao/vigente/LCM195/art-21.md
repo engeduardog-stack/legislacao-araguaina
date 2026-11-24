@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "21"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21. O §1º do Art. 250 da Lei Complementar Municipal nº 058, de 30 de

@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "15-O"
 paginas_pdf: "6-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 15 - O pagamento da contribuição para o PIS-PASEP relativa aos fatos geradores ocorridos nos meses de

@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "11"
 paginas_pdf: "7-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 11. Considera-se local da operação com:

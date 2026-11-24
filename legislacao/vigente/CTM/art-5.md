@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "5"
 paginas_pdf: "281-281"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º. Ficam revogados os seguintes dispositivos da Lei Complementar 058/2017:

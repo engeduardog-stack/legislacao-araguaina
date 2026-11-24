@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "63"
 paginas_pdf: "50-51"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 63. Observado o disposto no art. 64, a ME ou EPP optante pelo Simples Nacional deverá

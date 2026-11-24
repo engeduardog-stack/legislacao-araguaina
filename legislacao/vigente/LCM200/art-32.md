@@ -4,7 +4,7 @@ sigla: LCM200
 artigo: "32"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 32. Esta Lei entra em vigor na data da sua publicação, revogando todas

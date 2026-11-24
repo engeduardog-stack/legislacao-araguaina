@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "19"
 paginas_pdf: "11-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 19. Qualquer alteração na legislação federal que reduza ou eleve a arrecadação do IBS ou

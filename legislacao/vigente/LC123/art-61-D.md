@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "61-D"
 paginas_pdf: "55-55"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61-D. Os fundos de investimento poderão aportar capital como investidores-anjos em microempresas e

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "17"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17. É assegurada a alternância para o cargo de Presidente do Conselho Superior do CGIBS entre o conjunto dos

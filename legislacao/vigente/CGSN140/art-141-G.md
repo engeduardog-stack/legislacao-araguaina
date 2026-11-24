@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "141-G"
 paginas_pdf: "98-99"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 141-G. A transação relativa a crédito tributário de pequeno valor será realizada: (Lei nº

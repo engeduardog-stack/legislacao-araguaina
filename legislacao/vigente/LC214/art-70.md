@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "70"
 paginas_pdf: "33-33"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 70. Para efeitos de apuração da base de cálculo, os valores expressos em moeda

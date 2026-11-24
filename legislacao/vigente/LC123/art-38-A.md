@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "38-A"
 paginas_pdf: "44-45"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38-A. O sujeito passivo que deixar de prestar as informações no sistema eletrônico de cálculo de que trata

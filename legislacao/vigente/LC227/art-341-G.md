@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "341-G"
 paginas_pdf: "80-82"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 341-G. As multas a serem aplicadas em razão de infrações por descumprimento de

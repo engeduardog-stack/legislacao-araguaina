@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "19"
 paginas_pdf: "31-32"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 19. Sem prejuízo da possibilidade de adoção de todas as faixas de receita previstas nos Anexos I a

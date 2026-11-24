@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "80"
 paginas_pdf: "20-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 80.  A falta de lançamento do valor, total ou parcial, do imposto sobre produtos industrializados na respectiva nota fiscal ou

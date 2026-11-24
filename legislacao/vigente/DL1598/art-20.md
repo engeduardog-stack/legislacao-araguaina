@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "20"
 paginas_pdf: "9-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 20.  O contribuinte que avaliar investimento pelo valor de patrimônio líquido deverá, por ocasião da aquisição da

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "7-O"
 paginas_pdf: "2-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 7º - O lucro real será determinado com base na escrituração que o contribuinte deve manter, com observância

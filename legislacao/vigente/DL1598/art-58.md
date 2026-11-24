@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "58"
 paginas_pdf: "24-25"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 58 - Podem ser excluídas do lucro líquido do exercício, para efeito de determinar o lucro real, as participações

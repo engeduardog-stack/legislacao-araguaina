@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "21-A"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21-A. A inscrição de microempresa ou empresa de pequeno porte no Cadastro Informativo dos créditos

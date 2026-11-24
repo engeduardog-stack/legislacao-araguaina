@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "85"
 paginas_pdf: "34-34"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 85. A isenção pode ser:

@@ -4,7 +4,7 @@ sigla: CC
 artigo: "206-A"
 paginas_pdf: "19-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 206-A. A prescrição intercorrente observará o mesmo prazo de prescrição da pretensão, observadas as

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "39"
 paginas_pdf: "17-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 39 - Os efeitos da modificação do poder de compra da moeda nacional sobre o valor dos elementos do

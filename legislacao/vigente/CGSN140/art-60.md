@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "60"
 paginas_pdf: "49-49"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 60. A ME ou a EPP optante pelo Simples Nacional que emitir nota fiscal com direito ao

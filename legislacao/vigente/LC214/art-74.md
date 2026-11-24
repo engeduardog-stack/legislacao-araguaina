@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "74"
 paginas_pdf: "34-34"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 74. É responsável solidário pelo IBS e pela CBS na importação de bens materiais:

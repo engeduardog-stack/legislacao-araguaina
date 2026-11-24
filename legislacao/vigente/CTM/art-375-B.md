@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "375-B"
 paginas_pdf: "182-182"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 375-B. Ressalvadas as hipóteses previstas na Lei Complementar nº

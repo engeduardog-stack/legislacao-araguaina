@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "63"
 paginas_pdf: "30-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 63. O IBS e a CBS incidem sobre a importação de bens ou de serviços do exterior realizada

@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "55"
 paginas_pdf: "45-46"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 55. No âmbito de cada órgão concessor, serão admitidos reparcelamentos de débitos no

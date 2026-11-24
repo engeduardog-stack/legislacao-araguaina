@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "23"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 23. As pessoas a que se refere o art. 22 são pessoalmente responsáveis pelos créditos correspondentes a

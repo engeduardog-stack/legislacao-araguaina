@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "25"
 paginas_pdf: "8-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. A importância a recolher será o montante do impôsto relativo aos produtos saídos do estabelecimento, em cada mês,

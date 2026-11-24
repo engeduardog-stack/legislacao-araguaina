@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "208-D"
 paginas_pdf: "38-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-D. Será garantido às partes o direito aos seguintes recursos, defesas e incidentes, além de outros

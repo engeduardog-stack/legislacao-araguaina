@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "76-A"
 paginas_pdf: "62-62"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 76-A. As instituições de representação e apoio empresarial deverão promover programas de

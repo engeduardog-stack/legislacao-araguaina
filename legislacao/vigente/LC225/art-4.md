@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "4"
 paginas_pdf: "2-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 4º São direitos do contribuinte ou responsável, nos termos da lei:

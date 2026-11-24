@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "375-F"
 paginas_pdf: "182-183"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 375-F. Em relação às competências de janeiro, fevereiro e março de 2021, é

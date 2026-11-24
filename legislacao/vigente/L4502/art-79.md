@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "79"
 paginas_pdf: "19-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79. O valor da multa será reduzido de 30% (trinta por cento), e o processo respectivo considerar-se-á findo

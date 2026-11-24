@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "49"
 paginas_pdf: "49-49"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 49. Não se aplica o disposto nos arts. 47 e 48 desta Lei Complementar quando: (Vide Lei nº 14.133, de

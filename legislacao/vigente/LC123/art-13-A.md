@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "13-A"
 paginas_pdf: "13-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 13-A. Para efeito de recolhimento do ICMS e do ISS no Simples Nacional, o limite máximo de que trata o

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "55"
 paginas_pdf: "23-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 55 - As pessoas jurídicas obrigadas a corrigir monetariamente, nos termos deste Decreto-lei, as demonstrações

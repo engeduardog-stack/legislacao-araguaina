@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\2021\Decreto Municipal 273-2020 - Atualização monetária de penalidades e taxas (exercício 2021) (DOM 2214).pdf"
 paginas: 24
 artigos: 26
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 273/2020 (atualização monetária, exercício 2021) (ATM2021)

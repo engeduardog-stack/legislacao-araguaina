@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "47"
 paginas_pdf: "20-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 47 - As pessoas jurídicas de que trata o § 3º do artigo 40 procederão à correção monetária mediante a aplicação,

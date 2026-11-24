@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "20"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 20. O termo de início de fiscalização deverá obrigatoriamente circunscrever

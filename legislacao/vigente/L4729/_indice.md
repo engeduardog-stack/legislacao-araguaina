@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei 4.729-1965 - Crime de Sonegação Fiscal.pdf"
 paginas: 2
 artigos: 12
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Lei 4.729/1965 (sonegação fiscal) (L4729)

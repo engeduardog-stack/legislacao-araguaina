@@ -4,7 +4,7 @@ sigla: LCM127
 artigo: "7-O"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º - O valor total reservado no PLOA 2023 para as emendas

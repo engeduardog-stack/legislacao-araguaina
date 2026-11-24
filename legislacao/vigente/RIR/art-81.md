@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "81"
 paginas_pdf: "36-36"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 81. O montante determinado na forma estabelecida no art. 80 constituirá, se positivo, saldo do imposto sobre a

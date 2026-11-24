@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "24"
 paginas_pdf: "36-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24. As microempresas e as empresas de pequeno porte optantes pelo Simples Nacional não poderão

@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "12"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 12. O disposto na alínea a do inciso IV do art. 9º, observado o disposto nos seus §§ 1º e 2º, é extensivo às

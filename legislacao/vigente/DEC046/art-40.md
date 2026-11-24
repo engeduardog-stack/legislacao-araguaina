@@ -4,7 +4,7 @@ sigla: DEC046
 artigo: "40"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 40. O ISSQN devido em cada competência deverá ser

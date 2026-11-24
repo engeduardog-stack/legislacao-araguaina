@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "47"
 paginas_pdf: "25-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 47. O contribuinte sujeito ao regime regular poderá apropriar créditos do IBS e da CBS

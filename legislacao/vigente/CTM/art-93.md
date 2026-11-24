@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "93"
 paginas_pdf: "36-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 93. O termo de inscrição da Dívida Ativa, autenticado pela autoridade

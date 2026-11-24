@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "22"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 22. Na hipótese de impossibilidade de exigência do cumprimento da obrigação principal pelo contribuinte,

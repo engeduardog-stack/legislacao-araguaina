@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "185-A"
 paginas_pdf: "32-32"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 185-A. Na hipótese de o devedor tributário, devidamente citado, não pagar nem apresentar bens à penhora no

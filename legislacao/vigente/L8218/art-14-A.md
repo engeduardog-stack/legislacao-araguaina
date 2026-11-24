@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "14-A"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 14 - A tributação com base no lucro real somente será admitida para as pessoas jurídicas que mantiverem,

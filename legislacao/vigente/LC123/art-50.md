@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "50"
 paginas_pdf: "50-50"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 50. As microempresas e as empresas de pequeno porte serão estimuladas pelo poder público e pelos

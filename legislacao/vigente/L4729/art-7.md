@@ -4,7 +4,7 @@ sigla: L4729
 artigo: "7"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 7º As autoridades administrativas que tiverem conhecimento de crime previsto nesta Lei, inclusive em autos e papéis que

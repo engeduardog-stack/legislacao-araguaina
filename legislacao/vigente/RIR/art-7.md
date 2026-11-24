@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "7"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º Os cônjuges poderão optar pela tributação em conjunto de seus rendimentos, inclusive quando

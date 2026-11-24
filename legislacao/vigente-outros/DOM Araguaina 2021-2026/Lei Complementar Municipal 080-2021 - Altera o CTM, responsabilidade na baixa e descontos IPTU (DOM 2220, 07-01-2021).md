@@ -5,7 +5,7 @@ grupo: legislacao-vigente-dom
 origem: "LEGISLAÇÕES ATUALIZADAS\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\Lei Complementar Municipal 080-2021 - Altera o CTM, responsabilidade na baixa e descontos IPTU (DOM 2220, 07-01-2021).pdf"
 paginas: 6
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Lei Complementar Municipal 080-2021 - Altera o CTM, responsabilidade na baixa e descontos IPTU (DOM 2220, 07-01-2021)

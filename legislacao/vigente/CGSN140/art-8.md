@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "8"
 paginas_pdf: "12-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8º Para fins de identificação de atividade cuja natureza impede o ingresso no Simples

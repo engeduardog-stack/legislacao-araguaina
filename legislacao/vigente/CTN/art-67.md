@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "67"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 67. A receita líquida do impôsto destina-se à formação de reservas monetárias, na forma da lei.

@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "97-A"
 paginas_pdf: "69-70"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 97-A. A ME ou EPP que deixar de apresentar a Defis ou que a apresentar com incorreções

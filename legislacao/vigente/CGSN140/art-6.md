@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "6"
 paginas_pdf: "8-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 6º A opção pelo Simples Nacional deverá ser formalizada por meio do Portal do Simples

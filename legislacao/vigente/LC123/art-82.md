@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "82"
 paginas_pdf: "64-65"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 82. A Lei nº 8.213, de 24 de julho de 1991, passa a vigorar com as seguintes alterações:

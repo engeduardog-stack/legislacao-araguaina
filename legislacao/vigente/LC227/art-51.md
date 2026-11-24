@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "51"
 paginas_pdf: "19-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 51. Nos exercícios financeiros de 2026 a 2032, o percentual do produto da arrecadação do IBS destinado ao

@@ -4,7 +4,7 @@ sigla: CC
 artigo: "67"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 67. Para que se possa alterar o estatuto da fundação é mister que a reforma:

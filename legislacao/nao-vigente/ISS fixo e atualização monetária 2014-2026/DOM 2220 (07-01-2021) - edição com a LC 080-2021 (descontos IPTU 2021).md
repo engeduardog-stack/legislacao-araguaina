@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2021\DOM 2220 (07-01-2021) - edição com a LC 080-2021 (descontos IPTU 2021).pdf"
 paginas: 24
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # DOM 2220 (07-01-2021) - edição com a LC 080-2021 (descontos IPTU 2021)

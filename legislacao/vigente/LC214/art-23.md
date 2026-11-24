@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "23"
 paginas_pdf: "14-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 23. A plataforma digital, inclusive a domiciliada no exterior, deverá se inscrever no cadastro

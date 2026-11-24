@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "39"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 39 - Revogam-se as disposições em contrário, especialmente o art. 17 do Decreto-Lei nº 401, de 30 de

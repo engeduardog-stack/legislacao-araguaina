@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "14-O"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 14 - O custo das mercadorias revendidas e das matérias-primas utilizadas será determinado com base em

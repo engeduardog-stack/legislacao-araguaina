@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "220-A"
 paginas_pdf: "70-70"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 220-A. É assegurado ao contribuinte a liquidação antecipada do débito

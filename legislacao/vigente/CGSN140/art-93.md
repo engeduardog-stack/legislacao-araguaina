@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "93"
 paginas_pdf: "66-67"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 93. Constitui infração, para os fins desta Resolução, toda ação ou omissão, voluntária ou

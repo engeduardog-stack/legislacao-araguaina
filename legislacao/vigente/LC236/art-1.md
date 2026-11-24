@@ -4,7 +4,7 @@ sigla: LC236
 artigo: "1"
 paginas_pdf: "1-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 1º A Lei nº 5.172, de 25 de outubro de 1966 (Código Tributário Nacional), passa a vigorar com as seguintes

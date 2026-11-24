@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "74-A"
 paginas_pdf: "61-61"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 74-A. O Poder Judiciário, especialmente por meio do Conselho Nacional de Justiça - CNJ, e o Ministério

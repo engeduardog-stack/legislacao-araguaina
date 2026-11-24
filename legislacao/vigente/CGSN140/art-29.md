@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "29"
 paginas_pdf: "33-34"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 29. Os Estados e o Distrito Federal deverão observar o prazo mínimo de 60 (sessenta) dias,

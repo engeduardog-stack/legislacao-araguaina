@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "56"
 paginas_pdf: "24-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 56 - No exercício social que se iniciar no ano de 1978 serão observadas as seguintes normas com relação aos

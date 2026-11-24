@@ -4,7 +4,7 @@ sigla: LC236
 artigo: "208-G"
 paginas_pdf: "9-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-G. No âmbito do processo administrativo fiscal, têm efeito vinculante:

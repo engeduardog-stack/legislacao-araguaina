@@ -4,7 +4,7 @@ sigla: CC
 artigo: "39"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 39. Regressando o ausente nos dez anos seguintes à abertura da sucessão definitiva, ou algum de seus descendentes ou

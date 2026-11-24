@@ -4,7 +4,7 @@ sigla: LCM080
 artigo: "21"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21. Esta Lei Complementar entra em vigor na data de sua

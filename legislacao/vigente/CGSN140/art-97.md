@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "97"
 paginas_pdf: "69-69"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 97. A ME ou EPP que deixar de apresentar a DASN ou que a apresentar com incorreções ou

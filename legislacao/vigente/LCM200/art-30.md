@@ -4,7 +4,7 @@ sigla: LCM200
 artigo: "30"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 30. Nos casos em que a Lei for omissa, serão observados os princípios

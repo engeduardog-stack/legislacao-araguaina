@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "464-A"
 paginas_pdf: "207-207"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 464-A. Fica isento também o contribuinte e/ou membro do grupo familiar que

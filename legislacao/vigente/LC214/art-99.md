@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "99"
 paginas_pdf: "43-43"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 99. As importações ou as aquisições no mercado interno de máquinas, de aparelhos, de

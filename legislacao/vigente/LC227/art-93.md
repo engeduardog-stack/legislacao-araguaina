@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "93"
 paginas_pdf: "29-29"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 93. Compete à segunda instância do contencioso administrativo do IBS julgar os seguintes recursos contra decisão de

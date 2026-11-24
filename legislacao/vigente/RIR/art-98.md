@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "98"
 paginas_pdf: "41-41"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 98. A pessoa física poderá deduzir do imposto sobre a renda devido na declaração de ajuste anual, observado

@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "81"
 paginas_pdf: "32-33"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 81. Ao sujeito passivo é facultado consignar judicialmente a importância do

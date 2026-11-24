@@ -4,7 +4,7 @@ sigla: LC116
 artigo: "8-B"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8º-B. Em relação aos fatos geradores ocorridos de 1º de janeiro de 2029 a 31 de dezembro de 2032, as

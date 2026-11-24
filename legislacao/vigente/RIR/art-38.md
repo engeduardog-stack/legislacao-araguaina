@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "38"
 paginas_pdf: "18-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38. São tributáveis os rendimentos do trabalho não assalariado, tais como (Lei nº 5.172, de 1966 - Código

@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2026\Decreto 101-2025 - Atualização monetária 2026 (DOM 3424) (lembrar noventena).pdf"
 paginas: 13
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 101-2025 - Atualização monetária 2026 (DOM 3424) (lembrar noventena)

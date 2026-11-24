@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "66"
 paginas_pdf: "59-59"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 66. No primeiro trimestre do ano subseqüente, os órgãos e entidades a que alude o art. 67 desta Lei

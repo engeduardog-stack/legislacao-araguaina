@@ -4,7 +4,7 @@ sigla: ATM2026
 artigo: "2"
 paginas_pdf: "13-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2, §2° Lei Complementar 187/2024

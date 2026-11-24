@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "21-O"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21 - O limite de que trata o inciso I do art. 22 da Lei nº 7.713, de 22 de dezembro de 1988, com a redação

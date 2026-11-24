@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "70"
 paginas_pdf: "60-60"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 70. As microempresas e as empresas de pequeno porte são desobrigadas da realização de reuniões e

@@ -1,0 +1,12 @@
+---
+norma: Plano Diretor de Araguaína (LC 051/2017; texto do portal, projeto)
+sigla: PD051
+artigo: "41"
+paginas_pdf: "15-15"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-24
+---
+
+Art. 41. O parcelamento do solo urbano obedecerá ao disposto nesta Lei
+Complementar, na Lei de Uso e Ocupação do Solo Urbano e na Lei de Parcelamento do Solo
+Urbano do Município, respeitado o que dispõem a legislação federal e estadual pertinentes.

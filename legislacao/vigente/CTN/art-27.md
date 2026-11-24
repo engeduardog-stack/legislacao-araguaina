@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "27"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 27. Contribuinte do impôsto é o exportador ou quem a lei a êle equiparar.

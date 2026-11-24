@@ -4,7 +4,7 @@ sigla: DEC037
 artigo: "2"
 paginas_pdf: "35-36"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º - São atribuições do fiscal:

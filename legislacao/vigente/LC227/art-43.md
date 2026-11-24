@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "43"
 paginas_pdf: "17-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 43. O CGIBS elaborará e disponibilizará aos Estados, ao Distrito Federal, aos Municípios e à sociedade, em meio

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "89"
 paginas_pdf: "66-114"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 89. Ficam revogadas, a partir de 1o de julho de 2007, a Lei nº 9.317, de 5 de dezembro de 1996, e a Lei

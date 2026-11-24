@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "85-A"
 paginas_pdf: "65-66"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 85-A. Caberá ao Poder Público Municipal designar Agente de Desenvolvimento para a efetivação do

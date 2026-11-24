@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2015\ISS autônomo 2015 (escaneado).pdf"
 paginas: 8
 paginas_sem_texto: 8
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # ISS autônomo 2015 (escaneado)

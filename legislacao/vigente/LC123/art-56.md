@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "56"
 paginas_pdf: "52-53"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 56. As microempresas ou as empresas de pequeno porte poderão realizar negócios de compra e venda

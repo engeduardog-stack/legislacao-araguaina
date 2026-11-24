@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "88"
 paginas_pdf: "38-38"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 88. Para fins do disposto nesta Subseção, considera-se patrocínio a transferência definitiva e irreversível de

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "40-A"
 paginas_pdf: "18-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 40 - A correção monetária de que trata o item I do artigo 39 será procedida com base no aumento do valor

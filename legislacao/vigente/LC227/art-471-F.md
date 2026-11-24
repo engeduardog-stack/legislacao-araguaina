@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "471-F"
 paginas_pdf: "90-93"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 471-F. O prestador de serviço de pagamento ou a instituição operadora do sistema de

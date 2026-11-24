@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "41-O"
 paginas_pdf: "18-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 41 - O registro do ativo permanente da escrituração do contribuinte deve ser mantido com observância das

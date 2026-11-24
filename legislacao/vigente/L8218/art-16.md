@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "16"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 16 - Na apuração do ganho de capital na alienação de bens e direitos, efetuada a partir da vigência desta

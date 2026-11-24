@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "98-A"
 paginas_pdf: "68-68"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 98-A. O regulamento poderá prever hipóteses em que os regimes aduaneiros especiais de

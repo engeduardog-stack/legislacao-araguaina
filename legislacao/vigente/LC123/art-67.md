@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "67"
 paginas_pdf: "59-60"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 67. Os órgãos congêneres ao Ministério da Ciência e Tecnologia estaduais e municipais deverão elaborar

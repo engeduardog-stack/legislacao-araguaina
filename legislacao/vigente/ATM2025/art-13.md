@@ -4,7 +4,7 @@ sigla: ATM2025
 artigo: "13"
 paginas_pdf: "42-42"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 13. A SMS realizará, semestralmente ou quando houver necessidade,

@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "18"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18. As pessoas que, no curso de um ano-calendário, passarem à condição de residente no País e, nesse

@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "36"
 paginas_pdf: "14-14"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 36. A pessoa jurídica de direito privado que resultar de fusão, cisão,

@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "92"
 paginas_pdf: "15-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 92.   O Tribunal de Contas da União comunicará ao Banco do Brasil S.A., conforme os prazos a seguir

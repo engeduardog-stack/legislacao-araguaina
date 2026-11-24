@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "20"
 paginas_pdf: "9-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 20. O relacionamento cooperativo a que se refere o art. 19 desta Lei Complementar terá como princípios:

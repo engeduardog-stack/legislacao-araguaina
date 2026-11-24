@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "42"
 paginas_pdf: "41-41"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 42. O DAS será gerado exclusivamente: (Lei Complementar nº 123, de 2006, art. 21, inciso

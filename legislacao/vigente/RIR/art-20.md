@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "20"
 paginas_pdf: "6-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 20. Ficam isentos do imposto sobre a renda os rendimentos do trabalho percebidos por (Lei nº 4.506, de 1964,

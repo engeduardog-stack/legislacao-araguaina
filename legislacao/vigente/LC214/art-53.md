@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "53"
 paginas_pdf: "26-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 53. Os créditos do IBS e da CBS apropriados em cada período de apuração poderão ser

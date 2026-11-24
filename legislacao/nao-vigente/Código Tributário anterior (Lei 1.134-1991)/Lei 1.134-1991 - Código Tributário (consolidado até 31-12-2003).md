@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "Código Tributário anterior (Lei 1.134-1991)\Lei 1.134-1991 - Código Tributário (consolidado até 31-12-2003).pdf"
 paginas: 138
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Lei 1.134-1991 - Código Tributário (consolidado até 31-12-2003)

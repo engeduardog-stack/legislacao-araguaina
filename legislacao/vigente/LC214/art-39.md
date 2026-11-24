@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "39"
 paginas_pdf: "21-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 39. O contribuinte do IBS e da CBS que apurar saldo a recuperar na forma do art. 45 ao final

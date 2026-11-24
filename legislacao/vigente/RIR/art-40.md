@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "40"
 paginas_pdf: "19-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 40. São tributáveis dez por cento do rendimento bruto percebido por garimpeiros na venda a empresas

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "49"
 paginas_pdf: "21-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 49 - Na baixa de bens do ativo imobilizado e dos respectivos encargos serão observadas as seguintes normas:

@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "90"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 90. Compete à Secretaria da Receita Federal do Brasil do Ministério da Fazenda, no âmbito de suas

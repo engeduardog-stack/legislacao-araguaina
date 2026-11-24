@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "25"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. Os rendimentos e os bens de menores somente responderão pela parcela do imposto sobre a renda

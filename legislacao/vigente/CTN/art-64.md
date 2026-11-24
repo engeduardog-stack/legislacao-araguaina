@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "64"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 64. A base de cálculo do impôsto é:

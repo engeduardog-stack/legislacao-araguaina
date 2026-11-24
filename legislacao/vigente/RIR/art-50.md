@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "50"
 paginas_pdf: "23-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 50. São tributáveis os resultados positivos provenientes da atividade rural exercida pelas pessoas físicas,

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "83"
 paginas_pdf: "65-65"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 83. O art. 94 da Lei nº 8.213, de 24 de julho de 1991, fica acrescido do seguinte § 2o, passando o

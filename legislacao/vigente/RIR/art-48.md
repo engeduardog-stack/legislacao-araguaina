@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "48"
 paginas_pdf: "23-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 48. Os rendimentos recebidos acumuladamente e submetidos à incidência do imposto sobre a renda com base

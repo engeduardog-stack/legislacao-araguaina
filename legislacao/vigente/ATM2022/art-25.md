@@ -4,7 +4,7 @@ sigla: ATM2022
 artigo: "25"
 paginas_pdf: "21-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. Os Prestadores de Serviços estabelecidos no Município, para a emissão da NFS-e, deverão solicitar seu cadastramento no Cadastro

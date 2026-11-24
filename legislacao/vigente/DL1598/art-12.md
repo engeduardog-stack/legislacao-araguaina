@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "12"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 12.  A receita bruta compreende:      (Redação dada pela Lei nº 12.973, de 2014)     (Vigência)

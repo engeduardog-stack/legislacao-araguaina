@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Resolução CGSN 140-2018 - Simples Nacional.pdf"
 paginas: 107
 artigos: 190
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Resolução CGSN 140/2018 (PDF da pasta; para redação por data use: lei.py cgsn 140 ...) (CGSN140)

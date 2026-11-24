@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "55"
 paginas_pdf: "20-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 55. No processo administrativo tributário, serão observados os seguintes princípios:

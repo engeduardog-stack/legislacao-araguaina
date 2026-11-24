@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "55"
 paginas_pdf: "51-51"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 55. A fiscalização, no que se refere aos aspectos trabalhista, metrológico, sanitário, ambiental, de

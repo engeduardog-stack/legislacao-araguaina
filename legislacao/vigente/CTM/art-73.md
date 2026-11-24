@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "73"
 paginas_pdf: "31-31"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 73. É vedada a compensação mediante o aproveitamento de tributo, objeto

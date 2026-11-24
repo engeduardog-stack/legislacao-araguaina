@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "54"
 paginas_pdf: "23-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 54 -  (Revogado pelo Decreto-Lei nº 2.287, de 1986)

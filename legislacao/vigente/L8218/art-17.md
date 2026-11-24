@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "17"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17 - Na apuração dos ganhos líquidos de que trata o art. 18, inciso II, da Lei nº 8.134, de 27 de dezembro de

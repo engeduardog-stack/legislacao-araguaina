@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "7"
 paginas_pdf: "11-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 7º A ME ou a EPP poderá agendar a formalização da opção de que trata o § 1º do art. 6º,

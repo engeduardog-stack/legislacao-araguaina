@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "20"
 paginas_pdf: "10-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 20. Compete à Assessoria de Relações Institucionais e Interfederativas:

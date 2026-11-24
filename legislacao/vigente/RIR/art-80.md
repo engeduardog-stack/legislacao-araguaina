@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "80"
 paginas_pdf: "35-36"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 80. Do imposto sobre a renda apurado na forma estabelecida no art. 79 , poderão ser deduzidos ( Lei nº 9.250,

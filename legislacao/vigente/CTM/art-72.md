@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "72"
 paginas_pdf: "30-31"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 72. Fica autorizada a compensação de créditos tributários líquidos, certos e

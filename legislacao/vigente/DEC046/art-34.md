@@ -4,7 +4,7 @@ sigla: DEC046
 artigo: "34"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 34. No caso de emissão de Nota Fiscal de Serviço autorizada

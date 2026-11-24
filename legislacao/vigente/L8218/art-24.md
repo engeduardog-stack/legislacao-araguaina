@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "24"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24 - Os limites de receita bruta anual para as microempresas (Lei nº 7.256, de 27 de novembro de 1984) e

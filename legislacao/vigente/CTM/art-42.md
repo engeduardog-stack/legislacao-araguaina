@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "42"
 paginas_pdf: "16-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 42. A responsabilidade é pessoal do agente:

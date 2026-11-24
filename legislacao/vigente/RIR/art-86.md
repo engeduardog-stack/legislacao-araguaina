@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "86"
 paginas_pdf: "37-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 86. Os projetos de que tratam os art. 84 e art. 85 serão previamente aprovados pelo Ministério da Cultura ou

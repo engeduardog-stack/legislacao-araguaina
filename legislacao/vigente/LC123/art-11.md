@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "11"
 paginas_pdf: "10-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 11. Fica vedada a instituição de qualquer tipo de exigência de natureza documental ou formal, restritiva ou

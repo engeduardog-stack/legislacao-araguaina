@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei Complementar Municipal 187-2024 - Isenções Tributárias (IPTU, ISSQN e Taxas).pdf"
 paginas: 7
 artigos: 18
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # LCM 187/2024 (isenções) (LCM187)

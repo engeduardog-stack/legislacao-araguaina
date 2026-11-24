@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "96"
 paginas_pdf: "29-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 96. A instância de uniformização da jurisprudência relativa à legislação específica do IBS será composta, em meio virtual,

@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\2026\DECRETO 101 DE 29 DE DEZEMBRO DE 2025 (ATUALIZAÇÃO MONETARIA).pdf"
 paginas: 13
 artigos: 7
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 101/2025 (atualização monetária, exercício 2026) (ATM2026)

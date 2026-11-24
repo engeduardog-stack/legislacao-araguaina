@@ -4,7 +4,7 @@ sigla: DEC102
 artigo: "9"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 9º O servidor que divulgar, revelar ou facilitar a divulgação ou revelação

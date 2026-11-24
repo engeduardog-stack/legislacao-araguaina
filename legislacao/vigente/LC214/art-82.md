@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "82"
 paginas_pdf: "37-38"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 82. Poderá ser suspenso o pagamento do IBS e da CBS no fornecimento de bens materiais

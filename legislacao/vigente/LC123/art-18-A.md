@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "18-A"
 paginas_pdf: "26-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18-A. O Microempreendedor Individual - MEI poderá optar pelo recolhimento dos impostos e contribuições

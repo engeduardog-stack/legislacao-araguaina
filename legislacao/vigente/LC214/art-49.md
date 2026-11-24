@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "49"
 paginas_pdf: "26-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 49. As operações imunes, isentas ou sujeitas a alíquota zero, a diferimento ou a suspensão

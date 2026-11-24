@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "71"
 paginas_pdf: "60-60"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 71. Os empresários e as sociedades de que trata esta Lei Complementar, nos termos da legislação civil,

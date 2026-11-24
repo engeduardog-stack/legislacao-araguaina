@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "37"
 paginas_pdf: "36-36"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 37. A ME ou a EPP optante pelo Simples Nacional não poderá utilizar ou destinar qualquer

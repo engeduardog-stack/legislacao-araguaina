@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "67"
 paginas_pdf: "28-29"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 67 - Este Decreto-lei entrará em vigor na data da sua publicação e a legislação do imposto sobre a renda das

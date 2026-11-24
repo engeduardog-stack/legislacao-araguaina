@@ -4,7 +4,7 @@ sigla: LCM236
 artigo: "61"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61. Ficam revogados os incisos XXII e XXVI do artigo 4º e as alíneas “c”,

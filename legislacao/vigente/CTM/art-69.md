@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "69"
 paginas_pdf: "29-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 69. As formas e os prazos para o pagamento dos tributos de competência do

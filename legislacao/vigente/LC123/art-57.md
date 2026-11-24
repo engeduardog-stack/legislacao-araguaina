@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "57"
 paginas_pdf: "53-53"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 57. O Poder Executivo federal proporá, sempre que necessário, medidas no sentido de melhorar o acesso

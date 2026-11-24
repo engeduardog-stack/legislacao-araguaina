@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "22-A"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 22 - A despesa operacional relativa às gratificações pagas aos empregados, seja qual for a designação que

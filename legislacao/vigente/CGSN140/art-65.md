@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "65"
 paginas_pdf: "51-52"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 65. Os Estados, o Distrito Federal e os Municípios poderão exigir a escrituração fiscal digital

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "89"
 paginas_pdf: "27-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 89. O contencioso administrativo será estruturado, no âmbito das competências do CGIBS, nas seguintes instâncias:

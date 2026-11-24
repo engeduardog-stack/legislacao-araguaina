@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "323-H"
 paginas_pdf: "77-77"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 323-H. É cabível a proposição de incidente de uniformização perante a Câmara Nacional de

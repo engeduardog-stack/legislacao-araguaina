@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "1"
 paginas_pdf: "1-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 1º Esta Lei Complementar estabelece normas gerais relativas ao tratamento diferenciado e favorecido a

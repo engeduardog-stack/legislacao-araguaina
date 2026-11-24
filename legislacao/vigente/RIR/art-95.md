@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "95"
 paginas_pdf: "40-40"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 95. O contribuinte que optar pelo uso do incentivo previsto nos art. 93 e art. 94 depositará, no prazo legal

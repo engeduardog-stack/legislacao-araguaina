@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "45"
 paginas_pdf: "23-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 45. Para cada período de apuração, o contribuinte deverá apurar, separadamente, o saldo

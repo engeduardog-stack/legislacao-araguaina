@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "22"
 paginas_pdf: "9-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 22. Obrigação tributária principal é a que surge com a ocorrência do fato

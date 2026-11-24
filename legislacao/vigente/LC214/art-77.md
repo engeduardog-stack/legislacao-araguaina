@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "77"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 77. As diferenças percentuais de bens a granel que, por sua natureza ou condições de

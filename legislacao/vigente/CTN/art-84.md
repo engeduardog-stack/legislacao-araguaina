@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "84"
 paginas_pdf: "12-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 84. A lei federal pode cometer aos Estados, ao Distrito Federal ou aos Municípios o encargo de arrecadar os

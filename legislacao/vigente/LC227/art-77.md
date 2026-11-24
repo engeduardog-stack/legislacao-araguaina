@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "77"
 paginas_pdf: "25-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 77. O órgão julgador de primeira instância administrativa recorrerá de ofício à segunda instância sempre que a decisão

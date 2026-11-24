@@ -5,7 +5,7 @@ grupo: legislacao-vigente-outros
 origem: "LEGISLAÇÕES ATUALIZADAS\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\2023\Decreto Municipal 166-2022 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2023).pdf"
 paginas: 12
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto Municipal 166-2022 - Atualização monetária do ISSQN, taxas e penalidades (exercício 2023)

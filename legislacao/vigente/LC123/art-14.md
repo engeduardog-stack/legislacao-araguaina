@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "14"
 paginas_pdf: "13-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 14. Consideram-se isentos do imposto de renda, na fonte e na declaração de ajuste do beneficiário, os

@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "87"
 paginas_pdf: "64-64"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 87. Verificada infração à legislação tributária por ME ou EPP optante pelo Simples Nacional,

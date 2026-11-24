@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "61"
 paginas_pdf: "29-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61. O Comitê Gestor do IBS e a RFB poderão instituir programas de incentivo à cidadania

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "61-H"
 paginas_pdf: "56-56"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61-H. É autorizada a constituição de sociedade de contragarantia, que tem como finalidade o

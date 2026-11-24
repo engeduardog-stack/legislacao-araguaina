@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "61-A"
 paginas_pdf: "54-55"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61-A. Para incentivar as atividades de inovação e os investimentos produtivos, a sociedade enquadrada

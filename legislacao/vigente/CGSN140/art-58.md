@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "58"
 paginas_pdf: "46-47"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 58. A ME ou EPP optante pelo Simples Nacional não fará jus à apropriação nem transferirá

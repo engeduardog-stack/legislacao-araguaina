@@ -4,7 +4,7 @@ sigla: LCM217
 artigo: "6"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 6º A administração tributária municipal tem o dever de:

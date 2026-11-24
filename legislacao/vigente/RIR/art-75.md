@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "75"
 paginas_pdf: "33-34"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 75. Na determinação da base de cálculo do imposto sobre a renda devido na declaração de ajuste anual

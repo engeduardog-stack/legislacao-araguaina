@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "141-F"
 paginas_pdf: "97-98"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 141-F. O Ministro de Estado da Economia ou os Secretários competentes para a

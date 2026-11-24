@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "25"
 paginas_pdf: "24-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. O valor devido mensalmente pela ME ou EPP optante pelo Simples Nacional será

@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "208-B"
 paginas_pdf: "37-38"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-B. O auto de infração será lavrado com base nos elementos de prova disponíveis e conterá

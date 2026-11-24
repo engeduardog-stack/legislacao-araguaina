@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Decreto-Lei 1.598-1977 - Legislação do Imposto de Renda (omissão de receita).pdf"
 paginas: 29
 artigos: 70
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto-Lei 1.598/1977 (omissão de receita) (DL1598)

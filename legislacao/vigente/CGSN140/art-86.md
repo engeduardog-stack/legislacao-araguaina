@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "86"
 paginas_pdf: "63-64"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 86. As ações fiscais serão registradas no Sistema Único de Fiscalização, Lançamento e

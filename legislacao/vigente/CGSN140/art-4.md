@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "4"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 4º A opção pelo Simples Nacional implica o recolhimento mensal, mediante documento único

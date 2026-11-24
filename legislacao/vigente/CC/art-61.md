@@ -4,7 +4,7 @@ sigla: CC
 artigo: "61"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61. Dissolvida a associação, o remanescente do seu patrimônio líquido, depois de deduzidas, se for o caso, as quotas ou

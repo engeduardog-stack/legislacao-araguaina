@@ -4,7 +4,7 @@ sigla: LCM245
 artigo: "17"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17. O sujeito passivo que aderir ao REFIS instituído por esta Lei

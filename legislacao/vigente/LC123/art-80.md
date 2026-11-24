@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "80"
 paginas_pdf: "63-64"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 80. O art. 21 da Lei nº 8.212, de 24 de julho de 1991, fica acrescido dos seguintes §§ 2o e 3o, passando o

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "22"
 paginas_pdf: "11-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 22.  O valor do investimento na data do balanço, conforme o disposto no inciso I do caput do art. 20, deverá ser

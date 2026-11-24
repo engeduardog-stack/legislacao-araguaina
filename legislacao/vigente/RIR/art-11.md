@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "11"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 11. Homologada a partilha, a sobrepartilha, feita a adjudicação dos bens ou registrada em cartório a escritura

@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "LEI COMPLEMENTAR Nº 236, DE 4 DE SETEMBRO DE 2026 - alteração CTN.pdf"
 paginas: 11
 artigos: 13
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # LC 236/2026 (alteração do CTN) (LC236)

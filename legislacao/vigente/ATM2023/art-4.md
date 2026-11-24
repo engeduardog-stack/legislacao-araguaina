@@ -4,7 +4,7 @@ sigla: ATM2023
 artigo: "4"
 paginas_pdf: "1-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 4º Este Decreto entra em vigor na data de sua publicação,

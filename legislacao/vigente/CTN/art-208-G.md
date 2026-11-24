@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "208-G"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-G. No âmbito do processo administrativo fiscal, têm efeito vinculante:    (Incluído pela Lei Complementar

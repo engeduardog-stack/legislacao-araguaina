@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "144-A"
 paginas_pdf: "101-101"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 144-A. A emissão da NFS-e por parte do MEI poderá ocorrer em data anterior à entrada em

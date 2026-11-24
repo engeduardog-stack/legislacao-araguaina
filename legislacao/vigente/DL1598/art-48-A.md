@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "48-A"
 paginas_pdf: "20-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 48 - A correção das contas terá por objeto, separadamente, o saldo da abertura do exercício da correção e os

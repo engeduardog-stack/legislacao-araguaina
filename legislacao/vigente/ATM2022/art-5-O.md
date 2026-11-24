@@ -4,7 +4,7 @@ sigla: ATM2022
 artigo: "5-O"
 paginas_pdf: "18-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º - O valor definitivo do abono, a ser pago a cada profissional

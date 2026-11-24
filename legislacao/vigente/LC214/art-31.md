@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "31"
 paginas_pdf: "18-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 31. Nas transações de pagamento relativas a operações com bens ou com serviços, os

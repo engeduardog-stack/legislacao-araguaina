@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "38"
 paginas_pdf: "21-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38. Em caso de pagamento indevido ou a maior, a restituição do IBS e da CBS somente será

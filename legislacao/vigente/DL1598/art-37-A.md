@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "37-A"
 paginas_pdf: "16-16"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 37 - A contrapartida do aumento do valor de bens do ativo em virtude de reavaliação na fusão, incorporação ou

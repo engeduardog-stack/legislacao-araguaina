@@ -1,0 +1,33 @@
+---
+norma: Lei 9.430/1996 (legislação tributária federal; CNPJ suspenso, inapto e baixado, arts. 80 a 82)
+sigla: L9430
+artigo: "25"
+paginas_pdf: "9-9"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-24
+---
+
+Art. 25. O lucro presumido será o montante determinado pela soma das seguintes parcelas:
+I - o valor resultante da aplicação dos percentuais de que trata o art. 15 da Lei nº 9.249, de 26 de dezembro de 1995,
+sobre a receita bruta definida pela art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, auferida no período de
+apuração de que trata o art. 1o, deduzida das devoluções e vendas canceladas e dos descontos incondicionais concedidos;
+e                             (Redação dada pela Lei nº 12.973, de 2014)     (Vigência)
+II - os ganhos de capital, os rendimentos e ganhos líquidos auferidos em aplicações financeiras, as demais receitas, os
+resultados positivos decorrentes de receitas não abrangidas pela inciso I, com os respectivos valores decorrentes do ajuste a
+valor presente de que trata o inciso VIII do caput do art. 183 da Lei no 6.404, de 15 de dezembro de 1976, e demais valores
+determinados nesta Lei, auferidos naquele mesmo período.                       (Redação dada pela Lei nº 12.973, de 2014)
+(Vigência)
+§ 1o   O ganho de capital nas alienações de investimentos, imobilizados e intangíveis corresponderá à diferença
+positiva entre o valor da alienação e o respectivo valor contábil.                           (Incluído pela Lei nº 12.973, de 2014)
+(Vigência)
+§ 2o  Para fins do disposto no § 1o, poderão ser considerados no valor contábil, e na proporção deste, os respectivos
+valores decorrentes dos efeitos do ajuste a valor presente de que trata o inciso III do caput do art. 184 da Lei nº 6.404, de 15
+de dezembro de 1976.                              (Incluído pela Lei nº 12.973, de 2014)     (Vigência)
+§ 3o  Os ganhos decorrentes de avaliação de ativo ou passivo com base no valor justo não integrarão a base de
+cálculo do imposto, no momento em que forem apurados.                        (Incluído pela Lei nº 12.973, de 2014)     (Vigência)
+§ 4o  Para fins do disposto no inciso II do caput, os ganhos e perdas decorrentes de avaliação do ativo com base em
+valor justo não serão considerados como parte integrante do valor contábil.                          (Incluído pela Lei nº 12.973, de
+2014)     (Vigência)
+§ 5o  O disposto no § 4o não se aplica aos ganhos que tenham sido anteriormente computados na base de cálculo do
+imposto.                            (Incluído pela Lei nº 12.973, de 2014)     (Vigência)
+Opção

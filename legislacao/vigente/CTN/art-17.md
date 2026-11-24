@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "17"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17. Os impostos componentes do sistema tributário nacional são exclusivamente os que constam dêste Título,

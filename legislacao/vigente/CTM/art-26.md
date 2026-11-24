@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "26"
 paginas_pdf: "10-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 26. Sujeito passivo da obrigação tributária principal é a pessoa física ou

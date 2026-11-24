@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "323-M"
 paginas_pdf: "78-79"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 323-M. Ato conjunto do CGIBS e do Ministro de Estado da Fazenda regulamentará o disposto

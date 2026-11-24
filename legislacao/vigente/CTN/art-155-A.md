@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "155-A"
 paginas_pdf: "27-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 155-A. O parcelamento será concedido na forma e condição estabelecidas em lei específica. (Incluído pela Lcp

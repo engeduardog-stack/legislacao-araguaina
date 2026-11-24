@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "9"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 9º - Os cruzados novos depositados no Banco Central do Brasil, de acordo com o disposto no art. 9º da Lei

@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "28"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 28. Fica acrescido o §4º ao Art. 321 da Lei Complementar Municipal nº

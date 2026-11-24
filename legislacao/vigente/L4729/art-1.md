@@ -4,7 +4,7 @@ sigla: L4729
 artigo: "1"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 1º Constitui crime de sonegação fiscal:            (Vide Decreto-Lei nº 1.060, de 1969)

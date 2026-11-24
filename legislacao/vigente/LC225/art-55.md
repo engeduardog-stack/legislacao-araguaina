@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "55"
 paginas_pdf: "22-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 55. O art. 6º da Lei nº 12.865, de 9 de outubro de 2013, passa a vigorar acrescido do seguinte § 6º:

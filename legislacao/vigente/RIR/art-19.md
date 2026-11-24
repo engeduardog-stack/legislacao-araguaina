@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "19"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 19. A Secretaria da Receita Federal do Brasil do Ministério da Fazenda editará as normas quanto às

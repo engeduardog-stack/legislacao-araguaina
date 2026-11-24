@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "23"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 23. Fato gerador da obrigação tributária principal é a situação definida em

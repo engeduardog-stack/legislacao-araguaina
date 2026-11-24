@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "58"
 paginas_pdf: "53-53"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 58. Os bancos comerciais públicos e os bancos múltiplos públicos com carteira comercial, a Caixa

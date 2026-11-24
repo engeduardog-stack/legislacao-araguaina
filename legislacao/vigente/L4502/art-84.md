@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "84"
 paginas_pdf: "22-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 84. Os que praticarem infração a dispositivo desta Lei ou de seu Regulamento, para a qual não seja prevista pena

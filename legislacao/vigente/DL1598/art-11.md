@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "11"
 paginas_pdf: "5-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 11 - Será classificado como lucro operacional o resultado das atividades, principais ou acessórias, que

@@ -4,7 +4,7 @@ sigla: CC
 artigo: "81"
 paginas_pdf: "9-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 81. Não perdem o caráter de imóveis:

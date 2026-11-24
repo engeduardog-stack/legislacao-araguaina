@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "67"
 paginas_pdf: "32-33"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 67. Para efeitos de cálculo do IBS e da CBS, considera-se ocorrido o fato gerador do IBS e da

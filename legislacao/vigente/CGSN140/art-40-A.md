@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "40-A"
 paginas_pdf: "39-41"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 40-A. A data de vencimento dos tributos a que se refere o art. 40, devidos pelos sujeitos

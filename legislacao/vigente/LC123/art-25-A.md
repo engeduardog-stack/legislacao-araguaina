@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "25-A"
 paginas_pdf: "37-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25-A. Os dados dos documentos fiscais e declarações de qualquer espécie serão compartilhados entre as

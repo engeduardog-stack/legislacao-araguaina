@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\Decreto Municipal 219-2023 - Declaração eletrônica DES-IF instituições financeiras ISSQN (DOM 2889, 11-10-2023).pdf"
 paginas: 5
 artigos: 23
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 219/2023 (DES-IF, ISSQN de instituições financeiras) (DEC219)

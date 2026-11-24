@@ -4,7 +4,7 @@ sigla: LCM127
 artigo: "20"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 20 - No período entre 19 de abril de 2023 a 30 de abril de

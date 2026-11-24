@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "NÃO VIGENTES\DOM ARAGUAÍNA 2021-2026\Decreto Municipal 185-2026 - REFIS primeiro período de adesão (DOM 3616, 20-10-2026).pdf"
 paginas: 5
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto Municipal 185-2026 - REFIS primeiro período de adesão (DOM 3616, 20-10-2026)

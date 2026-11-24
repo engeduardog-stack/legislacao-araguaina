@@ -4,7 +4,7 @@ sigla: CC
 artigo: "57"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 57. A exclusão do associado só é admissível havendo justa causa, assim reconhecida em procedimento que assegure

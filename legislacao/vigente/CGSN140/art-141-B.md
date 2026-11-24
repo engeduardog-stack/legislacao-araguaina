@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "141-B"
 paginas_pdf: "95-95"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 141-B. São modalidades de transação as realizadas por: (Lei Complementar nº 123, de

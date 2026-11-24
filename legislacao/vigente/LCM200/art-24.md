@@ -4,7 +4,7 @@ sigla: LCM200
 artigo: "24"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24. A transação não aproveita nem prejudica senão aos que nela

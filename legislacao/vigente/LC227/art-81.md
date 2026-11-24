@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "81"
 paginas_pdf: "26-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 81. É cabível a proposição de incidente de uniformização perante a Câmara Superior do IBS em relação à legislação

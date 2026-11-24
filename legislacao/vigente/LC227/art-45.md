@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "45"
 paginas_pdf: "17-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 45. As receitas e as despesas orçamentárias do CGIBS constarão de demonstrativos próprios sujeitos à aprovação do

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "35-A"
 paginas_pdf: "16-16"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 35 - A contrapartida do aumento de valor de bens do ativo permanente, em virtude de nova avaliação baseada

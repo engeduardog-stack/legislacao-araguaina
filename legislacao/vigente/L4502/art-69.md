@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "69"
 paginas_pdf: "18-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 69. A majoração da pena obedecerá aos seguintes critérios:              (Redação dada pelo Decreto-Lei nº 34, de 1966)

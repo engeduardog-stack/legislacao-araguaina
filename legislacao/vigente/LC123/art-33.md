@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "33"
 paginas_pdf: "42-43"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 33. A competência para fiscalizar o cumprimento das obrigações principais e acessórias relativas ao

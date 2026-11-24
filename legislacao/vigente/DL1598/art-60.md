@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "60"
 paginas_pdf: "25-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 60 - Presume-se distribuição disfarçada de lucros no negócio pelo qual a pessoa jurídica:

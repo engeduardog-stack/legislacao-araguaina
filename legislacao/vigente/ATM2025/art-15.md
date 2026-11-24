@@ -4,7 +4,7 @@ sigla: ATM2025
 artigo: "15"
 paginas_pdf: "42-43"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 15. Compete à IE:

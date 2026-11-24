@@ -4,7 +4,7 @@ sigla: IN001
 artigo: "2-A"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º - A contribuição mensal de recolhimento para fins de

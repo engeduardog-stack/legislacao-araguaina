@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "27"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 27. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional poderão,

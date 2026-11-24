@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "54"
 paginas_pdf: "22-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 54. O art. 69 da Lei nº 11.941, de 27 de maio de 2009, passa a vigorar com a seguinte redação:

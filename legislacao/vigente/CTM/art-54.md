@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "54"
 paginas_pdf: "23-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 54. Com a finalidade de obter elementos que lhe permitam verificar a

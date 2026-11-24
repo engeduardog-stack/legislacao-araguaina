@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "77"
 paginas_pdf: "34-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 77. Independentemente do montante dos rendimentos tributáveis na declaração de ajuste anual, recebidos no

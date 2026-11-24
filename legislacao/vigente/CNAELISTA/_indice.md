@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Tabela - CNAE x Atividade x Item da Lista de Serviços.pdf"
 paginas: 13
 artigos: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Tabela CNAE x item da Lista de Serviços (CNAELISTA)

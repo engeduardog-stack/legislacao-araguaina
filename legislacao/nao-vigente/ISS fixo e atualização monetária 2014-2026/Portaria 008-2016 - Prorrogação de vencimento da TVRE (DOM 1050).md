@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2016\Portaria 008-2016 - Prorrogação de vencimento da TVRE (DOM 1050).pdf"
 paginas: 10
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Portaria 008-2016 - Prorrogação de vencimento da TVRE (DOM 1050)

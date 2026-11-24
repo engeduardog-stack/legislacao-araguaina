@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Tabela - Alíquotas do ISSQN de Araguaína (aplicação em processos fiscais c-c CTM compilado).pdf"
 paginas: 17
 artigos: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Tabela de alíquotas do ISSQN de Araguaína (ALIQ)

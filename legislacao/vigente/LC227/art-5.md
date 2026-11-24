@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "5"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º Compete ao CGIBS coordenar, com vistas à integração entre os entes federativos, as atividades de cobrança e de

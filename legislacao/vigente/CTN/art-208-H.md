@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "208-H"
 paginas_pdf: "39-40"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-H. A administração deverá anular seus próprios atos quando eivados de vício de legalidade.   (Incluído

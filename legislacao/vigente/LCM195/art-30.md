@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "30"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 30. O inciso I, e as alíneas “a”, “c”, “d”, “e” e “g” do Art. 361 da Lei

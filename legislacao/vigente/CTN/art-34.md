@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "34"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 34. Contribuinte do impôsto é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor a

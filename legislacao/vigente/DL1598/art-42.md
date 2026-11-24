@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "42"
 paginas_pdf: "18-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 42 - As pessoas jurídicas de que trata o § 2º do artigo 40 e as que optarem pela correção monetária nos termos

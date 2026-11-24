@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "37"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 37. O disposto no artigo anterior não se aplica quando a pessoa jurídica adquirente tenha como atividade

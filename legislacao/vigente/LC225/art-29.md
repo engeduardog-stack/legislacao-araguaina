@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "29"
 paginas_pdf: "13-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 29. A RFB disciplinará, em relação ao Confia:     Vigência

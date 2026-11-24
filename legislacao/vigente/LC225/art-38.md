@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "38"
 paginas_pdf: "16-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38. O pagamento diferido a que se refere o inciso III do § 1º do art. 37 desta Lei Complementar abrange os

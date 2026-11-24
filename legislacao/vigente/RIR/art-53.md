@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "53"
 paginas_pdf: "24-25"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 53. O resultado da exploração da atividade rural será apurado mediante escrituração do livro-caixa, que

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "28"
 paginas_pdf: "14-14"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 28 - Se a venda for contratada antes de completado o empreendimento, o contribuinte poderá computar no custo

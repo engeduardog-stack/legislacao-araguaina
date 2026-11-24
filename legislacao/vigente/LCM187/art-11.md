@@ -4,7 +4,7 @@ sigla: LCM187
 artigo: "11"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 11. Ficam isentas do Imposto Sobre Serviços de Qualquer Natureza (ISSQN) as

@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "392-A"
 paginas_pdf: "192-192"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 392-A. Os Taxistas e Mototaxistas ficam dispensados do pagamento das

@@ -4,7 +4,7 @@ sigla: DEC046
 artigo: "44"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 44. Ocorrendo a substituição ou o cancelamento da NFS-e na

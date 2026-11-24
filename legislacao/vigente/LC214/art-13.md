@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "13"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 13 . O valor da operação será arbitrado pela administração tributária quando:

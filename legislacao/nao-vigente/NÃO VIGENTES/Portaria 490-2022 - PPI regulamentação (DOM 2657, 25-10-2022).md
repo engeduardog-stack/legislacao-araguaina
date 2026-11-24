@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "NÃO VIGENTES\DOM ARAGUAÍNA 2021-2026\Portaria 490-2022 - PPI regulamentação (DOM 2657, 25-10-2022).pdf"
 paginas: 3
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Portaria 490-2022 - PPI regulamentação (DOM 2657, 25-10-2022)

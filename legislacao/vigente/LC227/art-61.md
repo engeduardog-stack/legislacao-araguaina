@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "61"
 paginas_pdf: "21-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61. A errônea denominação dada à defesa ou ao recurso não prejudicará a parte interessada, desde que observados os

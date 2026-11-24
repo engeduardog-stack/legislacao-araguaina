@@ -4,7 +4,7 @@ sigla: CC
 artigo: "33"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 33. O descendente, ascendente ou cônjuge que for sucessor provisório do ausente, fará seus todos os frutos e rendimentos

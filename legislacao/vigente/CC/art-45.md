@@ -4,7 +4,7 @@ sigla: CC
 artigo: "45"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 45. Começa a existência legal das pessoas jurídicas de direito privado com a inscrição do ato constitutivo no respectivo

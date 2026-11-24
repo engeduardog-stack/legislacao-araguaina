@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2020\Decreto 183-2019 - Atualização monetária 2020 (DOM 1966).pdf"
 paginas: 23
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 183-2019 - Atualização monetária 2020 (DOM 1966)

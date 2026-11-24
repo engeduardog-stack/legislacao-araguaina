@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "7"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º - Para fins de inscrição como Dívida Ativa da União, o débito será atualizado pela BTN Fiscal, desde a

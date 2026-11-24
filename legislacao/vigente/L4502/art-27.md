@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "27"
 paginas_pdf: "9-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 27. Quando ocorrer saldo credor de impôsto num mês, será êle transportado para o mês seguinte, sem prejuízo da obrigação

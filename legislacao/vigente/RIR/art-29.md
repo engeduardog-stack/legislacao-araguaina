@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "29"
 paginas_pdf: "8-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 29. A transferência do domicílio fiscal da pessoa física residente e domiciliada no País para país ou

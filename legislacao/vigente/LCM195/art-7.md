@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "7"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º O §3º do Art. 85 da Lei Complementar Municipal nº 058, de 30 de

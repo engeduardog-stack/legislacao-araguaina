@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "43"
 paginas_pdf: "20-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 43. Será obrigatória a emissão de recibo ou de documento equivalente pelo locador ou pelo administrador do

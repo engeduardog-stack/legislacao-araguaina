@@ -4,7 +4,7 @@ sigla: CC
 artigo: "853-A"
 paginas_pdf: "60-60"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 853-A. Qualquer garantia poderá ser constituída, levada a registro, gerida e ter a sua execução

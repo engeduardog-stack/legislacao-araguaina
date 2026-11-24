@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "74"
 paginas_pdf: "54-54"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 74. A ME ou a EPP optante pelo Simples Nacional fica obrigada à entrega da Declaração

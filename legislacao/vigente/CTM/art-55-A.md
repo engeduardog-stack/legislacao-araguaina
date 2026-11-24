@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "55-A"
 paginas_pdf: "24-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 55-A. Sem prejuízo do disposto no art. 55, a administração tributária poderá

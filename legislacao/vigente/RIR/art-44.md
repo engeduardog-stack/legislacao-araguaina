@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "44"
 paginas_pdf: "21-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 44. São tributáveis os rendimentos decorrentes de uso, fruição ou exploração de direitos, tais como ( Lei nº 4.506,

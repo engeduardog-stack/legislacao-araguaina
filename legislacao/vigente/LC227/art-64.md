@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "64"
 paginas_pdf: "22-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 64. Observado o disposto no § 4º do art. 62 desta Lei Complementar, ato do CGIBS disporá sobre a forma e o prazo de

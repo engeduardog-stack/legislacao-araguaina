@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "34"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 34. A tributação independe da denominação dos rendimentos, dos títulos ou dos direitos, da localização, da

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "42"
 paginas_pdf: "47-47"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 42. Nas licitações públicas, a comprovação de regularidade fiscal e trabalhista das microempresas e

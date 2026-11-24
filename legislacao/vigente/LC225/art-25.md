@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "25"
 paginas_pdf: "11-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. No âmbito dos processos referidos no art. 24 desta Lei Complementar, a RFB poderá conceder prazo para

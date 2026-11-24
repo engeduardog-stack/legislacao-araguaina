@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "18-D"
 paginas_pdf: "31-31"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18-D. A tributação municipal do imposto sobre imóveis prediais urbanos deverá assegurar tratamento mais

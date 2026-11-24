@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "78"
 paginas_pdf: "56-56"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 78. Na hipótese de descumprimento do disposto no art. 77, será desconsiderada, de ofício, a

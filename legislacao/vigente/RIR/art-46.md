@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "46"
 paginas_pdf: "22-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 46. São tributáveis os valores percebidos, em dinheiro, a título de alimentos ou de pensões, em cumprimento

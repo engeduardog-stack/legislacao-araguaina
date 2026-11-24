@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "12"
 paginas_pdf: "6-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 12 O processo administrativo para identificação do devedor contumaz será iniciado com a prévia notificação do

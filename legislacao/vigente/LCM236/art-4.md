@@ -4,7 +4,7 @@ sigla: LCM236
 artigo: "4"
 paginas_pdf: "2-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 4º - Esta portaria entra em vigor na data de sua publicação, revogando-

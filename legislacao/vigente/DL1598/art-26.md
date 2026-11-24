@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "26"
 paginas_pdf: "13-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 26 - No balanço de abertura do período-base que se iniciar no ano de 1978, o contribuinte que tiver o dever legal

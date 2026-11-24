@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2021\Portaria 006-2021 - Calendário fiscal 2021 (DOM 2224).pdf"
 paginas: 23
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Portaria 006-2021 - Calendário fiscal 2021 (DOM 2224)

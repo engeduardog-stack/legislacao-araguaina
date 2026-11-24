@@ -4,7 +4,7 @@ sigla: INS002_26
 artigo: "10"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 10 Decorrido o prazo de 30 (trinta) dias da constituição definitiva do

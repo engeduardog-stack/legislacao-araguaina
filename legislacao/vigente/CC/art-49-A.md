@@ -4,7 +4,7 @@ sigla: CC
 artigo: "49-A"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 49-A.  A pessoa jurídica não se confunde com os seus sócios, associados, instituidores ou administradores.

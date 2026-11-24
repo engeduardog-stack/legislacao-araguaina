@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "211-B"
 paginas_pdf: "40-40"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 211-B. A União, o Distrito Federal, os Estados e os Municípios deverão, no prazo de 2 (dois) anos, atualizar a

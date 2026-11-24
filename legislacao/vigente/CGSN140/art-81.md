@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "81"
 paginas_pdf: "57-58"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 81. A exclusão do Simples Nacional, mediante comunicação da ME ou da EPP à RFB, em

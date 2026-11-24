@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "99"
 paginas_pdf: "16-16"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 99. O conteúdo e o alcance dos decretos restringem-se aos das leis em função das quais sejam expedidos,

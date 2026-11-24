@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "39"
 paginas_pdf: "15-16"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 39. Nos casos de impossibilidade de exigência do cumprimento da obrigação

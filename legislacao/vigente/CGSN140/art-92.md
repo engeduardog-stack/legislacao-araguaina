@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "92"
 paginas_pdf: "66-66"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 92. No caso em que a ME ou a EPP optante pelo Simples Nacional exerça atividades

@@ -4,7 +4,7 @@ sigla: DEC125
 artigo: "2"
 paginas_pdf: "2-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º Será considerado devedor contumaz o sujeito passivo cujo comportamento

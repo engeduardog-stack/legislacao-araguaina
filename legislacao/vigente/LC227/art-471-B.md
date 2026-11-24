@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "471-B"
 paginas_pdf: "88-88"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 471-B. O PNCT terá como objetivos:

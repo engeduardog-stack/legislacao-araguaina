@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "NÃO VIGENTES\DOM ARAGUAÍNA 2021-2026\Instrução Normativa GAB-SEFAZ 001-2025 - ITBI lançamento e impugnação (DOM 3233, 14-03-2025).pdf"
 paginas: 5
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Instrução Normativa GAB-SEFAZ 001-2025 - ITBI lançamento e impugnação (DOM 3233, 14-03-2025)

@@ -4,7 +4,7 @@ sigla: LCM080
 artigo: "18"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18. É acrescido o parágrafo único ao Artigo 380 da Lei

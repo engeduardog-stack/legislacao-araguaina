@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "5"
 paginas_pdf: "6-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º O recolhimento na forma prevista no art. 4º não exclui a incidência dos seguintes

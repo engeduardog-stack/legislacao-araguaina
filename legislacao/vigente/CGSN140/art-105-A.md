@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "105-A"
 paginas_pdf: "78-79"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 105-A. O MEI deverá cumprir as obrigações de que trata o § 1º do art. 105, bem como as

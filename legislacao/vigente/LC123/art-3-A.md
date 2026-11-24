@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "3-A"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 3º-A. Aplica-se ao produtor rural pessoa física e ao agricultor familiar conceituado na Lei no 11.326, de 24

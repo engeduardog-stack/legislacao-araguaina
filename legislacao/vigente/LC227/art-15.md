@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "15"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 15. O Segundo Vice-Presidente substitui, na forma do regimento interno do CGIBS, o Primeiro Vice-Presidente em suas

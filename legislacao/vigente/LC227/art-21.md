@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "21"
 paginas_pdf: "11-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21. A Corregedoria, órgão subordinado ao Conselho Superior do CGIBS, é responsável pela orientação, apuração e

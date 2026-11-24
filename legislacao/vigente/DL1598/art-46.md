@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "46"
 paginas_pdf: "20-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 46 - Por ocasião do levantamento do balanço, os saldos corrigidos das contas da escrituração comercial serão

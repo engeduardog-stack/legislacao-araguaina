@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "31"
 paginas_pdf: "41-42"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 31. A exclusão das microempresas ou das empresas de pequeno porte do Simples Nacional produzirá

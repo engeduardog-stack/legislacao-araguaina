@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "69"
 paginas_pdf: "53-53"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 69. O ato de emissão ou de recepção de documento fiscal por meio eletrônico estabelecido

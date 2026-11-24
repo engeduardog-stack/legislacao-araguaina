@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "7"
 paginas_pdf: "1-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º A competência tributária é indelegável, salvo atribuição das funções de arrecadar ou fiscalizar tributos, ou de

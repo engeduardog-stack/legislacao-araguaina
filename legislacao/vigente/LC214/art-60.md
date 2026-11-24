@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "60"
 paginas_pdf: "29-29"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 60. O sujeito passivo do IBS e da CBS, ao realizar operações com bens ou com serviços,

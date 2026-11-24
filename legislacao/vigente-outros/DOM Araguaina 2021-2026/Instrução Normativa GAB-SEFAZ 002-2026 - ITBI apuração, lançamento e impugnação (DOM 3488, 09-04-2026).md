@@ -5,7 +5,7 @@ grupo: legislacao-vigente-dom
 origem: "LEGISLAÇÕES ATUALIZADAS\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\Instrução Normativa GAB-SEFAZ 002-2026 - ITBI apuração, lançamento e impugnação (DOM 3488, 09-04-2026).pdf"
 paginas: 4
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Instrução Normativa GAB-SEFAZ 002-2026 - ITBI apuração, lançamento e impugnação (DOM 3488, 09-04-2026)

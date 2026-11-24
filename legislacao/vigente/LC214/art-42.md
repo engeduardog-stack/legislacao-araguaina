@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "42"
 paginas_pdf: "23-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 42. A apuração relativa ao IBS e à CBS consolidará as operações realizadas por todos os

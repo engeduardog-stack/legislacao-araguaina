@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "22"
 paginas_pdf: "35-36"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 22. O CGSN definirá o sistema de repasses do total arrecadado, inclusive encargos legais, para o:

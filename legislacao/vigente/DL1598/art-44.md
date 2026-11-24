@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "44"
 paginas_pdf: "19-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 44 - Na baixa de bens do ativo imobilizado e dos respectivos encargos serão observadas as seguintes normas:

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "63"
 paginas_pdf: "21-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 63. Consideram-se realizados os atos processuais por meio eletrônico no dia e na hora do seu envio ao sistema, o que

@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "35"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 35 - Ficam suprimidos o inciso III e o § 3º do art. 4º, bem como os parágrafos 1º e 2º do art. 5º da Lei nº

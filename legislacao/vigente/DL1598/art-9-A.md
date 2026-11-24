@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "9-A"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 9º - A determinação do lucro real pelo contribuinte está sujeita a verificação pela autoridade tributária, com base

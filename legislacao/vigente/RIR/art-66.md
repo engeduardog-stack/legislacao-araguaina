@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "66"
 paginas_pdf: "29-29"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 66. As deduções ficam sujeitas à comprovação ou à justificação, a juízo da autoridade lançadora ( Decreto-Lei

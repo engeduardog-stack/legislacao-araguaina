@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "89"
 paginas_pdf: "38-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 89. A doação ou o patrocínio não poderão ser efetuados à pessoa ou à instituição vinculada ao agente (Lei nº

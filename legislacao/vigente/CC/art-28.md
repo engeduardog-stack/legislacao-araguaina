@@ -4,7 +4,7 @@ sigla: CC
 artigo: "28"
 paginas_pdf: "3-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 28. A sentença que determinar a abertura da sucessão provisória só produzirá efeito cento e oitenta dias depois de

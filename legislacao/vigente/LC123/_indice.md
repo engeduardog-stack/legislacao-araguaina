@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei Complementar 123-2006 - Estatuto Nacional da ME e EPP (Simples Nacional).pdf"
 paginas: 114
 artigos: 158
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # LC 123/2006 (Simples Nacional) (LC123)

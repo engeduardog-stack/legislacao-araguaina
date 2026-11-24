@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "60"
 paginas_pdf: "26-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 60. O Município poderá firmar convênios com estabelecimentos bancários,

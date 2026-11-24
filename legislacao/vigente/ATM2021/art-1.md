@@ -4,7 +4,7 @@ sigla: ATM2021
 artigo: "1"
 paginas_pdf: "23-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 1º Declara ponto facultativo no Poder Legislativo de

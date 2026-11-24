@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "Leis e edições antigas do DOM\DOM 2230 (21-01-2021) - edição com o Decreto 006-2021 (art. 62, IV, CTM).pdf"
 paginas: 15
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # DOM 2230 (21-01-2021) - edição com o Decreto 006-2021 (art. 62, IV, CTM)

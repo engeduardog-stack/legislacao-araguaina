@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "2"
 paginas_pdf: "1-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º Os Estados, o Distrito Federal e os Municípios exercerão, de forma integrada, exclusivamente por meio do CGIBS, as

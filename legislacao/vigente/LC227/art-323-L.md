@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "323-L"
 paginas_pdf: "78-78"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 323-L. Poderão suscitar o incidente de uniformização de que trata o inciso II do caput do

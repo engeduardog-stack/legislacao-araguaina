@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "60"
 paginas_pdf: "21-21"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 60. São assegurados às partes o devido processo legal, o contraditório e a ampla defesa, aduzida por escrito, permitida a

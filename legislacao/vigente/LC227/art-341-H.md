@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "341-H"
 paginas_pdf: "82-88"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 341-H. As multas de que tratam os arts. 341-F e 341-G poderão ser pagas com as seguintes

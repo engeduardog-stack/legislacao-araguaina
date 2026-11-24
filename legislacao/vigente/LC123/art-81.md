@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "81"
 paginas_pdf: "64-64"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 81. O art. 45 da Lei nº 8.212, de 24 de julho de 1991, passa a vigorar com as seguintes alterações:

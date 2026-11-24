@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "21-B"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21-B. Os Estados e o Distrito Federal deverão observar, em relação ao ICMS, o prazo mínimo de 60

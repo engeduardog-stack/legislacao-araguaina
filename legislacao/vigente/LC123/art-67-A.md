@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "67-A"
 paginas_pdf: "60-60"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 67-A. O órgão competente do Poder Executivo disponibilizará na internet informações sobre certificação

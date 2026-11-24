@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "2"
 paginas_pdf: "2-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º O tratamento diferenciado e favorecido a ser dispensado às microempresas e empresas de pequeno

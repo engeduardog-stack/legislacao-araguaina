@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "45"
 paginas_pdf: "42-43"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 45. O DAS somente será acolhido por instituição financeira credenciada para tal finalidade,

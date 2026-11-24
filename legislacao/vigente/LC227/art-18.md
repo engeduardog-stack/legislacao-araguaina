@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "18"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18. A Secretaria-Geral, órgão subordinado ao Conselho Superior do CGIBS e dirigido pelo Segundo Vice-Presidente, é

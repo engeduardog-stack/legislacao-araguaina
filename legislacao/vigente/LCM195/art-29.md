@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "29"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 29. O Art. 356 da Lei Complementar Municipal nº 058, de 30 de

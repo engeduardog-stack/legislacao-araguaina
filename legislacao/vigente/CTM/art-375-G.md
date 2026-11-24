@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "375-G"
 paginas_pdf: "183-183"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 375-G. O produto da arrecadação do ISSQN relativo aos serviços descritos

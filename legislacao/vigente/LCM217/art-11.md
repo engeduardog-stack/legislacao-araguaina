@@ -4,7 +4,7 @@ sigla: LCM217
 artigo: "11"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 11. Este Código entra em vigor na data de sua publicação oficial.

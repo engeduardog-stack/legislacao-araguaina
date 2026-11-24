@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "Leis e edições antigas do DOM\DOM 1346 (19-06-2017) - edição com a LC 050-2017 (produtividade, tabelas de cotas).pdf"
 paginas: 19
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # DOM 1346 (19-06-2017) - edição com a LC 050-2017 (produtividade, tabelas de cotas)

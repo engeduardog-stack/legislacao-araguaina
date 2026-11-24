@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "22"
 paginas_pdf: "10-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 22. Compete à RFB, segundo o perfil dos contribuintes que aderirem ao Confia, oferecer serviços

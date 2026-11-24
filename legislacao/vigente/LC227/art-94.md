@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "94"
 paginas_pdf: "29-29"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 94. A segunda instância será composta de 27 (vinte e sete) Câmaras Recursais de Julgamento virtuais, integradas, de

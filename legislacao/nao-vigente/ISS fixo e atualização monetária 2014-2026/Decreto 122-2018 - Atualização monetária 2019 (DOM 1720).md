@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2019\Decreto 122-2018 - Atualização monetária 2019 (DOM 1720).pdf"
 paginas: 70
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 122-2018 - Atualização monetária 2019 (DOM 1720)

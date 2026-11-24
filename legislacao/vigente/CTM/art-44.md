@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "44"
 paginas_pdf: "17-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 44. São responsáveis pela retenção na fonte e pelo recolhimento do

@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei 8.218-1991 - Impostos e Contribuições Federais (guarda de arquivos digitais).pdf"
 paginas: 9
 artigos: 44
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Lei 8.218/1991 (arquivos digitais) (L8218)

@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "14"
 paginas_pdf: "6-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 14. Salvo disposição em contrário, constitui valor tributável:             (Redação dada pela Lei nº 7.798, de 1989)

@@ -4,7 +4,7 @@ sigla: DEC037
 artigo: "13"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 13 Este decreto entra em vigor na data de sua publicação, revogando-se

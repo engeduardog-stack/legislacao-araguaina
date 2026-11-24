@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "23-A"
 paginas_pdf: "11-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 23 - A contrapartida do ajuste de que trata o artigo 22, por aumento ou redução no valor de patrimônio liquido do

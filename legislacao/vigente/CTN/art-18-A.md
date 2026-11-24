@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "18-A"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18-A. Para fins da incidência do imposto de que trata o inciso II do caput do art. 155 da Constituição

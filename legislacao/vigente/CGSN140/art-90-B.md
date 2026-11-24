@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "90-B"
 paginas_pdf: "66-66"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 90-B. Nos casos previstos no art. 90-A, verificada infração à legislação tributária praticada

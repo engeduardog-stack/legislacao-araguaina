@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "26"
 paginas_pdf: "37-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 26. As microempresas e empresas de pequeno porte optantes pelo Simples Nacional ficam obrigadas a:

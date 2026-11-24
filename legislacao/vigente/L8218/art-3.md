@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "3"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 3º - Sobre os débitos exigíveis de qualquer natureza para com a Fazenda Nacional, bem como para o

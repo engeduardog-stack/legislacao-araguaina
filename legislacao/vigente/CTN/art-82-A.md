@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "82-A"
 paginas_pdf: "11-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 82-A. Os Municípios e o Distrito Federal poderão instituir contribuição, na forma das respectivas leis, para o

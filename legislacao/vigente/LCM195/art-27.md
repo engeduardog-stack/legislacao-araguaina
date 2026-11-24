@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "27"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 27. O caput, §§ 1º, 4º e 10 do Art. 315 da Lei Complementar Municipal nº

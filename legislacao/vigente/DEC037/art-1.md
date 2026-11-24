@@ -4,7 +4,7 @@ sigla: DEC037
 artigo: "1"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 1º - Designar o servidor Fábio Moura dos Santos, Matrícula n° 20055,

@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "93"
 paginas_pdf: "41-42"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 93. Observada a disciplina estabelecida na legislação aduaneira, fica suspenso o pagamento

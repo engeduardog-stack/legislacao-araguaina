@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "5"
 paginas_pdf: "2-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º Para os feitos do artigo 2º:            (Redação dada pelo Decreto-Lei nº 1.133, de 1970)

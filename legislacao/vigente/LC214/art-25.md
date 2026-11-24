@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "25"
 paginas_pdf: "15-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. As responsabilidades de que trata esta Lei Complementar compreendem a obrigação

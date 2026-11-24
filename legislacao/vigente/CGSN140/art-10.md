@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "10"
 paginas_pdf: "13-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 10. O sublimite em vigor no Estado ou no Distrito Federal aplicado na forma prevista no art.

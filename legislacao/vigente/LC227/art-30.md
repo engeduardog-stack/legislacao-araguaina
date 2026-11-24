@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "30"
 paginas_pdf: "14-14"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 30. Integram a Diretoria Executiva:

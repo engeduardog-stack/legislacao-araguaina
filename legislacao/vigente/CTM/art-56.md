@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "56"
 paginas_pdf: "24-25"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 56. Sem prejuízo do disposto na legislação administrativa, civil e criminal, é

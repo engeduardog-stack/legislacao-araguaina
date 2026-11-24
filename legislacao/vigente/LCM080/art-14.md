@@ -4,7 +4,7 @@ sigla: LCM080
 artigo: "14"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 14. As alíquotas dos itens 09.01, 19.01 e 21.01 do Quadro

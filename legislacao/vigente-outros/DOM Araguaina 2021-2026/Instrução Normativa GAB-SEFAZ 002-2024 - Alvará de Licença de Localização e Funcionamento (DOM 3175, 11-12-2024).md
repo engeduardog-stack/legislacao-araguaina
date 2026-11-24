@@ -5,7 +5,7 @@ grupo: legislacao-vigente-dom
 origem: "LEGISLAÇÕES ATUALIZADAS\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\Instrução Normativa GAB-SEFAZ 002-2024 - Alvará de Licença de Localização e Funcionamento (DOM 3175, 11-12-2024).pdf"
 paginas: 3
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Instrução Normativa GAB-SEFAZ 002-2024 - Alvará de Licença de Localização e Funcionamento (DOM 3175, 11-12-2024)

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "48"
 paginas_pdf: "49-49"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 48. Para o cumprimento do disposto no art. 47 desta Lei Complementar, a administração pública:

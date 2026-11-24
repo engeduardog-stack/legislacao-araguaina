@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "15"
 paginas_pdf: "281-281"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 15. Fica revogado o §7º, do Artigo 343, da Lei Complementar nº 058, de 30 de

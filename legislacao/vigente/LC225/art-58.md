@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "58"
 paginas_pdf: "22-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 58. Esta Lei Complementar entra em vigor:

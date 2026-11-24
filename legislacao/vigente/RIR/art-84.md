@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "84"
 paginas_pdf: "36-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 84. A pessoa física poderá deduzir do imposto sobre a renda devido na forma estabelecida no caput e no § 1º

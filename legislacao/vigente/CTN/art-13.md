@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "13"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 13. O disposto na alínea a do inciso IV do art. 9º não se aplica aos serviços públicos concedidos, cujo

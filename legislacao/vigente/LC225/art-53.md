@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "53"
 paginas_pdf: "21-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 53. O art. 9º da Lei nº 10.684, de 30 de maio de 2003, passa a vigorar com a seguinte redação:

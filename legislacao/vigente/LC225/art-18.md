@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "18"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18. São instituídos os seguintes programas de conformidade tributária e aduaneira no âmbito da RFB:

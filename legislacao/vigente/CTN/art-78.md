@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "78"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 78. Considera-se poder de polícia atividade da administração pública que, limitando ou disciplinando direito,

@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "21"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21. A RFB e os contribuintes que aderirem ao Confia deverão:     Vigência

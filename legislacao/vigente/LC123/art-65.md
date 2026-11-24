@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "65"
 paginas_pdf: "57-58"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 65. A União, os Estados, o Distrito Federal e os Municípios, e as respectivas agências de fomento, as ICT,

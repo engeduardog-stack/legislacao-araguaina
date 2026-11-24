@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "68"
 paginas_pdf: "60-60"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 68. Considera-se pequeno empresário, para efeito de aplicação do disposto nos arts. 970 e 1.179 da Lei

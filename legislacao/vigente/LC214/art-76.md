@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "76"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 76. O IBS e a CBS devidos na importação de bens materiais deverão ser pagos até a entrega

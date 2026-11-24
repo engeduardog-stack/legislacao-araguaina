@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "49"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 49. O impôsto é não-cumulativo, dispondo a lei de forma que o montante devido resulte da diferença a maior,

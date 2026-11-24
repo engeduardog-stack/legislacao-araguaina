@@ -4,7 +4,7 @@ sigla: LCM217
 artigo: "7"
 paginas_pdf: "3-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º Em respeito aos princípios da justiça fiscal e capacidade contributiva, a administração

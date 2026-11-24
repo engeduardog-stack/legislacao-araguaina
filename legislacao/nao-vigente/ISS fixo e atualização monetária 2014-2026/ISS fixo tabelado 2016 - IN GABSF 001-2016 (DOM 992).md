@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2016\ISS fixo tabelado 2016 - IN GABSF 001-2016 (DOM 992).pdf"
 paginas: 5
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # ISS fixo tabelado 2016 - IN GABSF 001-2016 (DOM 992)

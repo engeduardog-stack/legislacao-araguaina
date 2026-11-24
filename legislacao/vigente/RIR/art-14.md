@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "14"
 paginas_pdf: "5-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 14. Os residentes no País que se retirarem em caráter definitivo do território nacional no curso de um ano-

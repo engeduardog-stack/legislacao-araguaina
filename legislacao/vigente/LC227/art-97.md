@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "97"
 paginas_pdf: "30-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 97. A representação e a defesa jurídica da Fazenda Pública perante as Câmaras de Julgamento serão exercidas por

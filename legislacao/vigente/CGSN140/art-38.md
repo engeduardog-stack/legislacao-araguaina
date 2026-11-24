@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "38"
 paginas_pdf: "36-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38. O cálculo do valor devido na forma prevista no Simples Nacional deverá ser efetuado por

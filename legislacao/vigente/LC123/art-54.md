@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "54"
 paginas_pdf: "51-51"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 54. É facultado ao empregador de microempresa ou de empresa de pequeno porte fazer-se substituir ou

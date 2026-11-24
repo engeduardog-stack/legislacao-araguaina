@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "99"
 paginas_pdf: "41-42"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 99. A partir do exercício de 2012, ano-calendário de 2011, a pessoa física pode optar pela dedução

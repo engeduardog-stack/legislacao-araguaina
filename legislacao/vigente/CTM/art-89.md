@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "89"
 paginas_pdf: "35-36"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 89. A lei que conceder anistia poderá fazê-lo:

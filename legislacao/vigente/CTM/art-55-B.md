@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "55-B"
 paginas_pdf: "24-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 55-B. Independentemente da requisição prevista no art. 55-A, os órgãos e as

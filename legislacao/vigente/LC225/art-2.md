@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "2"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º Esta Lei Complementar aplica-se aos órgãos e às entidades da administração pública direta e indireta do

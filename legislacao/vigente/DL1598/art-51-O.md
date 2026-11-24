@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "51-O"
 paginas_pdf: "22-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 51 - O saldo credor da conta de correção monetária de que trata o item II do artigo 39 será computado na

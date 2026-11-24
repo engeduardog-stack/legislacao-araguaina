@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "91"
 paginas_pdf: "28-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 91. Compete à primeira instância de julgamento do contencioso administrativo do IBS julgar:

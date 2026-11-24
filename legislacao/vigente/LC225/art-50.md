@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "50"
 paginas_pdf: "20-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 50. O art. 34 da Lei nº 9.249, de 26 de dezembro de 1995 (Legislação Tributária Federal - pessoa jurídica),

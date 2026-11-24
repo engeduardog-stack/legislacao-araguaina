@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "15"
 paginas_pdf: "16-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 15. Não poderá recolher os tributos pelo Simples Nacional a pessoa jurídica ou entidade

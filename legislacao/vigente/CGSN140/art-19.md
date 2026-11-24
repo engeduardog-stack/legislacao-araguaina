@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "19"
 paginas_pdf: "20-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 19. A opção pelo regime de reconhecimento de receita bruta a que se refere o § 1º do art. 16

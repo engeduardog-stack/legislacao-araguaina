@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "75"
 paginas_pdf: "61-61"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 75. As microempresas e empresas de pequeno porte deverão ser estimuladas a utilizar os institutos de

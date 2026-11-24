@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Decreto Municipal 102-2026 - Movimentação financeira, art. 6 da LC 105-2001 (DOM 3431, 13-01-2026).pdf"
 paginas: 3
 artigos: 14
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 102/2026 (movimentação financeira, art. 6º da LC 105/2001) (DEC102)

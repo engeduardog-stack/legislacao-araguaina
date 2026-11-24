@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "45"
 paginas_pdf: "19-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 45. Não estão sujeitos à substituição tributária ou à retenção na fonte os

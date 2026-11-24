@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "194-A"
 paginas_pdf: "34-34"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 194-A. O trânsito em julgado da decisão definitiva do Supremo Tribunal Federal e do Superior Tribunal de

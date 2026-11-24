@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "18"
 paginas_pdf: "17-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18. O valor devido mensalmente pela microempresa ou empresa de pequeno porte optante pelo Simples

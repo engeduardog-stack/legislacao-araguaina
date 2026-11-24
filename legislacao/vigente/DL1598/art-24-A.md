@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "24-A"
 paginas_pdf: "12-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24-A.  A contrapartida do ajuste positivo, na participação societária, mensurada pelo patrimônio líquido,

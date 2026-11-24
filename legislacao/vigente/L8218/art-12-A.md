@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "12-A"
 paginas_pdf: "5-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 12 - A inobservância do disposto no artigo precedente acarretará a imposição das seguintes penalidades:

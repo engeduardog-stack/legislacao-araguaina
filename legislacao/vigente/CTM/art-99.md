@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "99"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 99. A expedição de certidão negativa não impede a cobrança de débito

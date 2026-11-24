@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "16"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 16.  Compete à Secretaria Especial da Receita Federal do Brasil (RFB) a inclusão do devedor contumaz nos

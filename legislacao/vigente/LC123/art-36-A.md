@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "36-A"
 paginas_pdf: "43-43"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 36-A. A falta de comunicação, quando obrigatória, do desenquadramento do microempreendedor

@@ -4,7 +4,7 @@ sigla: DEC102
 artigo: "5"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º O exame das informações de que trata o artigo 1º deste decreto

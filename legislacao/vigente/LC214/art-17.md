@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "17"
 paginas_pdf: "11-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17. A alíquota aplicada para fins de devolução ou cancelamento da operação será a mesma

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "54"
 paginas_pdf: "20-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 54. Este Título dispõe sobre o processo administrativo tributário do IBS relativo:

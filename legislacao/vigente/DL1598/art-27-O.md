@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "27-O"
 paginas_pdf: "13-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 27 - O contribuinte que comprar imóvel para venda ou promover empreendimento de desmembramento ou

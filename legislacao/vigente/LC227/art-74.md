@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "74"
 paginas_pdf: "24-25"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 74. No âmbito do processo administrativo tributário, serão observados, desde que ausentes fundamentos relevantes para

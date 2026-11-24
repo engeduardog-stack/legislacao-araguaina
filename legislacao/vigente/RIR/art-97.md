@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "97"
 paginas_pdf: "40-41"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 97. Compete à Secretaria da Receita Federal do Brasil do Ministério da Fazenda, no âmbito de suas

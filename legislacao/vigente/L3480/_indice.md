@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei Municipal 3.480-2024 - Domicílio Eletrônico do Cidadão (DEC) (DOM 3176, 12-12-2024).pdf"
 paginas: 2
 artigos: 15
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Lei 3.480/2024 (Domicílio Eletrônico do Cidadão) (L3480)

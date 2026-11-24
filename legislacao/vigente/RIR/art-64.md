@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "64"
 paginas_pdf: "28-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 64. O resultado decorrente da atividade rural exercida no País por residente ou domiciliado no exterior,

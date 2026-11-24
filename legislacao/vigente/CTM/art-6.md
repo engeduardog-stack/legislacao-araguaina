@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "6"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 6º. Não constitui majoração de tributo, para os efeitos do inciso II do artigo

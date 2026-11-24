@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "78"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 78. Quando estiverem sujeitos ao regime regular do IBS e da CBS, os contribuintes de que

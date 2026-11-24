@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "DECRETO 125-2026 - DEVEDOR CONTUMAZ.pdf"
 paginas: 6
 artigos: 8
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 125/2026 (devedor contumaz) (DEC125)

@@ -1,0 +1,15 @@
+---
+norma: DOM 3.176, 12/12/2024 (publicação da LC 188/2024)
+sigla: DOM3176
+artigo: "8"
+paginas_pdf: "5-5"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-24
+---
+
+Art. 8º Ficam isentos do Imposto Predial e Territorial Urbano (IPTU) os
+contribuintes acometidos de neoplasia maligna, desde que sejam
+proprietários de apenas 01 (um) imóvel no Município e que o imóvel seja
+utilizado exclusivamente para fins residenciais e o contribuinte nele resida.
+Parágrafo único. O benefício estipulado no caput cessará a partir da data da
+inexistência da referida neoplasia maligna.

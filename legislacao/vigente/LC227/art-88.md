@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "88"
 paginas_pdf: "27-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 88. Compete aos Estados, ao Distrito Federal e aos Municípios, de forma integrada e exclusivamente por meio do

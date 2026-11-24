@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "58"
 paginas_pdf: "28-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 58. O Comitê Gestor do IBS e a RFB atuarão de forma conjunta para implementar soluções

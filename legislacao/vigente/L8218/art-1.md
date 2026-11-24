@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "1"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 1º - Os valores do Imposto sobre Produtos Industrializados dos produtos dos Capítulos 21 e 22 da Tabela de

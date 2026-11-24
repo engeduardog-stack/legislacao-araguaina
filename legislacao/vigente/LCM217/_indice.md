@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei Complementar Municipal 217-2025 - Código de Defesa do Contribuinte.pdf"
 paginas: 5
 artigos: 11
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # LCM 217/2025 (Código de Defesa do Contribuinte) (LCM217)

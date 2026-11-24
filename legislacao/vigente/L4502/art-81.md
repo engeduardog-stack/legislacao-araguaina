@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "81"
 paginas_pdf: "21-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 81. Os contribuintes que, antes de qualquer procedimento fiscal, procurarem espontâneamente o órgão arrecadador

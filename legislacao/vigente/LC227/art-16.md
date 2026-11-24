@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "16"
 paginas_pdf: "9-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 16. O Presidente e os Vice-Presidentes serão eleitos dentre os membros titulares do Conselho Superior do CGIBS, para

@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "91"
 paginas_pdf: "14-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 91. Do Fundo de Participação dos Municípios a que se refere o art. 86, serão atribuídos:   (Redação dada pelo

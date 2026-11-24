@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "76"
 paginas_pdf: "25-25"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 76. A tramitação e o julgamento do processo administrativo tributário poderão ser diferenciados mediante adoção de rito

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "59-A"
 paginas_pdf: "25-25"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 59 - A companhia, cujo capital com direito a voto pertença, em sua maioria, a pessoas residentes ou domiciliadas

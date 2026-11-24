@@ -4,7 +4,7 @@ sigla: LC225
 artigo: "49"
 paginas_pdf: "20-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 49. Os arts. 168-A e 337-A do Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passam a

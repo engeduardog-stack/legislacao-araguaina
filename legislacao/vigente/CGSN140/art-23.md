@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "23"
 paginas_pdf: "22-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 23. As receitas brutas auferidas no mercado interno e as decorrentes de exportação para o

@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "86"
 paginas_pdf: "22-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 86. Em nenhum caso a multa aplicada poderá ser inferior ao limite mínimo previsto no art. 84.              (Redação dada pelo

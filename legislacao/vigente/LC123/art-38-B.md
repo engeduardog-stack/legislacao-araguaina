@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "38-B"
 paginas_pdf: "45-45"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38-B. As multas relativas à falta de prestação ou à incorreção no cumprimento de obrigações acessórias

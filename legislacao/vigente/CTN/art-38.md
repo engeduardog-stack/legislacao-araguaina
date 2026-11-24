@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "38"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38. A base de cálculo do imposto é o valor venal dos bens ou direitos transmitidos.

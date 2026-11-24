@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei 10.406-2002 - Código Civil.pdf"
 paginas: 184
 artigos: 2083
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Código Civil (Lei 10.406/2002) (CC)

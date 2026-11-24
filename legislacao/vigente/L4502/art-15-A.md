@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "15-A"
 paginas_pdf: "7-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 15-A. Para os efeitos de apuração do valor tributável de que tratam os incisos I e II do caput do art. 15 desta Lei,

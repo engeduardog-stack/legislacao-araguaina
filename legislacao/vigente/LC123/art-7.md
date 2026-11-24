@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "7"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º Exceto nos casos em que o grau de risco da atividade seja considerado alto, os Municípios emitirão

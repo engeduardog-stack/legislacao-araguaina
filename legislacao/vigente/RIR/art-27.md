@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "27"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 27. Para fins de intimação, considera-se domicílio (Decreto nº 70.235, de 6 de março de 1972, art. 23, § 4º):

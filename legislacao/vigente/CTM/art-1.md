@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "1"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 1º. Esta Lei Complementar institui o Código Tributário do Município de

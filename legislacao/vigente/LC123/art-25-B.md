@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "25-B"
 paginas_pdf: "37-37"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25-B. O MEI, definido no art. 18-A, deverá apresentar anualmente à Secretaria Especial da Receita

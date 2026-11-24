@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "CTM - versões antigas\LC 058-2017 - CTM compilado até a LC 195-2024.pdf"
 paginas: 274
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # LC 058-2017 - CTM compilado até a LC 195-2024

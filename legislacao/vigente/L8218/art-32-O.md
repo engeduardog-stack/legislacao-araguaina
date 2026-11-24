@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "32-O"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 32 - O inciso III do art. 80 da Lei nº 4.502, de 30 de novembro de 1964, na redação que lhe foi dada pela

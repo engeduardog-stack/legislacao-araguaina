@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "61"
 paginas_pdf: "28-28"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61. O resultado da atividade rural, quando positivo, integrará a base de cálculo do imposto sobre a renda, na

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "341-F"
 paginas_pdf: "79-80"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 341-F. Aplica-se a multa de 75% (setenta e cinco por cento), nos casos de lançamento de

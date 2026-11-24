@@ -5,7 +5,7 @@ grupo: legislacao-vigente-outros
 origem: "LEGISLAÇÕES ATUALIZADAS\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\2024\DECRETO 238, DE 29 DE DEZEMBRO DE 2023.pdf"
 paginas: 40
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # DECRETO 238, DE 29 DE DEZEMBRO DE 2023

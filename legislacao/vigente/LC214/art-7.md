@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "7"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º Na hipótese de fornecimento de diferentes bens e de serviços em uma mesma

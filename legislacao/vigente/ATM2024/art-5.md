@@ -4,7 +4,7 @@ sigla: ATM2024
 artigo: "5"
 paginas_pdf: "17-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art.5º - Esta portaria entra em vigor na data de sua publicação,

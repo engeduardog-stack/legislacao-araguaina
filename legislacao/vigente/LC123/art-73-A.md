@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "73-A"
 paginas_pdf: "61-61"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 73-A. São vedadas cláusulas contratuais relativas à limitação da emissão ou circulação de títulos de

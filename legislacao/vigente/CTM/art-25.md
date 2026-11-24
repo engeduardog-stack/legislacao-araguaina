@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "25"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. Na qualidade de sujeito ativo da obrigação tributária, o Município é a

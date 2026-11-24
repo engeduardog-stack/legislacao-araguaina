@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "380-A"
 paginas_pdf: "187-187"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 380-A. Nos casos previstos no artigo 380, inciso I, “b” o sujeito passivo será

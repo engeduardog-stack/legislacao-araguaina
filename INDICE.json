@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-23",
+ "gerado_em": "2026-11-24",
  "itens": [
   {
    "arquivo": "legislacao/vigente/ALIQ/",
@@ -222,6 +222,46 @@
    "origem": "Decreto-Lei 1.598-1977 - Legislação do Imposto de Renda (omissão de receita).pdf"
   },
   {
+   "arquivo": "legislacao/vigente/DOM1420/",
+   "titulo": "DOM 1.420, 03/10/2017 (publicação da LC 051/2017, Plano Diretor)",
+   "sigla": "DOM1420",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 22,
+   "artigos": 128,
+   "origem": "Urbanismo e Uso do Solo\\Diario Oficial 1420 de 03-10-2017 - publicacao da LC 051-2017 Plano Diretor.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DOM3176/",
+   "titulo": "DOM 3.176, 12/12/2024 (publicação da LC 188/2024)",
+   "sigla": "DOM3176",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 11,
+   "artigos": 64,
+   "origem": "Urbanismo e Uso do Solo\\Diario Oficial 3176 de 12-12-2024 - publicacao da LC 188-2024.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DOM3264/",
+   "titulo": "DOM 3.264, 05/05/2025 (publicação da LC 203/2025)",
+   "sigla": "DOM3264",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 19,
+   "artigos": 48,
+   "origem": "Urbanismo e Uso do Solo\\Diario Oficial 3264 de 05-05-2025 - publicacao da LC 203-2025.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/DOM3299/",
+   "titulo": "DOM 3.299, 25/06/2025 (publicação da LC 211/2025)",
+   "sigla": "DOM3299",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 37,
+   "artigos": 169,
+   "origem": "Urbanismo e Uso do Solo\\Diario Oficial 3299 de 25-06-2025 - publicacao da LC 211-2025.pdf"
+  },
+  {
    "arquivo": "legislacao/vigente/IN001/",
    "titulo": "IN GABSF 001/2018 (substituição tributária)",
    "sigla": "IN001",
@@ -282,6 +322,26 @@
    "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Instrução Normativa GAB-SEFAZ 003-2026 - Exclusão de entidade do rol de substitutos tributários do ISSQN (DOM 3569, 10-08-2026).pdf"
   },
   {
+   "arquivo": "legislacao/vigente/L2692/",
+   "titulo": "Lei 2.692/2010 (altera art. 25 da Lei 2.494)",
+   "sigla": "L2692",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 1,
+   "artigos": 0,
+   "origem": "Urbanismo e Uso do Solo\\Lei Municipal 2692-2010 - altera art. 25 da Lei 2494 (parcelamento).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/L2726/",
+   "titulo": "Lei 2.726/2011 (altera art. 25 da Lei 2.494)",
+   "sigla": "L2726",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 1,
+   "artigos": 0,
+   "origem": "Urbanismo e Uso do Solo\\Lei Municipal 2726-2011 - altera art. 25 da Lei 2494 (parcelamento).pdf"
+  },
+  {
    "arquivo": "legislacao/vigente/L3480/",
    "titulo": "Lei 3.480/2024 (Domicílio Eletrônico do Cidadão)",
    "sigla": "L3480",
@@ -320,6 +380,16 @@
    "paginas": 9,
    "artigos": 44,
    "origem": "Lei 8.218-1991 - Impostos e Contribuições Federais (guarda de arquivos digitais).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/L9430/",
+   "titulo": "Lei 9.430/1996 (legislação tributária federal; CNPJ suspenso, inapto e baixado, arts. 80 a 82)",
+   "sigla": "L9430",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 31,
+   "artigos": 103,
+   "origem": "Lei 9.430-1996 - Legislacao Tributaria Federal (CNPJ suspenso, inapto e baixado, arts. 80 a 82-A).pdf"
   },
   {
    "arquivo": "legislacao/vigente/LC116/",
@@ -382,6 +452,36 @@
    "origem": "LEI COMPLEMENTAR Nº 236, DE 4 DE SETEMBRO DE 2026 - alteração CTN.pdf"
   },
   {
+   "arquivo": "legislacao/vigente/LCM002/",
+   "titulo": "LCM 002/2010 (altera a Lei 2.495, art. 10)",
+   "sigla": "LCM002",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 3,
+   "artigos": 5,
+   "origem": "Urbanismo e Uso do Solo\\Lei Complementar Municipal 002-2010 - altera Lei 2495 (art. 10).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM006/",
+   "titulo": "LCM 006/2013 (loteamento fechado; altera Leis 2.494 e 2.495)",
+   "sigla": "LCM006",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 6,
+   "artigos": 0,
+   "origem": "Urbanismo e Uso do Solo\\Lei Complementar Municipal 006-2013 - loteamento fechado, altera Leis 2494 e 2495.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM062/",
+   "titulo": "LCM 062/2018 (outorga onerosa, art. 52 do Plano Diretor)",
+   "sigla": "LCM062",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 4,
+   "artigos": 11,
+   "origem": "Urbanismo e Uso do Solo\\Lei Complementar Municipal 062-2018 - outorga onerosa (art. 52 do Plano Diretor).pdf"
+  },
+  {
    "arquivo": "legislacao/vigente/LCM080/",
    "titulo": "LCM 080/2021 (altera o CTM)",
    "sigla": "LCM080",
@@ -412,6 +512,16 @@
    "origem": "Lei Complementar Municipal 171-2024 - Altera o CTM e a Lei do IPTU (DOM 2995, 21-03-2024).pdf"
   },
   {
+   "arquivo": "legislacao/vigente/LCM184/",
+   "titulo": "LCM 184/2024 (Via Lago, Lei 3.084/2018)",
+   "sigla": "LCM184",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 2,
+   "artigos": 3,
+   "origem": "Urbanismo e Uso do Solo\\Lei Complementar Municipal 184-2024 - Via Lago (Lei 3084-2018, cita Anexo VII do Plano Diretor).pdf"
+  },
+  {
    "arquivo": "legislacao/vigente/LCM187/",
    "titulo": "LCM 187/2024 (isenções)",
    "sigla": "LCM187",
@@ -420,6 +530,16 @@
    "paginas": 7,
    "artigos": 18,
    "origem": "Lei Complementar Municipal 187-2024 - Isenções Tributárias (IPTU, ISSQN e Taxas).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM188/",
+   "titulo": "LCM 188/2024 (altera Lei 2.495, art. 10 e Anexo I)",
+   "sigla": "LCM188",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 7,
+   "artigos": 4,
+   "origem": "Urbanismo e Uso do Solo\\Lei Complementar Municipal 188-2024 - altera Lei 2495 (art. 10, Anexo I).pdf"
   },
   {
    "arquivo": "legislacao/vigente/LCM195/",
@@ -440,6 +560,26 @@
    "paginas": 6,
    "artigos": 48,
    "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 200-2025 - Autocomposição e transação de créditos tributários (DOM 3254, 14-04-2025).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM203/",
+   "titulo": "LCM 203/2025 (altera art. 21-B da Lei 2.495)",
+   "sigla": "LCM203",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 1,
+   "artigos": 0,
+   "origem": "Urbanismo e Uso do Solo\\Lei Complementar Municipal 203-2025 - altera art. 21-B da Lei 2495.pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LCM211/",
+   "titulo": "LCM 211/2025 (altera Lei 2.495, LC 002/2010 e LC 188/2024)",
+   "sigla": "LCM211",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 7,
+   "artigos": 4,
+   "origem": "Urbanismo e Uso do Solo\\Lei Complementar Municipal 211-2025 - altera Lei 2495, LC 002-2010 e LC 188-2024.pdf"
   },
   {
    "arquivo": "legislacao/vigente/LCM217/",
@@ -470,6 +610,46 @@
    "paginas": 6,
    "artigos": 39,
    "origem": "DOM ARAGUAÍNA 2021-2026 (normas tributárias)\\Lei Complementar Municipal 245-2026 - REFIS Programa de Regularização Fiscal (DOM 3612, 14-10-2026).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/LUOS2495/",
+   "titulo": "Lei 2.495/2006 (uso e ocupação do solo nas macrozonas urbanas; texto do portal, anteprojeto)",
+   "sigla": "LUOS2495",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 22,
+   "artigos": 29,
+   "origem": "Urbanismo e Uso do Solo\\Lei Municipal 2495-2006 - Uso e Ocupacao do Solo nas Macrozonas Urbanas (portal, anteprojeto).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/PARC2494/",
+   "titulo": "Lei 2.494/2006 (parcelamento do solo urbano; texto do portal, anteprojeto)",
+   "sigla": "PARC2494",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 14,
+   "artigos": 56,
+   "origem": "Urbanismo e Uso do Solo\\Lei Municipal 2494-2006 - Parcelamento do Solo Urbano (portal, anteprojeto).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/PD051/",
+   "titulo": "Plano Diretor de Araguaína (LC 051/2017; texto do portal, projeto)",
+   "sigla": "PD051",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 40,
+   "artigos": 87,
+   "origem": "Urbanismo e Uso do Solo\\Lei Complementar Municipal 051-2017 - Plano Diretor (portal, texto do projeto).pdf"
+  },
+  {
+   "arquivo": "legislacao/vigente/PD2424/",
+   "titulo": "Plano Diretor anterior (Lei 2.424/2005, revogada pela LC 051/2017)",
+   "sigla": "PD2424",
+   "situacao": "vigente",
+   "grupo": "legislacao-vigente",
+   "paginas": 18,
+   "artigos": 72,
+   "origem": "Urbanismo e Uso do Solo\\Lei Municipal 2424-2005 - Plano Diretor anterior (revogado pela LC 051-2017).pdf"
   },
   {
    "arquivo": "legislacao/vigente/RIR/",

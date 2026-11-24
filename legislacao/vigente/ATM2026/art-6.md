@@ -4,7 +4,7 @@ sigla: ATM2026
 artigo: "6"
 paginas_pdf: "2-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 6º Este Decreto entra em vigor na data de sua publicação, observado o

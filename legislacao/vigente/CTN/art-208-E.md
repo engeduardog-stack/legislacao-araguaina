@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "208-E"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-E. É dever do sujeito passivo informar se a matéria impugnada no âmbito do processo administrativo fiscal

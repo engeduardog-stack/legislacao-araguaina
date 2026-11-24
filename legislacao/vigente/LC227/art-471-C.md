@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "471-C"
 paginas_pdf: "88-89"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 471-C. Para os contribuintes participantes, o PNCT poderá prever:

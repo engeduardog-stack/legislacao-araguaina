@@ -4,7 +4,7 @@ sigla: LCM245
 artigo: "11"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 11 Os créditos decorrentes de multas aplicadas pelo descumprimento de

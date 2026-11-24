@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "79"
 paginas_pdf: "10-11"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79. Os serviços públicos a que se refere o art. 77 consideram-se:

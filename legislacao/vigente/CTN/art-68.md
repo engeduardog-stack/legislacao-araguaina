@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "68"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 68. O impôsto, de competência da União, sôbre serviços de transportes e comunicações tem como fato gerador:

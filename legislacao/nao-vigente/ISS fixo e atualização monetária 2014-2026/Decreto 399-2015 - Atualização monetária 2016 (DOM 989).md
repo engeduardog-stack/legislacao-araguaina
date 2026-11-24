@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "ISS fixo e atualização monetária 2014-2026\2016\Decreto 399-2015 - Atualização monetária 2016 (DOM 989).pdf"
 paginas: 10
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 399-2015 - Atualização monetária 2016 (DOM 989)

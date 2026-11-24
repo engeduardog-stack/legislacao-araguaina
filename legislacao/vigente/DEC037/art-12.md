@@ -4,7 +4,7 @@ sigla: DEC037
 artigo: "12"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 12 O cadastramento a que se refere o parágrafo primeiro do art. 4º deste

@@ -4,7 +4,7 @@ sigla: CC
 artigo: "5"
 paginas_pdf: "1-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5 o A menoridade cessa aos dezoito anos completos, quando a pessoa fica habilitada à prática de todos os atos da vida

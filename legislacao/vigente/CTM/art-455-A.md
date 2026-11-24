@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "455-A"
 paginas_pdf: "204-204"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 455-A. Os valores eventualmente acrescidos na base de cálculo prevista na

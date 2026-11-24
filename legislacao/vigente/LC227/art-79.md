@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "79"
 paginas_pdf: "26-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79. Caberá recurso de uniformização, dirigido à Câmara Superior do IBS, no prazo de 10 (dez) dias, contra decisão de

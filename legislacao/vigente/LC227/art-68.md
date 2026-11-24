@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "68"
 paginas_pdf: "23-24"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 68. A impugnação e os recursos serão indeferidos pela autoridade competente se intempestivos, postulados ou

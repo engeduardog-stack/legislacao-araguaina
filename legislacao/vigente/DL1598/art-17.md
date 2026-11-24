@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "17"
 paginas_pdf: "7-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 17 - Os juros, o desconto, a correção monetária prefixada, o lucro na operação de reporte e o prêmio de resgate

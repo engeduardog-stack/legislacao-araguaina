@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "4"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 4º Compete ao CGIBS coordenar, com vistas à integração entre os entes federativos, as atividades de fiscalização do

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "53"
 paginas_pdf: "20-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 53. Na instituição do órgão, o cargo de Presidente do Conselho Superior do CGIBS caberá a representante do conjunto

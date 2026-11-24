@@ -4,7 +4,7 @@ sigla: LC116
 artigo: "6"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 6o Os Municípios e o Distrito Federal, mediante lei, poderão atribuir de modo expresso a responsabilidade pelo

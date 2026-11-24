@@ -4,7 +4,7 @@ sigla: CTM
 artigo: "46"
 paginas_pdf: "19-20"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 46. Os créditos da Fazenda Pública Municipal possuem natureza tributária e

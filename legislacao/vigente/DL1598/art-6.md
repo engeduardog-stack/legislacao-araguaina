@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "6"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 6º - Lucro real é o lucro líquido do exercício ajustado pelas adições, exclusões ou compensações prescritas ou

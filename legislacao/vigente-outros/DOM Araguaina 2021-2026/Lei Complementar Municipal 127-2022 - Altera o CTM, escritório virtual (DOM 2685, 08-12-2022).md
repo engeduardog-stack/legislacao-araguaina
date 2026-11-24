@@ -5,7 +5,7 @@ grupo: legislacao-vigente-dom
 origem: "LEGISLAÇÕES ATUALIZADAS\DOM ARAGUAÍNA 2021-2026 (normas tributárias)\Lei Complementar Municipal 127-2022 - Altera o CTM, escritório virtual (DOM 2685, 08-12-2022).pdf"
 paginas: 4
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Lei Complementar Municipal 127-2022 - Altera o CTM, escritório virtual (DOM 2685, 08-12-2022)

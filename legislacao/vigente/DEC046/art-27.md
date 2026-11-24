@@ -4,7 +4,7 @@ sigla: DEC046
 artigo: "27"
 paginas_pdf: "3-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 27. O recolhimento do ISSQN deverá ser feito exclusivamente

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "52"
 paginas_pdf: "50-50"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 52. O disposto no art. 51 desta Lei Complementar não dispensa as microempresas e as empresas de

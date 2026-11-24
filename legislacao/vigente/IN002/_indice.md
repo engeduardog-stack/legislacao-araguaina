@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Substitutas Tributárias\Instrução Normativa GABSF 002-2018 - Substituição tributária do ISSQN (DOM 1579).pdf"
 paginas: 3
 artigos: 5
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # IN GABSF 002/2018 (substituição tributária) (IN002)

@@ -4,7 +4,7 @@ sigla: CC
 artigo: "65"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 65. Aqueles a quem o instituidor cometer a aplicação do patrimônio, em tendo ciência do encargo, formularão logo, de

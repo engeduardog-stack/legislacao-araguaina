@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "86"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 86. O disposto nocaput do art. 85 desta Lei Complementar não se aplica aos bens

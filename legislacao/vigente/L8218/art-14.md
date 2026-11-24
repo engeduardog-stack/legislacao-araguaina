@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "14"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 14. A não apresentação, pela pessoa jurídica tributada com base no lucro real, do livro ou fichas utilizados para

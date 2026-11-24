@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "89"
 paginas_pdf: "40-40"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 89. No caso de bens admitidos temporariamente no País para utilização econômica, a

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "60-A"
 paginas_pdf: "53-53"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 60-A. Poderá ser instituído Sistema Nacional de Garantias de Crédito pelo Poder Executivo, com o

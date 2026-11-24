@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "75"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 75. A lei observará o disposto neste Título relativamente:

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "39"
 paginas_pdf: "16-16"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 39. Compete à Diretoria de Tesouraria:

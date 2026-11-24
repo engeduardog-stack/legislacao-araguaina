@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "12"
 paginas_pdf: "4-5"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 12. Para fins do disposto no art. 11 , o imposto sobre a renda devido será calculado mediante a utilização dos

@@ -1,0 +1,17 @@
+---
+norma: Plano Diretor de Araguaína (LC 051/2017; texto do portal, projeto)
+sigla: PD051
+artigo: "33"
+paginas_pdf: "12-12"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-24
+---
+
+Art. 33. As Macrozonas Urbanas são constituídas por:
+I - Macrozona Urbana 1 (MU 1) - sede do Município;
+II - Macrozona Urbana 2 (MU 2) - Garimpinho; e
+III - Macrozona Urbana 3 (MU 3) - Zona de Processamento e Exportação – ZPE.
+§ 1º A descrição em coordenadas UTM do caminhamento do perímetro urbano das
+Macrozonas Urbanas 1 e 2 é a constante dos Anexos IX e X desta Lei Complementar.
+§ 2º A MU3 corresponde à área da ZPE, já delimitada, sendo especialmente
+destinada a indústrias exportadoras e regida por legislação específica.

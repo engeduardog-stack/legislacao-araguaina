@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "94"
 paginas_pdf: "15-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 94.      (Revogado pela Lei Complementar nº 143, de 2013)   (Produção de efeito)

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "67"
 paginas_pdf: "23-23"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 67. O contencioso administrativo tributário instaura-se pelo ato de impugnação em face do crédito tributário formalizado

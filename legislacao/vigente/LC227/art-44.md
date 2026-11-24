@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "44"
 paginas_pdf: "17-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 44. O CGIBS elaborará anualmente os seguintes demonstrativos, adaptados às suas especificidades:

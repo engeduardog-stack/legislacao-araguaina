@@ -4,7 +4,7 @@ sigla: DEC102
 artigo: "2"
 paginas_pdf: "1-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º Para os fins deste decreto, consideram-se operações e serviços das

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "30"
 paginas_pdf: "40-41"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 30. A exclusão do Simples Nacional, mediante comunicação das microempresas ou das empresas de

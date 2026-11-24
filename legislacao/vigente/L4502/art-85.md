@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "85"
 paginas_pdf: "22-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 85. Ficam sujeitos à multa de cinco vêzes o limite máximo da pena prevista no art. 84, aquêles que simularem, viciarem ou

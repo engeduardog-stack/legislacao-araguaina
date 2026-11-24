@@ -4,7 +4,7 @@ sigla: INS003_26
 artigo: "3"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 3º Esta Instrução Normativa entra em vigor na data de sua publicação,

@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "92"
 paginas_pdf: "28-29"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 92. A primeira instância de julgamento será composta de 27 (vinte e sete) Câmaras de Julgamento virtuais, integradas,

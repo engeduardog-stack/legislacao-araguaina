@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "75"
 paginas_pdf: "34-34"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 75. Os sujeitos passivos a que se referem os arts. 72 a 74 desta Lei Complementar devem se

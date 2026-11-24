@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "38"
 paginas_pdf: "43-44"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38. O sujeito passivo que deixar de apresentar a Declaração Simplificada da Pessoa Jurídica a que se

@@ -4,7 +4,7 @@ sigla: INS002_26
 artigo: "5"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º O sujeito passivo poderá impugnar o valor atribuído pelo Avaliador,

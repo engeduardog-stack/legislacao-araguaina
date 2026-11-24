@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "21"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21. São pessoalmente responsáveis (Decreto-Lei nº 5.844, de 1943, art. 50; e Lei nº 5.172, de 1966 - Código

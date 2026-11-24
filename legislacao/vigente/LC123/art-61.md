@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "61"
 paginas_pdf: "54-54"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 61. Para fins de apoio creditício às operações de comércio exterior das microempresas e das empresas

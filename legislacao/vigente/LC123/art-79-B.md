@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "79-B"
 paginas_pdf: "63-63"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79-B. Excepcionalmente para os fatos geradores ocorridos em julho de 2007, os tributos apurados na

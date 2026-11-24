@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "39-A"
 paginas_pdf: "38-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 39-A. As declarações transmitidas pelo PGDAS-D poderão ser retidas para análise com

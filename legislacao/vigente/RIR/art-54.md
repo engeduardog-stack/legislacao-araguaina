@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "54"
 paginas_pdf: "25-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 54. A receita bruta da atividade rural será constituída pelo montante das vendas dos produtos oriundos das

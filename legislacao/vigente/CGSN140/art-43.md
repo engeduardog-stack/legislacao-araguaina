@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "43"
 paginas_pdf: "41-42"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 43. O DAS conterá: (Lei Complementar nº 123, de 2006, art. 21, inciso I)

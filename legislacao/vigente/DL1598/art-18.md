@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "18"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 18 - Deverão ser incluídas no lucro operacional as contrapartidas das variações monetárias, em função da taxa

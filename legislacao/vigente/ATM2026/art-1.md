@@ -4,7 +4,7 @@ sigla: ATM2026
 artigo: "1"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 1º Os valores dos tributos, dos preços financeiros e das penalidades

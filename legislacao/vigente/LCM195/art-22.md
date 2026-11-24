@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "22"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 22. O caput do Art. 251 da Lei Complementar Municipal nº 058, de 30 de

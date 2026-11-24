@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "19"
 paginas_pdf: "8-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 19. Considera-se lucro da exploração o lucro líquido do período-base, ajustado pela exclusão dos seguintes

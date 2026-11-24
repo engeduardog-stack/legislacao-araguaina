@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "Leis e edições antigas do DOM\LC 221-2025 - Altera o CTM (escaneado, sem texto).pdf"
 paginas: 4
 paginas_sem_texto: 4
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # LC 221-2025 - Altera o CTM (escaneado, sem texto)

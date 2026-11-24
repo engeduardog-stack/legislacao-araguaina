@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "5"
 paginas_pdf: "7-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 5º Os órgãos e entidades envolvidos na abertura e fechamento de empresas, dos 3 (três) âmbitos de

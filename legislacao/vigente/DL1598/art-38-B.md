@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "38-B"
 paginas_pdf: "17-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 38-B.  A remuneração, os encargos, as despesas e demais custos, ainda que contabilizados no patrimônio

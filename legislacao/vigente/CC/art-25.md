@@ -4,7 +4,7 @@ sigla: CC
 artigo: "25"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. O cônjuge do ausente, sempre que não esteja separado judicialmente, ou de fato por mais de dois anos antes da

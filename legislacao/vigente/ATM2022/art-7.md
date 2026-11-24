@@ -4,7 +4,7 @@ sigla: ATM2022
 artigo: "7"
 paginas_pdf: "18-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 7º - Fica a Superintendência de Recursos Humanos

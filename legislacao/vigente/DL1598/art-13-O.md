@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "13-O"
 paginas_pdf: "6-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art 13 - O custo de aquisição de mercadorias destinadas à revenda compreenderá os de transporte e seguro até o

@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "56"
 paginas_pdf: "27-27"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 56. Considera-se resultado da atividade rural a diferença entre o valor da receita bruta recebida e o das

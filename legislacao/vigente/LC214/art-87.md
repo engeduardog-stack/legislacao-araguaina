@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "87"
 paginas_pdf: "39-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 87. Fica suspenso o pagamento do IBS e da CBS incidentes na importação e na aquisição no

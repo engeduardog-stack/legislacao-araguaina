@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "3"
 paginas_pdf: "5-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 3º No ano-calendário de início de atividade, cada um dos limites previstos no § 1º do art. 2º

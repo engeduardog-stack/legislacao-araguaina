@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "21"
 paginas_pdf: "33-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 21. Os tributos devidos, apurados na forma dos arts. 18 a 20 desta Lei Complementar, deverão ser pagos:

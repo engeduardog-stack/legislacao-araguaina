@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "22"
 paginas_pdf: "21-22"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 22. O valor devido mensalmente pela ME ou pela EPP optante pelo Simples Nacional será

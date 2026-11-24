@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "68"
 paginas_pdf: "17-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 68. A autoridade fixará a pena de multa partindo da pena básica estabelecida para a infração, como se atenuantes houvesse,

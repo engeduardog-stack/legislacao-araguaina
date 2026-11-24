@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "29"
 paginas_pdf: "18-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 29. O contribuinte deverá, até a data de vencimento, efetuar o pagamento do saldo a

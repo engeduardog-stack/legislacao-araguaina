@@ -4,7 +4,7 @@ sigla: LCM187
 artigo: "17"
 paginas_pdf: "6-6"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17. A concessão de isenção em caráter individual não gera direito adquirido e será

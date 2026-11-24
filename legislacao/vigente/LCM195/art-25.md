@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "25"
 paginas_pdf: "3-3"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 25. O Art. 308 da Lei Complementar Municipal nº 058, de 30 de

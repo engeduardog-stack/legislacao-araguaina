@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "92"
 paginas_pdf: "41-41"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 92. No caso de os bens nacionais ou nacionalizados saírem, temporariamente, do País para

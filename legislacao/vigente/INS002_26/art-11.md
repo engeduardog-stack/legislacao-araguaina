@@ -4,7 +4,7 @@ sigla: INS002_26
 artigo: "11"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 11 Os notários e seus prepostos, quando da prática de atos que

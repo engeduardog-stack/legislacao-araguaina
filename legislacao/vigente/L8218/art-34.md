@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "34"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 34 - As entidades beneficentes reconhecidas como de utilidade pública ficam autorizadas a vender em

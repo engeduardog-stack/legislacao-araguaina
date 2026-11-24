@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "26"
 paginas_pdf: "7-7"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 26 - Fica isenta do imposto de renda das pessoas físicas a correção monetária de investimentos calculada

@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "8-A"
 paginas_pdf: "3-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8o-A.  O sujeito passivo que deixar de apresentar o livro de que trata o inciso I do caput do art. 8o, nos prazos

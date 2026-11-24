@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "87"
 paginas_pdf: "66-66"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 87. O § 1º do art. 3º da Lei Complementar nº 63, de 11 de janeiro de 1990, passa a vigorar com a

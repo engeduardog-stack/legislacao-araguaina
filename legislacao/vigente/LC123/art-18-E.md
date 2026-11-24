@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "18-E"
 paginas_pdf: "31-31"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18-E. O instituto do MEI é uma política pública que tem por objetivo a formalização de pequenos

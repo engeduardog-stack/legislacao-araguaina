@@ -5,7 +5,7 @@ grupo: legislacao-historica
 origem: "Leis e edições antigas do DOM\LC 017-2013 - Altera a Lei 1.134-1991.pdf"
 paginas: 125
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # LC 017-2013 - Altera a Lei 1.134-1991

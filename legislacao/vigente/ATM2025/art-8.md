@@ -4,7 +4,7 @@ sigla: ATM2025
 artigo: "8"
 paginas_pdf: "42-42"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8º O estágio não gera vínculo empregatício de qualquer natureza,

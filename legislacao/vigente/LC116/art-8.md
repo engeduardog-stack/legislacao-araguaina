@@ -4,7 +4,7 @@ sigla: LC116
 artigo: "8"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 8o As alíquotas máximas do Imposto Sobre Serviços de Qualquer Natureza são as seguintes:

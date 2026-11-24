@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Tabela - CNAE x Anexo do Simples Nacional x Fator R x Alíquota.pdf"
 paginas: 24
 artigos: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Tabela CNAE x Anexo do Simples x fator r (CNAEANEXO)

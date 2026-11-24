@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "59"
 paginas_pdf: "29-29"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 59. As pessoas físicas e jurídicas e as entidades sem personalidade jurídica sujeitas ao IBS e

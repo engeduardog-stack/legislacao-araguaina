@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "171-B"
 paginas_pdf: "30-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 171-B. Lei estabelecerá os critérios e as condições para a mediação de controvérsias tributárias e aduaneiras,

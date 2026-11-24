@@ -4,7 +4,7 @@ sigla: DL1598
 artigo: "24-B"
 paginas_pdf: "12-13"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24-B.  A contrapartida do ajuste negativo na participação societária, mensurada pelo patrimônio líquido,

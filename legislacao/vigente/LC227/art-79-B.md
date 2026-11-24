@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "79-B"
 paginas_pdf: "57-57"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79-B. O processo e o julgamento do Presidente do CGIBS observarão o disposto nesta Lei

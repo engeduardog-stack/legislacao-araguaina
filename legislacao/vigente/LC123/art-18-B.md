@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "18-B"
 paginas_pdf: "30-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 18-B. A empresa contratante de serviços executados por intermédio do MEI mantém, em relação a esta

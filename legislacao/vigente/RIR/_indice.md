@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Decreto 9.580-2018 - Regulamento do Imposto de Renda (RIR-2018).pdf"
 paginas: 327
 artigos: 1054
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Regulamento do Imposto de Renda (Decreto 9.580/2018) (RIR)

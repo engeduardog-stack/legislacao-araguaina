@@ -5,7 +5,7 @@ grupo: legislacao-vigente-outros
 origem: "LEGISLAÇÕES ATUALIZADAS\CGIBS\AT Conj. Sufis - CGIBS nº 10-2026.pdf"
 paginas: 2
 paginas_sem_texto: 0
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # AT Conj. Sufis - CGIBS nº 10-2026

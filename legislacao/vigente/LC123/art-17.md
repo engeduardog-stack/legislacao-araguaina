@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "17"
 paginas_pdf: "14-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17. Não poderão recolher os impostos e contribuições na forma do Simples Nacional a microempresa

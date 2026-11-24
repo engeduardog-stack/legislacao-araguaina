@@ -4,7 +4,7 @@ sigla: LCM195
 artigo: "17"
 paginas_pdf: "2-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 17. O §4º do Art. 150 da Lei Complementar Municipal nº 058, de 30 de

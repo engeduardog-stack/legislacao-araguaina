@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "79"
 paginas_pdf: "35-35"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 79. O imposto sobre a renda devido na declaração de ajuste anual incidente sobre os rendimentos de pessoas

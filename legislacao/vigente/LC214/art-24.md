@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "24"
 paginas_pdf: "15-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 24. Sem prejuízo das demais hipóteses previstas na Lei nº 5.172, de 25 de outubro de 1966

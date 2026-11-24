@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "69"
 paginas_pdf: "30-30"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 69. As deduções de que trata o art. 68 não poderão exceder à receita mensal da atividade, permitido o

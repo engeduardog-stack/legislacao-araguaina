@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "45"
 paginas_pdf: "7-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 45. Contribuinte do impôsto é o titular da disponibilidade a que se refere o artigo 43, sem prejuízo de atribuir a lei

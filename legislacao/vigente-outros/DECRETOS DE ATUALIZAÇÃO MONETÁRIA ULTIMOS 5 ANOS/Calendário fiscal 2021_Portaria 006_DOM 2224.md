@@ -5,7 +5,7 @@ grupo: legislacao-vigente-outros
 origem: "LEGISLAÇÕES ATUALIZADAS\DECRETOS DE ATUALIZAÇÃO MONETÁRIA ULTIMOS 5 ANOS\2021\Calendário fiscal 2021_Portaria 006_DOM 2224.pdf"
 paginas: 2
 paginas_sem_texto: 2
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Calendário fiscal 2021_Portaria 006_DOM 2224

@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "191-A"
 paginas_pdf: "33-33"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 191-A. A concessão de recuperação judicial depende da apresentação da prova de quitação de todos os

@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "62"
 paginas_pdf: "56-56"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 62. O Banco Central do Brasil disponibilizará dados e informações das instituições financeiras integrantes

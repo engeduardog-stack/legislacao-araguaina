@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "76"
 paginas_pdf: "54-55"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 76. O Estado ou o Distrito Federal poderá obrigar a ME ou a EPP optante pelo Simples

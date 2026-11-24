@@ -4,7 +4,7 @@ sigla: LCM127
 artigo: "256-B"
 paginas_pdf: "1-1"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 256-B. A concessão da Licença de Localização e

@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "47"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 47. A base de cálculo do impôsto é:

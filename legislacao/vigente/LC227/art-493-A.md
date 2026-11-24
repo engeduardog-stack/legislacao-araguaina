@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "493-A"
 paginas_pdf: "93-101"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 493-A. É instituída associação pública especial, integrada pela União - representada pela RFB

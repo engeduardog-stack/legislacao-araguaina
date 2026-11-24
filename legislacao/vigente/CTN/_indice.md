@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Lei 5.172-1966 - Código Tributário Nacional (CTN).pdf"
 paginas: 41
 artigos: 231
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Código Tributário Nacional (Lei 5.172/1966) (CTN)

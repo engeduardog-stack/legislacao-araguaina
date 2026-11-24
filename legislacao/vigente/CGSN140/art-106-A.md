@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "106-A"
 paginas_pdf: "80-81"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 106-A. Relativamente às operações não compreendidas no campo de incidência do ICMS, o

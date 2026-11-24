@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "49"
 paginas_pdf: "19-19"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 49. As licitações e as contratações realizadas pelo CGIBS serão regidas pelas normas gerais de licitação e contratação

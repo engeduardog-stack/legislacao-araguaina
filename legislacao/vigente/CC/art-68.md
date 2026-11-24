@@ -4,7 +4,7 @@ sigla: CC
 artigo: "68"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 68. Quando a alteração não houver sido aprovada por votação unânime, os administradores da fundação, ao submeterem

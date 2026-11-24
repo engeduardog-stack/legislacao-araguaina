@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "37"
 paginas_pdf: "18-18"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 37. Na hipótese de rendimentos do trabalho assalariado recebidos em moeda estrangeira por servidores

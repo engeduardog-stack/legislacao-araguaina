@@ -4,7 +4,7 @@ sigla: L4502
 artigo: "53"
 paginas_pdf: "15-17"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 53. Serão consideradas, para efeitos fiscais, sem valor legal, e servirão de prova apenas em favor do fisco, as notas fiscais

@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "47"
 paginas_pdf: "43-43"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 47. O parcelamento dos tributos apurados na forma prevista no Simples Nacional não se

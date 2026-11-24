@@ -4,7 +4,7 @@ sigla: CTN
 artigo: "70"
 paginas_pdf: "9-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 70. Contribuinte do impôsto é o prestador do serviço.

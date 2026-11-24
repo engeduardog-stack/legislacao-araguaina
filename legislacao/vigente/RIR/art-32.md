@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "32"
 paginas_pdf: "9-9"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 32. As pessoas físicas ficam obrigadas a se inscrever no CPF, na forma, no prazo e nas condições

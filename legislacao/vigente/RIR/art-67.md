@@ -4,7 +4,7 @@ sigla: RIR
 artigo: "67"
 paginas_pdf: "29-29"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 67. Na determinação da base de cálculo sujeita à incidência mensal do imposto sobre a renda, poderão ser

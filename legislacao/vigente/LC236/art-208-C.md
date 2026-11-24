@@ -4,7 +4,7 @@ sigla: LC236
 artigo: "208-C"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-C. O julgamento dos processos de exigência de tributos e penalidades

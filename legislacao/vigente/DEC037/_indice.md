@@ -6,7 +6,7 @@ grupo: legislacao-vigente
 origem: "Decreto Municipal 037-2025 - Domicílio Eletrônico do Contribuinte (DEC).pdf"
 paginas: 36
 artigos: 92
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 # Decreto 037/2025 (Domicílio Eletrônico) (DEC037)

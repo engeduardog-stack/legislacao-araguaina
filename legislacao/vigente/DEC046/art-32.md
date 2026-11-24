@@ -4,7 +4,7 @@ sigla: DEC046
 artigo: "32"
 paginas_pdf: "4-4"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 32. Fica instituído o Registro Auxiliar de Nota Fiscal de

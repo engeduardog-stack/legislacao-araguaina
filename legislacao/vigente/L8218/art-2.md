@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "2"
 paginas_pdf: "1-2"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 2º - Em relação aos fatos geradores que vierem a ocorrer a partir do primeiro dia do mês de agosto de 1991,

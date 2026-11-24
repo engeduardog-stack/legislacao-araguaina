@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "45"
 paginas_pdf: "48-48"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 45. Para efeito do disposto no art. 44 desta Lei Complementar, ocorrendo o empate, proceder-se-á da

@@ -4,7 +4,7 @@ sigla: L8218
 artigo: "27-O"
 paginas_pdf: "8-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 ⟦RISCADO NO PDF: Art. 27 - O rendimento pago em cumprimento de decisão judicial será considerado líquido do imposto de renda,

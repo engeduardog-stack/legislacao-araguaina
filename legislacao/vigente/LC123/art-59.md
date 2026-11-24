@@ -4,7 +4,7 @@ sigla: LC123
 artigo: "59"
 paginas_pdf: "53-53"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 59. As instituições referidas no caput do art. 58 desta Lei Complementar devem se articular com as

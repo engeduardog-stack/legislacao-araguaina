@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "69"
 paginas_pdf: "33-33"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 69. A base de cálculo do IBS e da CBS na importação de bens materiais é o valor aduaneiro

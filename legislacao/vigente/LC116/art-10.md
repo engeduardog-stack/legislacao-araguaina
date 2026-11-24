@@ -4,7 +4,7 @@ sigla: LC116
 artigo: "10"
 paginas_pdf: "5-15"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 10. Ficam revogados os arts. 8o, 10, 11 e 12 do Decreto-Lei no 406, de 31 de dezembro de 1968; os incisos III,

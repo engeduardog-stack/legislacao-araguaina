@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "88"
 paginas_pdf: "65-65"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 88. O AINF será lavrado em 2 (duas) vias e deverá conter as seguintes informações: (Lei

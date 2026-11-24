@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "78"
 paginas_pdf: "26-26"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 78. Das decisões de primeira instância contrárias ao sujeito passivo, caberá recurso voluntário ao colegiado de segunda

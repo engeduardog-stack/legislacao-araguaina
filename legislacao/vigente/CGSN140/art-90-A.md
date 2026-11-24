@@ -4,7 +4,7 @@ sigla: CGSN140
 artigo: "90-A"
 paginas_pdf: "65-66"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 90-A. Observado o disposto no artigo 86, poderão ser utilizados alternativamente os

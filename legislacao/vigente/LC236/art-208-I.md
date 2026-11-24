@@ -4,7 +4,7 @@ sigla: LC236
 artigo: "208-I"
 paginas_pdf: "10-10"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 208-I. O trâmite e o julgamento do processo administrativo fiscal poderão ser

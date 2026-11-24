@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "20"
 paginas_pdf: "12-12"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 20. Os projetos de lei complementar que reduzam ou aumentem a arrecadação do IBS ou

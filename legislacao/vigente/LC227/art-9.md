@@ -4,7 +4,7 @@ sigla: LC227
 artigo: "9"
 paginas_pdf: "7-8"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 9º Os membros do Conselho Superior do CGIBS serão escolhidos entre cidadãos de reputação ilibada e de notório

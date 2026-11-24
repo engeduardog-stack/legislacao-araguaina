@@ -4,7 +4,7 @@ sigla: LC214
 artigo: "83"
 paginas_pdf: "38-39"
 situacao: vigente (trecho RISCADO NO PDF = redação antiga)
-extraido_em: 2026-11-23
+extraido_em: 2026-11-24
 ---
 
 Art. 83. A habilitação a que se refere o § 1º do art. 82 desta Lei Complementar poderá ser
