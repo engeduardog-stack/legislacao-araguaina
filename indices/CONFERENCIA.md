@@ -1,4 +1,4 @@
-# Conferência dos índices oficiais (coletado em 2026-11-23)
+# Conferência dos índices oficiais (coletado em 2026-11-24)
 
 - IPCA: IBGE 562 meses (198001 a 202610); BCB 382 meses; divergências: nenhuma.
 - INPC: IBGE 571 meses; divergências com BCB: nenhuma.
