@@ -1,0 +1,32 @@
+---
+norma: IN RFB 2.119/2022 (CNPJ; compilada em 24/11/2026, texto da API do Normas da RFB)
+sigla: IN2119
+artigo: "16"
+paginas_pdf: "3-3"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-24
+---
+
+Art. 16. São privativos da entidade os atos cadastrais relativos:
+I - ao nome empresarial;
+II - à natureza jurídica;
+III - ao capital social;
+IV - ao porte da empresa;
+V - ao representante da entidade perante o CNPJ;
+VI - ao preposto;
+VII - ao Quadro de Sócios e Administradores (QSA);
+VIII - ao ente federativo responsável, no caso de entidades da Administração Pública;
+IX - à falência;
+X - à recuperação judicial;
+XI - à intervenção;
+XII - ao inventário do empresário individual, do titular de empresa individual imobiliária, do titular da sociedade unipessoal de advogados ou do
+sócio da sociedade limitada composta por um único sócio pessoa física;
+XIII - à liquidação judicial ou extrajudicial;
+XIV - à incorporação;
+XV - à fusão;
+XVI - à cisão parcial ou total; e
+XVII - ao beneficiário final.
+CAPÍTULO III
+DA INSCRIÇÃO
+Seção I
+Da Inscrição de Entidade Domiciliada no Brasil

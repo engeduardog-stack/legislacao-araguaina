@@ -1,0 +1,25 @@
+---
+norma: IN RFB 2.119/2022 (CNPJ; compilada em 24/11/2026, texto da API do Normas da RFB)
+sigla: IN2119
+artigo: "12"
+paginas_pdf: "2-2"
+situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+extraido_em: 2026-11-24
+---
+
+Art. 12. As solicitações dos atos cadastrais no CNPJ devem ser realizadas no endereço eletrônico da página de Empresas e Negócios do Governo
+Federal, disponível no Anexo XIV, por intermédio dos seguintes serviços, conforme o caso:
+I - Redesim;
+II - Portal do Empreendedor, para o Microempreendedor Individual (MEI); ou
+III - Inova Simples.
+§ 1º As solicitações geradas pelo serviço Redesim podem ser acompanhadas no Portal Nacional da Redesim por meio do número do protocolo e
+devem ser assinadas eletronicamente por uma das pessoas físicas listadas abaixo:
+a) o Representante perante o CNPJ;
+b) o Preposto indicado pelo Representante;
+c) o Procurador da entidade indicado no e-CAC; e
+d) o preenchedor da solicitação.
+§ 2º A permissão para assinar as solicitações referidas no § 1º dependerá do tipo de ato solicitado e será controlada pelo serviço Redesim.
+§ 3º A análise das solicitações referentes ao MEI e ao Inova Simples é automática e imediata, sem a necessidade de envio de documentação por
+parte do contribuinte.
+Seção II
+Do Protocolo de Transmissão
