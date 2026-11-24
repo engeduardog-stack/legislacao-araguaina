@@ -3,7 +3,7 @@ norma: Lei 2.495/2006 (uso e ocupação do solo nas macrozonas urbanas; texto do
 sigla: LUOS2495
 artigo: "27"
 paginas_pdf: "12-12"
-situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+situacao: vigente COM ALTERAÇÕES, texto aqui é o ORIGINAL (anteprojeto do portal), NÃO consolidado. Art. 10, I e II: redação dada pelas LCM 188/2024 e 211/2025; ver também LCM002/2010, LCM006/2013 e LCM203/2025 (art. 21-B). Ler as leis alteradoras antes de citar
 extraido_em: 2026-11-24
 ---
 

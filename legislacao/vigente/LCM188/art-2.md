@@ -3,7 +3,7 @@ norma: LCM 188/2024 (altera Lei 2.495, art. 10 e Anexo I)
 sigla: LCM188
 artigo: "2"
 paginas_pdf: "1-2"
-situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+situacao: vigente, altera a Lei 2.495. Parcialmente alterada pela LCM 211/2025
 extraido_em: 2026-11-24
 ---
 

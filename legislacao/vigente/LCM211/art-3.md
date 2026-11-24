@@ -3,7 +3,7 @@ norma: LCM 211/2025 (altera Lei 2.495, LC 002/2010 e LC 188/2024)
 sigla: LCM211
 artigo: "3"
 paginas_pdf: "2-7"
-situacao: vigente (trecho RISCADO NO PDF = redação antiga)
+situacao: vigente, redação mais recente do art. 10, I e II da Lei 2.495 (25/06/2025)
 extraido_em: 2026-11-24
 ---
 
