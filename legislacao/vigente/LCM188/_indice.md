@@ -1,7 +1,7 @@
 ---
 titulo: "LCM 188/2024 (altera Lei 2.495, art. 10 e Anexo I)"
 sigla: LCM188
-situacao: vigente (conferir redação por data; trecho RISCADO NO PDF é redação antiga)
+situacao: vigente, altera a Lei 2.495. Parcialmente alterada pela LCM 211/2025
 grupo: legislacao-vigente
 origem: "Urbanismo e Uso do Solo\Lei Complementar Municipal 188-2024 - altera Lei 2495 (art. 10, Anexo I).pdf"
 paginas: 7
