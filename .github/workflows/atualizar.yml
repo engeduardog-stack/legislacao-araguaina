@@ -19,6 +19,10 @@ jobs:
           python-version: '3.12'
       - name: Indices oficiais (IBGE e Banco Central)
         run: python ferramentas/coletar_indices.py
+      - name: Atos do CGSN (Receita Federal)
+        continue-on-error: true
+        run: |
+          python ferramentas/baixar_normas_cgsn.py --saida "$RUNNER_TEMP/CGSN" && python ferramentas/cgsn_sync.py "$RUNNER_TEMP/CGSN"
       - name: Alerta do Diario Oficial de Araguaina
         run: python ferramentas/dom_alerta.py
       - name: Abrir Issue para revisao humana, se houver ato novo
